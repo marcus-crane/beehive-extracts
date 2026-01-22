@@ -3,6 +3,7 @@
   "title": "Maari Oil Flows",
   "url": "https://www.beehive.govt.nz/release/maari-oil-flows",
   "time": "2009-02-25T17:44:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Gerry Brownlee",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Maari_Oil_Field_Q%26A.pdf"
   ],
-  "scraped_at": "2026-01-18T22:19:10.02369407+13:00"
+  "scraped_at": "2026-01-22T10:58:10.415236711Z"
 }

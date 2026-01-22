@@ -3,6 +3,7 @@
   "title": "Prime Minister announces changes to Ministry",
   "url": "https://www.beehive.govt.nz/release/prime-minister-announces-changes-ministry",
   "time": "2014-01-21T15:45:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "John Key",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Ministerial_list_210114.pdf"
   ],
-  "scraped_at": "2026-01-18T23:50:08.664947612+13:00"
+  "scraped_at": "2026-01-22T10:58:11.109242892Z"
 }

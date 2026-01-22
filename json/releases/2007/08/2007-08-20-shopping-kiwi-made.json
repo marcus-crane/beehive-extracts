@@ -3,6 +3,7 @@
   "title": "Shopping Kiwi Made",
   "url": "https://www.beehive.govt.nz/release/shopping-kiwi-made",
   "time": "2007-08-20T11:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Sue Bradford",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Buy%20Kiwi%20Made%20FAQ.pdf"
   ],
-  "scraped_at": "2026-01-18T20:07:38.696459678+13:00"
+  "scraped_at": "2026-01-22T10:58:10.21523493Z"
 }

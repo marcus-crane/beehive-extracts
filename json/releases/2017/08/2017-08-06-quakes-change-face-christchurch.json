@@ -3,6 +3,7 @@
   "title": "Quakes change the face of Christchurch",
   "url": "https://www.beehive.govt.nz/release/quakes-change-face-christchurch",
   "time": "2017-08-06T08:49:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Nicky Wagner",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Greater%20Christchurch%20Dashboard%20-%20Population.pdf"
   ],
-  "scraped_at": "2026-01-18T03:39:09.917970506+13:00"
+  "scraped_at": "2026-01-22T10:58:11.633247559Z"
 }

@@ -3,6 +3,7 @@
   "title": "Heavy Vehicle Speed Limits Standardised",
   "url": "https://www.beehive.govt.nz/release/heavy-vehicle-speed-limits-standardised",
   "time": "2004-04-30T09:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Harry Duynhoven",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Heavy%20Vehicle%20Limits.doc"
   ],
-  "scraped_at": "2026-01-22T02:28:08.943062426+13:00"
+  "scraped_at": "2026-01-22T10:58:09.755230833Z"
 }

@@ -3,6 +3,7 @@
   "title": "Government Inquiry report released",
   "url": "https://www.beehive.govt.nz/release/government-inquiry-report-released",
   "time": "2014-11-25T11:43:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "John Key",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Inquiry-report-24-November-2014.pdf"
   ],
-  "scraped_at": "2026-01-18T02:52:18.460549513+13:00"
+  "scraped_at": "2026-01-22T10:58:11.214243828Z"
 }

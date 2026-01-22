@@ -3,6 +3,7 @@
   "title": "Auckland Update - June 2007",
   "url": "https://www.beehive.govt.nz/release/auckland-update-june-2007",
   "time": "2007-06-15T15:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Judith Tizard",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Auckland%20Update-%20June%20Edition.pdf"
   ],
-  "scraped_at": "2026-01-18T19:49:57.121195483+13:00"
+  "scraped_at": "2026-01-22T10:58:10.189234698Z"
 }

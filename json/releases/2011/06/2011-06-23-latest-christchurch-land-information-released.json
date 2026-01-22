@@ -3,6 +3,7 @@
   "title": "Latest Christchurch land information released",
   "url": "https://www.beehive.govt.nz/release/latest-christchurch-land-information-released",
   "time": "2011-06-23T14:01:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Gerry Brownlee",
@@ -24,5 +25,5 @@
     "https://www.beehive.govt.nz/sites/default/files/LandInformationMap.pdf",
     "https://www.beehive.govt.nz/sites/default/files/Payout%20scenarios.pdf"
   ],
-  "scraped_at": "2026-01-18T23:05:31.85702246+13:00"
+  "scraped_at": "2026-01-22T10:58:10.803240167Z"
 }

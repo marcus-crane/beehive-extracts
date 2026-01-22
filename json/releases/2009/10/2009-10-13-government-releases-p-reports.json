@@ -3,6 +3,7 @@
   "title": "Government releases ‘P’ reports",
   "url": "https://www.beehive.govt.nz/release/government-releases-p-reports",
   "time": "2009-10-13T19:18:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "John Key",
@@ -19,5 +20,5 @@
     "https://www.beehive.govt.nz/sites/default/files/ActionPlan.pdf",
     "https://www.beehive.govt.nz/sites/default/files/baseline_indicators.pdf"
   ],
-  "scraped_at": "2026-01-18T22:04:09.786316798+13:00"
+  "scraped_at": "2026-01-22T10:58:10.501237477Z"
 }

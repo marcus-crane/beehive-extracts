@@ -3,6 +3,7 @@
   "title": "New York Film Award for \"This is New Zealand\"",
   "url": "https://www.beehive.govt.nz/release/new-york-film-award-new-zealand",
   "time": "2007-02-03T11:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Judith Tizard",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/TINZ_Master003936.jpg"
   ],
-  "scraped_at": "2026-01-18T20:20:09.963028436+13:00"
+  "scraped_at": "2026-01-22T10:58:10.135234217Z"
 }

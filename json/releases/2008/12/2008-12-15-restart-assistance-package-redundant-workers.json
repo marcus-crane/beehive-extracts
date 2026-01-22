@@ -3,6 +3,7 @@
   "title": "ReStart assistance package for redundant workers",
   "url": "https://www.beehive.govt.nz/release/restart-assistance-package-redundant-workers",
   "time": "2008-12-15T16:28:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Paula Bennett",
@@ -22,5 +23,5 @@
     "https://www.beehive.govt.nz/sites/default/files/ReStartreddata151208.doc",
     "https://www.beehive.govt.nz/sites/default/files/ReStartScenarios151208.doc"
   ],
-  "scraped_at": "2026-01-18T22:15:21.406999465+13:00"
+  "scraped_at": "2026-01-22T10:58:10.400236578Z"
 }

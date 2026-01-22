@@ -3,6 +3,7 @@
   "title": "'Minister for NZ Music' releases annual NZ music quiz",
   "url": "https://www.beehive.govt.nz/release/minister-nz-music-releases-annual-nz-music-quiz",
   "time": "2006-05-01T16:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Judith Tizard",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/NZ%20Music%20Month%20quiz%20questions%202006.doc"
   ],
-  "scraped_at": "2026-01-18T16:59:09.301667244+13:00"
+  "scraped_at": "2026-01-22T10:58:10.030233282Z"
 }

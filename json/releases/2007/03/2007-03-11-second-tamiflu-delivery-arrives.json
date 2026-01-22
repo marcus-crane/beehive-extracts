@@ -3,6 +3,7 @@
   "title": "Second Tamiflu delivery arrives",
   "url": "https://www.beehive.govt.nz/release/second-tamiflu-delivery-arrives",
   "time": "2007-03-11T14:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Pete Hodgson",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/second%20tamiflu%20stock%20%28110307%29.doc"
   ],
-  "scraped_at": "2026-01-18T18:21:55.419359759+13:00"
+  "scraped_at": "2026-01-22T10:58:10.147234324Z"
 }

@@ -3,6 +3,7 @@
   "title": "Reponce to Life Insurance report",
   "url": "https://www.beehive.govt.nz/release/reponce-life-insurance-report",
   "time": "2005-05-27T14:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Pete Hodgson",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/LC%20report%20response.pdf"
   ],
-  "scraped_at": "2026-01-22T08:58:32.005082966+13:00"
+  "scraped_at": "2026-01-22T10:58:09.936232445Z"
 }

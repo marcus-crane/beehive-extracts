@@ -3,6 +3,7 @@
   "title": "Support for world’s smallest penguin",
   "url": "https://www.beehive.govt.nz/release/support-worlds-smallest-penguin",
   "time": "2015-09-18T14:26:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Nicky Wagner",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/1.jpg"
   ],
-  "scraped_at": "2026-01-18T02:06:48.157296661+13:00"
+  "scraped_at": "2026-01-22T10:58:11.321244781Z"
 }

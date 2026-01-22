@@ -3,6 +3,7 @@
   "title": "Facts and stats about the DHB nominations",
   "url": "https://www.beehive.govt.nz/release/facts-and-stats-about-dhb-nominations",
   "time": "2010-08-24T17:52:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Tony Ryall",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/DHB_nominations.pdf"
   ],
-  "scraped_at": "2026-01-18T20:39:17.746058372+13:00"
+  "scraped_at": "2026-01-22T10:58:10.669238974Z"
 }

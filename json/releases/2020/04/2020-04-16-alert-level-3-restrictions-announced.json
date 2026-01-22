@@ -3,6 +3,7 @@
   "title": "Alert Level 3 restrictions announced",
   "url": "https://www.beehive.govt.nz/release/alert-level-3-restrictions-announced",
   "time": "2020-04-16T01:23:35Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Rt Hon Jacinda Ardern",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/2020-04/COVID-19%20Alert%20Level%20Chart_Updated_16APR.PDF"
   ],
-  "scraped_at": "2026-01-17T23:32:24.355778678+13:00"
+  "scraped_at": "2026-01-22T10:58:11.940251267Z"
 }

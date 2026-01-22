@@ -3,6 +3,7 @@
   "title": "Ingram Report Released",
   "url": "https://www.beehive.govt.nz/release/ingram-report-released",
   "time": "2006-07-18T13:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Helen Clark",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Ingram%20Report.pdf"
   ],
-  "scraped_at": "2026-01-18T18:57:28.513153237+13:00"
+  "scraped_at": "2026-01-22T10:58:10.061233558Z"
 }

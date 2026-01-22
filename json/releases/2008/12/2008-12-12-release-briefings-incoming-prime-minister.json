@@ -3,6 +3,7 @@
   "title": "Release of briefings to the incoming Prime Minister",
   "url": "https://www.beehive.govt.nz/release/release-briefings-incoming-prime-minister",
   "time": "2008-12-12T11:16:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "John Key",
@@ -23,5 +24,5 @@
     "https://www.beehive.govt.nz/sites/default/files/TourismNZ_BIM.PDF",
     "https://www.beehive.govt.nz/sites/default/files/Vote_Tourism_1BIM_0.pdf"
   ],
-  "scraped_at": "2026-01-18T22:14:58.749694081+13:00"
+  "scraped_at": "2026-01-22T10:58:10.399236569Z"
 }

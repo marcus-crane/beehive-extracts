@@ -3,6 +3,7 @@
   "title": "Ministerial portfolios allocated",
   "url": "https://www.beehive.govt.nz/release/ministerial-portfolios-allocated",
   "time": "2005-10-19T12:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Helen Clark",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Cabinet%20portfolio%20list.pdf"
   ],
-  "scraped_at": "2026-01-18T15:49:47.073705731+13:00"
+  "scraped_at": "2026-01-22T10:58:09.978232819Z"
 }

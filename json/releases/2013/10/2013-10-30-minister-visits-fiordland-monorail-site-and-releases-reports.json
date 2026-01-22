@@ -3,6 +3,7 @@
   "title": "Minister visits Fiordland monorail site and releases reports",
   "url": "https://www.beehive.govt.nz/release/minister-visits-fiordland-monorail-site-and-releases-reports",
   "time": "2013-10-30T15:39:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Nick Smith",
@@ -19,5 +20,5 @@
     "https://www.beehive.govt.nz/sites/default/files/Hearing_Commissioners_report.pdf",
     "https://www.beehive.govt.nz/sites/default/files/DOC_officers_report.pdf"
   ],
-  "scraped_at": "2026-01-19T00:54:00.655107198+13:00"
+  "scraped_at": "2026-01-22T10:58:11.080242634Z"
 }

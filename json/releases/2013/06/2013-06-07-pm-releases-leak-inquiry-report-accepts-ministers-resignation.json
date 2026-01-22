@@ -3,6 +3,7 @@
   "title": "PM releases leak inquiry report, accepts Minister’s resignation",
   "url": "https://www.beehive.govt.nz/release/pm-releases-leak-inquiry-report-accepts-ministers-resignation",
   "time": "2013-06-07T16:23:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "John Key",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Henry%20Report.pdf"
   ],
-  "scraped_at": "2026-01-18T23:12:53.978439977+13:00"
+  "scraped_at": "2026-01-22T10:58:11.023242127Z"
 }

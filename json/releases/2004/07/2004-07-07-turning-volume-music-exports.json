@@ -3,6 +3,7 @@
   "title": "Turning up the volume on music exports",
   "url": "https://www.beehive.govt.nz/release/turning-volume-music-exports",
   "time": "2004-07-07T18:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Jim Anderton",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/music%20report.pdf"
   ],
-  "scraped_at": "2026-01-22T20:44:53.800804311+13:00"
+  "scraped_at": "2026-01-22T10:58:09.793231171Z"
 }

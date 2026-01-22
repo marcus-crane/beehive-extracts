@@ -3,6 +3,7 @@
   "title": "Inspector-General’s report released by PM",
   "url": "https://www.beehive.govt.nz/release/inspector-generals-report-released-pm",
   "time": "2012-09-27T13:47:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "John Key",
@@ -21,5 +22,5 @@
     "https://www.beehive.govt.nz/sites/default/files/Neazor_report.pdf",
     "https://www.beehive.govt.nz/sites/default/files/Ian_Fletcher.pdf"
   ],
-  "scraped_at": "2026-01-19T00:04:56.559857059+13:00"
+  "scraped_at": "2026-01-22T10:58:10.934241334Z"
 }

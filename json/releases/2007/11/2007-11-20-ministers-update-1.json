@@ -3,6 +3,7 @@
   "title": "Minister’s Update",
   "url": "https://www.beehive.govt.nz/release/ministers-update-1",
   "time": "2007-11-20T12:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Rick Barker",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/CD%20Nov%20newsletter.pdf"
   ],
-  "scraped_at": "2026-01-18T18:27:18.336054947+13:00"
+  "scraped_at": "2026-01-22T10:58:10.252235259Z"
 }

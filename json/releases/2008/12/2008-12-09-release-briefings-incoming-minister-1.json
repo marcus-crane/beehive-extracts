@@ -3,6 +3,7 @@
   "title": "Release of Briefings to Incoming Minister",
   "url": "https://www.beehive.govt.nz/release/release-briefings-incoming-minister-1",
   "time": "2008-12-09T14:59:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Pansy Wong",
@@ -19,5 +20,5 @@
     "https://www.beehive.govt.nz/sites/default/files/Ethnic_Affairs_BIM_1.pdf",
     "https://www.beehive.govt.nz/sites/default/files/Womens_Affairs_BIM_0.pdf"
   ],
-  "scraped_at": "2026-01-18T22:14:23.494631661+13:00"
+  "scraped_at": "2026-01-22T10:58:10.396236542Z"
 }

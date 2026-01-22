@@ -3,6 +3,7 @@
   "title": "New marine reserves on West Coast opened",
   "url": "https://www.beehive.govt.nz/release/new-marine-reserves-west-coast-opened",
   "time": "2014-09-07T10:03:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Nick Smith",
@@ -20,5 +21,5 @@
     "https://www.beehive.govt.nz/sites/default/files/Map-West-Coast-marine-reserves.pdf",
     "https://www.beehive.govt.nz/sites/default/files/Map-West-Coast-marine-reserves-within-the-marine-reserve-network-in-New-Zealand.pdf"
   ],
-  "scraped_at": "2026-01-18T23:07:09.497282272+13:00"
+  "scraped_at": "2026-01-22T10:58:11.198243685Z"
 }

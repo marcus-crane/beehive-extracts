@@ -3,6 +3,7 @@
   "title": "New Zealand regional labour market reports",
   "url": "https://www.beehive.govt.nz/release/new-zealand-regional-labour-market-reports",
   "time": "2003-01-20T01:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Steve Maharey",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Overview.pdf"
   ],
-  "scraped_at": "2026-01-22T09:02:27.731530996+13:00"
+  "scraped_at": "2026-01-22T10:58:09.586229328Z"
 }

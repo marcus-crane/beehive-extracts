@@ -3,6 +3,7 @@
   "title": "New Zealand's public hospitals busier than ever",
   "url": "https://www.beehive.govt.nz/release/new-zealands-public-hospitals-busier-ever",
   "time": "2006-08-23T15:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Pete Hodgson",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Hospital%20data.pdf"
   ],
-  "scraped_at": "2026-01-18T19:43:49.515712341+13:00"
+  "scraped_at": "2026-01-22T10:58:10.083233754Z"
 }

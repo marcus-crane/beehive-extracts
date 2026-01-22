@@ -3,6 +3,7 @@
   "title": "Prime Minister welcomes Royal baby",
   "url": "https://www.beehive.govt.nz/release/prime-minister-welcomes-royal-baby",
   "time": "2013-07-23T08:57:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "John Key",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Royal%20baby%20gift%20backgrounder.pdf"
   ],
-  "scraped_at": "2026-01-19T00:49:08.702851609+13:00"
+  "scraped_at": "2026-01-22T10:58:11.041242287Z"
 }

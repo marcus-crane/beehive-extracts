@@ -3,6 +3,7 @@
   "title": "Auckland building activity at all-time high",
   "url": "https://www.beehive.govt.nz/release/auckland-building-activity-all-time-high",
   "time": "2016-06-21T14:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Nick Smith",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/4%20Auckland%20Building%20Activity.pdf"
   ],
-  "scraped_at": "2026-01-18T03:03:18.487180134+13:00"
+  "scraped_at": "2026-01-22T10:58:11.465246063Z"
 }

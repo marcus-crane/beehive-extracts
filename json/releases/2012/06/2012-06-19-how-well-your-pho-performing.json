@@ -3,6 +3,7 @@
   "title": "How well is your PHO performing?",
   "url": "https://www.beehive.govt.nz/release/how-well-your-pho-performing",
   "time": "2012-06-19T13:59:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Tony Ryall",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/PHO_League_Table%20_March_2012.pdf"
   ],
-  "scraped_at": "2026-01-19T01:03:22.065477004+13:00"
+  "scraped_at": "2026-01-22T10:58:10.90124104Z"
 }

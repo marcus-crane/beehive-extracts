@@ -3,6 +3,7 @@
   "title": "Canterbury economic forecast positive for 2003",
   "url": "https://www.beehive.govt.nz/release/canterbury-economic-forecast-positive-2003",
   "time": "2003-01-20T01:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Steve Maharey",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Canterbury.pdf"
   ],
-  "scraped_at": "2026-01-22T09:02:42.607630871+13:00"
+  "scraped_at": "2026-01-22T10:58:09.586229328Z"
 }

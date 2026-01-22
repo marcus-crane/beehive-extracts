@@ -3,6 +3,7 @@
   "title": "Release of final set of reviews",
   "url": "https://www.beehive.govt.nz/release/release-final-set-reviews",
   "time": "2005-06-23T14:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Trevor Mallard",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Review%20summary%20of%20decisions%20made%20in%202005.pdf"
   ],
-  "scraped_at": "2026-01-22T20:40:29.547932881+13:00"
+  "scraped_at": "2026-01-22T10:58:09.948232552Z"
 }

@@ -3,6 +3,7 @@
   "title": "Renewed Cabinet line-up",
   "url": "https://www.beehive.govt.nz/release/renewed-cabinet-line",
   "time": "2007-10-31T12:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Helen Clark",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Ministerial%20List.DOC"
   ],
-  "scraped_at": "2026-01-18T18:11:47.918410666+13:00"
+  "scraped_at": "2026-01-22T10:58:10.245235197Z"
 }

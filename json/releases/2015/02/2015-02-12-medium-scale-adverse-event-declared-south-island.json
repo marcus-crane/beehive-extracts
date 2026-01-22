@@ -3,6 +3,7 @@
   "title": "Medium scale adverse event declared in South Island",
   "url": "https://www.beehive.govt.nz/release/medium-scale-adverse-event-declared-south-island",
   "time": "2015-02-12T12:24:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Nathan Guy",
@@ -19,5 +20,5 @@
     "https://www.beehive.govt.nz/sites/default/files/Medium-Scale-Classification.jpg",
     "https://www.beehive.govt.nz/sites/default/files/Rainfall-deciles.png"
   ],
-  "scraped_at": "2026-01-18T01:56:51.767507158+13:00"
+  "scraped_at": "2026-01-22T10:58:11.234244006Z"
 }

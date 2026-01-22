@@ -3,6 +3,7 @@
   "title": "Protocol signed with private trainers organisation",
   "url": "https://www.beehive.govt.nz/release/protocol-signed-private-trainers-organisation",
   "time": "2003-09-17T10:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Steve Maharey",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/NZAPEP%20protocol.pdf"
   ],
-  "scraped_at": "2026-01-22T17:37:07.349224049+13:00"
+  "scraped_at": "2026-01-22T10:58:09.673230102Z"
 }

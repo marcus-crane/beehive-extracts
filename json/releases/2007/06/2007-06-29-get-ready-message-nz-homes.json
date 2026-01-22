@@ -3,6 +3,7 @@
   "title": "'Get Ready’ message for NZ homes",
   "url": "https://www.beehive.govt.nz/release/get-ready-message-nz-homes",
   "time": "2007-06-29T14:00:00Z",
+  "content_type": "releases",
   "ministers": [
     {
       "name": "Rick Barker",
@@ -18,5 +19,5 @@
   "attachments": [
     "https://www.beehive.govt.nz/sites/default/files/Emergency_Checklist.pdf"
   ],
-  "scraped_at": "2026-01-18T19:51:56.708897538+13:00"
+  "scraped_at": "2026-01-22T10:58:10.196234761Z"
 }
