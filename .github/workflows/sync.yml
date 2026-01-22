@@ -25,7 +25,7 @@ jobs:
           go-version: '1.21'
 
       - name: Install beehive-exports
-        run: go install github.com/marcus-crane/beehive-exporter/cmd/beehive-exports@latest
+        run: go install github.com/marcus-crane/beehive-exporter/cmd/beehive-exports@v0.0.1
 
       - name: Index latest releases
         run: beehive-exports archive --pages 2
