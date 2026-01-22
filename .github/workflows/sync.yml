@@ -47,7 +47,28 @@ jobs:
           git config user.name "Helper Bot"
           git config user.email "helper@utf9k.net"
           git add raw/ json/ discovery-index/ index.json url-index.json
-          git diff --staged --quiet || git commit -m "Sync releases $(date -u +%Y-%m-%d-%H%M)"
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Build commit message from staged changes
+          ADDED=$(git diff --staged --numstat | wc -l | xargs)
+          INSERTIONS=$(git diff --staged --shortstat | grep -oE '[0-9]+ insertion' | grep -oE '[0-9]+' || echo "0")
+          DELETIONS=$(git diff --staged --shortstat | grep -oE '[0-9]+ deletion' | grep -oE '[0-9]+' || echo "0")
+
+          # Count actual file changes
+          NEW=$(git diff --staged --name-status | grep -c '^A' || echo "0")
+          MODIFIED=$(git diff --staged --name-status | grep -c '^M' || echo "0")
+          DELETED=$(git diff --staged --name-status | grep -c '^D' || echo "0")
+
+          MSG=""
+          [ "$NEW" -gt 0 ] && MSG="${NEW} added"
+          [ "$MODIFIED" -gt 0 ] && MSG="${MSG:+$MSG, }${MODIFIED} modified"
+          [ "$DELETED" -gt 0 ] && MSG="${MSG:+$MSG, }${DELETED} removed"
+
+          git commit -m "${MSG:-Updates}"
           git push
 
       - name: Copy and commit markdown
@@ -59,5 +80,21 @@ jobs:
           git config user.name "Helper Bot"
           git config user.email "helper@utf9k.net"
           git add .
-          git diff --staged --quiet || git commit -m "Sync releases $(date -u +%Y-%m-%d-%H%M)"
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Build commit message from staged changes
+          NEW=$(git diff --staged --name-status | grep -c '^A' || echo "0")
+          MODIFIED=$(git diff --staged --name-status | grep -c '^M' || echo "0")
+          DELETED=$(git diff --staged --name-status | grep -c '^D' || echo "0")
+
+          MSG=""
+          [ "$NEW" -gt 0 ] && MSG="${NEW} added"
+          [ "$MODIFIED" -gt 0 ] && MSG="${MSG:+$MSG, }${MODIFIED} modified"
+          [ "$DELETED" -gt 0 ] && MSG="${MSG:+$MSG, }${DELETED} removed"
+
+          git commit -m "${MSG:-Updates}"
           git push
