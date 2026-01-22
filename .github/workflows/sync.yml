@@ -1,0 +1,63 @@
+name: Sync Releases
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout beehive-extracts
+        uses: actions/checkout@v4
+
+      - name: Checkout beehive-markdown
+        uses: actions/checkout@v4
+        with:
+          repository: marcus-crane/beehive-markdown
+          path: markdown-repo
+          token: ${{ secrets.MARKDOWN_REPO_PAT }}
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Install beehive-exports
+        run: go install github.com/marcus-crane/beehive-exporter/cmd/beehive-exports@latest
+
+      - name: Index latest releases
+        run: beehive-exports archive --pages 2
+        env:
+          BROWSERLESS_URL: ${{ secrets.BROWSERLESS_URL }}
+          BROWSERLESS_TOKEN: ${{ secrets.BROWSERLESS_TOKEN }}
+
+      - name: Fetch new releases
+        run: beehive-exports fetch
+        env:
+          BROWSERLESS_URL: ${{ secrets.BROWSERLESS_URL }}
+          BROWSERLESS_TOKEN: ${{ secrets.BROWSERLESS_TOKEN }}
+
+      - name: Process releases
+        run: beehive-exports process
+
+      - name: Commit raw + JSON
+        run: |
+          git config user.name "Helper Bot"
+          git config user.email "helper@utf9k.net"
+          git add raw/ json/ discovery-index/ index.json url-index.json
+          git diff --staged --quiet || git commit -m "Sync releases $(date -u +%Y-%m-%d-%H%M)"
+          git push
+
+      - name: Copy and commit markdown
+        run: |
+          # Copy faceted markdown structure
+          rsync -av --delete markdown/releases/ markdown-repo/releases/
+          rsync -av --delete markdown/speeches/ markdown-repo/speeches/ 2>/dev/null || true
+          cd markdown-repo
+          git config user.name "Helper Bot"
+          git config user.email "helper@utf9k.net"
+          git add .
+          git diff --staged --quiet || git commit -m "Sync releases $(date -u +%Y-%m-%d-%H%M)"
+          git push
