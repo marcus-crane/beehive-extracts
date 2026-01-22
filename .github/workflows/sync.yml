@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *'  # Every hour
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -59,9 +62,9 @@ jobs:
           DELETIONS=$(git diff --staged --shortstat | grep -oE '[0-9]+ deletion' | grep -oE '[0-9]+' || echo "0")
 
           # Count actual file changes
-          NEW=$(git diff --staged --name-status | grep -c '^A' || echo "0")
-          MODIFIED=$(git diff --staged --name-status | grep -c '^M' || echo "0")
-          DELETED=$(git diff --staged --name-status | grep -c '^D' || echo "0")
+          NEW=$(git diff --staged --name-status | grep -c '^A' || true)
+          MODIFIED=$(git diff --staged --name-status | grep -c '^M' || true)
+          DELETED=$(git diff --staged --name-status | grep -c '^D' || true)
 
           MSG=""
           [ "$NEW" -gt 0 ] && MSG="${NEW} added"
@@ -87,9 +90,9 @@ jobs:
           fi
 
           # Build commit message from staged changes
-          NEW=$(git diff --staged --name-status | grep -c '^A' || echo "0")
-          MODIFIED=$(git diff --staged --name-status | grep -c '^M' || echo "0")
-          DELETED=$(git diff --staged --name-status | grep -c '^D' || echo "0")
+          NEW=$(git diff --staged --name-status | grep -c '^A' || true)
+          MODIFIED=$(git diff --staged --name-status | grep -c '^M' || true)
+          DELETED=$(git diff --staged --name-status | grep -c '^D' || true)
 
           MSG=""
           [ "$NEW" -gt 0 ] && MSG="${NEW} added"
