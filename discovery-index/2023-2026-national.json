@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-01-22T21:21:11Z",
-  "total_releases": 3443,
+  "last_indexed_at": "2026-01-23T21:18:08Z",
+  "total_releases": 3445,
   "releases": {
     "2023-11": [
       {
@@ -17269,6 +17269,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/provisional-data-shows-term-4-attendance-continues-rise",
         "date": "2026-01-22T21:13:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/south-auckland-gets-new-crisis-recovery-caf%C3%A9",
+        "date": "2026-01-22T22:48:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/10m-investment-new-ringat%C5%AB-marae-complex",
+        "date": "2026-01-23T05:03:23Z",
         "content_type": "releases"
       }
     ]
