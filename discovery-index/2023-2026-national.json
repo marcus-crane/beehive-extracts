@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-01-23T21:18:08Z",
-  "total_releases": 3445,
+  "last_indexed_at": "2026-01-29T07:56:04Z",
+  "total_releases": 3468,
   "releases": {
     "2023-11": [
       {
@@ -17279,6 +17279,121 @@
       {
         "url": "https://www.beehive.govt.nz/release/10m-investment-new-ringat%C5%AB-marae-complex",
         "date": "2026-01-23T05:03:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/work-begins-new-inpatient-ward-hawke%E2%80%99s-bay-hospital",
+        "date": "2026-01-25T19:38:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/raglan-make-waves-world-surf-league-tour",
+        "date": "2026-01-25T21:18:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/airport-upgrade-strengthen-regional-resilience",
+        "date": "2026-01-25T22:16:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-doc-cadetship-programme-launched-build-future-conservation-workforce",
+        "date": "2026-01-26T00:05:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/accommodation-support-recent-severe-weather-events",
+        "date": "2026-01-26T05:57:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-gears-help-storm-hit-regions",
+        "date": "2026-01-27T01:02:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/1m-marae-providing-support-following-weather-events",
+        "date": "2026-01-27T01:37:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-provides-additional-support-storm-hit-farmers-and-growers",
+        "date": "2026-01-27T17:49:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/budget-date-announced-0",
+        "date": "2026-01-27T20:40:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/advice-being-considered-rockpool-gathering",
+        "date": "2026-01-27T21:16:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/inter-agency-hub-mandatory-training-keep-kids-safe",
+        "date": "2026-01-27T22:00:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/collins-be-appointed-head-law-commission",
+        "date": "2026-01-27T22:30:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/common-sense-health-and-safety-will-save-3-billion",
+        "date": "2026-01-27T22:54:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/motorhomes-way-weather-displaced-people",
+        "date": "2026-01-28T01:37:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/next-steps-fix-basics-science-funding",
+        "date": "2026-01-28T02:58:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/funding-boost-nelson-marina-project",
+        "date": "2026-01-28T21:01:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/health-and-wellbeing-support-underway-storm-hit-communities",
+        "date": "2026-01-28T22:00:26Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/urgent-transport-recovery-work-continues-north-island",
+        "date": "2026-01-28T23:25:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/emergency-payments-following-north-island-severe-weather-event",
+        "date": "2026-01-29T00:19:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rail-rebuild-complete-crl-moves-final-phase",
+        "date": "2026-01-29T01:06:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-specialist-schools-50-years-be-built",
+        "date": "2026-01-29T01:24:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-boosts-productivity-taranaki-land",
+        "date": "2026-01-29T04:31:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/crown-and-ng%C4%81ti-h%C4%81ua-strengthen-relationship",
+        "date": "2026-01-29T04:36:08Z",
         "content_type": "releases"
       }
     ]
