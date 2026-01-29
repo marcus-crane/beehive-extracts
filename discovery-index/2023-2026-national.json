@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-01-29T07:56:04Z",
-  "total_releases": 3468,
+  "last_indexed_at": "2026-01-29T23:09:39Z",
+  "total_releases": 3469,
   "releases": {
     "2023-11": [
       {
@@ -17394,6 +17394,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/crown-and-ng%C4%81ti-h%C4%81ua-strengthen-relationship",
         "date": "2026-01-29T04:36:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/supporting-safety-wellbeing-and-skills-development-new-zealand%E2%80%99s-farmers",
+        "date": "2026-01-29T23:00:19Z",
         "content_type": "releases"
       }
     ]
