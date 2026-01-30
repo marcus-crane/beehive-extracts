@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-01-30T03:00:01Z",
-  "total_releases": 3474,
+  "last_indexed_at": "2026-01-30T03:53:06Z",
+  "total_releases": 3475,
   "releases": {
     "2023-11": [
       {
@@ -17424,6 +17424,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/liaison-officer-deployment-israel-extended",
         "date": "2026-01-30T02:24:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/support-schools-and-families-affected-weather-event",
+        "date": "2026-01-30T03:14:17Z",
         "content_type": "releases"
       }
     ]
