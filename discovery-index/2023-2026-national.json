@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-01-30T00:26:14Z",
-  "total_releases": 3470,
+  "last_indexed_at": "2026-01-30T03:00:01Z",
+  "total_releases": 3474,
   "releases": {
     "2023-11": [
       {
@@ -17404,6 +17404,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/supporting-safety-wellbeing-and-skills-development-new-zealand%E2%80%99s-farmers",
         "date": "2026-01-29T23:00:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-forensic-mental-health-facility-opens-auckland",
+        "date": "2026-01-30T01:28:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/temporary-accommodation-and-marae-support-delivered",
+        "date": "2026-01-30T01:54:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/native-forest-restoration-track-northland",
+        "date": "2026-01-30T02:01:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/liaison-officer-deployment-israel-extended",
+        "date": "2026-01-30T02:24:08Z",
         "content_type": "releases"
       }
     ]
