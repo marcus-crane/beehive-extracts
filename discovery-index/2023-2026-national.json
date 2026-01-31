@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-01-30T03:53:06Z",
-  "total_releases": 3475,
+  "last_indexed_at": "2026-01-31T17:08:53Z",
+  "total_releases": 3476,
   "releases": {
     "2023-11": [
       {
@@ -17429,6 +17429,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/support-schools-and-families-affected-weather-event",
         "date": "2026-01-30T03:14:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-cuts-biosecurity-levy-international-travellers",
+        "date": "2026-01-31T16:56:59Z",
         "content_type": "releases"
       }
     ]
