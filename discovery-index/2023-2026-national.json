@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-01-31T17:08:53Z",
-  "total_releases": 3476,
+  "last_indexed_at": "2026-01-31T23:07:08Z",
+  "total_releases": 3477,
   "releases": {
     "2023-11": [
       {
@@ -17434,6 +17434,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-cuts-biosecurity-levy-international-travellers",
         "date": "2026-01-31T16:56:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/faster-access-adhd-support-coming",
+        "date": "2026-01-31T22:25:31Z",
         "content_type": "releases"
       }
     ]
