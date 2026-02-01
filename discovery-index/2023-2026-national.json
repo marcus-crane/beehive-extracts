@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-01T00:31:18Z",
-  "total_releases": 3478,
+  "last_indexed_at": "2026-02-01T23:08:28Z",
+  "total_releases": 3479,
   "releases": {
     "2023-11": [
       {
@@ -17444,6 +17444,13 @@
       {
         "url": "https://www.beehive.govt.nz/release/easier-prescriptions-put-more-money-patients%E2%80%99-pockets",
         "date": "2026-01-31T23:46:30Z",
+        "content_type": "releases"
+      }
+    ],
+    "2026-02": [
+      {
+        "url": "https://www.beehive.govt.nz/release/more-graduate-doctors-set-train-west-coast",
+        "date": "2026-02-01T22:13:50Z",
         "content_type": "releases"
       }
     ]
