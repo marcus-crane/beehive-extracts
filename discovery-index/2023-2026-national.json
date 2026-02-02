@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-02T03:05:59Z",
-  "total_releases": 3481,
+  "last_indexed_at": "2026-02-02T23:09:48Z",
+  "total_releases": 3485,
   "releases": {
     "2023-11": [
       {
@@ -17461,6 +17461,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/assessment-and-reporting-changes-parents-shine-light-learning",
         "date": "2026-02-02T01:48:03Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/driver-licence-support-programme-changing-lives",
+        "date": "2026-02-02T21:34:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/midwives-deliver-more-vaccinations-help-protect-families",
+        "date": "2026-02-02T22:08:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/changes-driver-licensing-system-announced",
+        "date": "2026-02-02T22:16:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rif-investment-supports-m%C4%81ori-initiatives",
+        "date": "2026-02-02T23:00:00Z",
         "content_type": "releases"
       }
     ]
