@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-03T22:11:13Z",
-  "total_releases": 3497,
+  "last_indexed_at": "2026-02-03T23:10:58Z",
+  "total_releases": 3499,
   "releases": {
     "2023-11": [
       {
@@ -17541,6 +17541,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-pharmac-proposal-cancer-patients-world-cancer-day",
         "date": "2026-02-03T22:01:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-pilots-wild-deer-control-programme",
+        "date": "2026-02-03T22:23:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/keeping-patients-centre-world-cancer-day",
+        "date": "2026-02-03T22:37:10Z",
         "content_type": "releases"
       }
     ]
