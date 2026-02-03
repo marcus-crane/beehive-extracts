@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-03T03:03:27Z",
-  "total_releases": 3491,
+  "last_indexed_at": "2026-02-03T20:13:20Z",
+  "total_releases": 3494,
   "releases": {
     "2023-11": [
       {
@@ -17511,6 +17511,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/public-sector-code-strengthen-integrity",
         "date": "2026-02-03T02:21:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/key-learning-support-package-rolls-out-term-1",
+        "date": "2026-02-03T19:47:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/important-treaty-grounds-route-upgraded",
+        "date": "2026-02-03T20:08:51Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-backs-fusion-energy-research",
+        "date": "2026-02-03T20:11:25Z",
         "content_type": "releases"
       }
     ]
