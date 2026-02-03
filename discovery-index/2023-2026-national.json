@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-03T20:13:20Z",
-  "total_releases": 3494,
+  "last_indexed_at": "2026-02-03T21:13:17Z",
+  "total_releases": 3496,
   "releases": {
     "2023-11": [
       {
@@ -17526,6 +17526,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-backs-fusion-energy-research",
         "date": "2026-02-03T20:11:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/investing-future-west-coast-ports",
+        "date": "2026-02-03T20:32:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/te-whare-kounga-gives-wairoa-students-more-options",
+        "date": "2026-02-03T20:39:32Z",
         "content_type": "releases"
       }
     ]
