@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-03T01:37:21Z",
-  "total_releases": 3490,
+  "last_indexed_at": "2026-02-03T03:03:27Z",
+  "total_releases": 3491,
   "releases": {
     "2023-11": [
       {
@@ -17506,6 +17506,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/all-six-rural-pilot-sites-rolled-out",
         "date": "2026-02-03T01:27:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/public-sector-code-strengthen-integrity",
+        "date": "2026-02-03T02:21:02Z",
         "content_type": "releases"
       }
     ]
