@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-02T23:09:48Z",
-  "total_releases": 3485,
+  "last_indexed_at": "2026-02-03T00:28:45Z",
+  "total_releases": 3489,
   "releases": {
     "2023-11": [
       {
@@ -17481,6 +17481,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/rif-investment-supports-m%C4%81ori-initiatives",
         "date": "2026-02-02T23:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/water-storage-investment-supports-regional-resilience-and-long-term-food-production",
+        "date": "2026-02-02T23:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/joint-statement-new-zealand-foreign-minister-winston-peters-and-german-federal-foreign",
+        "date": "2026-02-02T23:31:03Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/joint-statement-antarctic-cooperation-between-government-federal-republic-germany-and",
+        "date": "2026-02-02T23:35:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-and-germany-strengthen-partnership",
+        "date": "2026-02-02T23:40:16Z",
         "content_type": "releases"
       }
     ]
