@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-05T06:23:46Z",
-  "total_releases": 3506,
+  "last_indexed_at": "2026-02-05T07:25:00Z",
+  "total_releases": 3507,
   "releases": {
     "2023-11": [
       {
@@ -17586,6 +17586,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/rif-investment-supports-m%C4%81ori-horticulture",
         "date": "2026-02-05T04:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ministers-welcome-settlement-psychologists",
+        "date": "2026-02-05T07:01:14Z",
         "content_type": "releases"
       }
     ]
