@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-04T19:19:29Z",
-  "total_releases": 3504,
+  "last_indexed_at": "2026-02-05T04:37:37Z",
+  "total_releases": 3505,
   "releases": {
     "2023-11": [
       {
@@ -17576,6 +17576,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/taranaki-green-hydrogen-energy-project-starts",
         "date": "2026-02-04T19:05:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/joint-action-stops-42-tonnes-cocaine",
+        "date": "2026-02-05T03:39:36Z",
         "content_type": "releases"
       }
     ]
