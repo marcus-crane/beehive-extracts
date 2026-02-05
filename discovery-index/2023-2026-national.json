@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-05T04:37:37Z",
-  "total_releases": 3505,
+  "last_indexed_at": "2026-02-05T06:23:46Z",
+  "total_releases": 3506,
   "releases": {
     "2023-11": [
       {
@@ -17581,6 +17581,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/joint-action-stops-42-tonnes-cocaine",
         "date": "2026-02-05T03:39:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rif-investment-supports-m%C4%81ori-horticulture",
+        "date": "2026-02-05T04:00:00Z",
         "content_type": "releases"
       }
     ]
