@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-05T07:25:00Z",
-  "total_releases": 3507,
+  "last_indexed_at": "2026-02-06T00:25:41Z",
+  "total_releases": 3508,
   "releases": {
     "2023-11": [
       {
@@ -17591,6 +17591,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/ministers-welcome-settlement-psychologists",
         "date": "2026-02-05T07:01:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rif-funding-supports-100-new-homes-kaikohe",
+        "date": "2026-02-05T23:11:22Z",
         "content_type": "releases"
       }
     ]
