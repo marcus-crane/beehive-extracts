@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-06T21:10:53Z",
-  "total_releases": 3510,
+  "last_indexed_at": "2026-02-07T23:09:55Z",
+  "total_releases": 3512,
   "releases": {
     "2023-11": [
       {
@@ -17606,6 +17606,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/tails-wagging-over-1700-pet-bonds-lodged",
         "date": "2026-02-06T20:02:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/breakthrough-sh2-waioweka-gorge",
+        "date": "2026-02-07T22:37:18Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/replacement-century-old-canterbury-bridges-begins",
+        "date": "2026-02-07T22:46:36Z",
         "content_type": "releases"
       }
     ]
