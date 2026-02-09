@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-08T23:10:29Z",
-  "total_releases": 3513,
+  "last_indexed_at": "2026-02-09T00:29:00Z",
+  "total_releases": 3514,
   "releases": {
     "2023-11": [
       {
@@ -17616,6 +17616,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/replacement-century-old-canterbury-bridges-begins",
         "date": "2026-02-07T22:46:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-uae-partnership-boosts-advanced-tech-capability",
+        "date": "2026-02-08T20:00:31Z",
         "content_type": "releases"
       },
       {
