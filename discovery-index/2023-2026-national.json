@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-09T00:29:00Z",
-  "total_releases": 3514,
+  "last_indexed_at": "2026-02-09T01:37:37Z",
+  "total_releases": 3515,
   "releases": {
     "2023-11": [
       {
@@ -17626,6 +17626,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-trans-tasman-standards-agreement-signed",
         "date": "2026-02-08T22:56:33Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/dedicated-dialysis-service-opens-invercargill",
+        "date": "2026-02-09T00:55:22Z",
         "content_type": "releases"
       }
     ]
