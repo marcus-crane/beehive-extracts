@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-09T04:45:41Z",
-  "total_releases": 3518,
+  "last_indexed_at": "2026-02-09T05:34:54Z",
+  "total_releases": 3519,
   "releases": {
     "2023-11": [
       {
@@ -17646,6 +17646,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-backs-energy-resilience-far-north",
         "date": "2026-02-09T04:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/delivering-lng-support-energy-security",
+        "date": "2026-02-09T04:53:32Z",
         "content_type": "releases"
       }
     ]
