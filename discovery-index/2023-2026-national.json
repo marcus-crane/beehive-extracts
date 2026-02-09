@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-09T05:34:54Z",
-  "total_releases": 3519,
+  "last_indexed_at": "2026-02-09T19:32:31Z",
+  "total_releases": 3520,
   "releases": {
     "2023-11": [
       {
@@ -17651,6 +17651,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/delivering-lng-support-energy-security",
         "date": "2026-02-09T04:53:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/full-steam-ahead-more-events-set-ignite-2026",
+        "date": "2026-02-09T19:08:59Z",
         "content_type": "releases"
       }
     ]
