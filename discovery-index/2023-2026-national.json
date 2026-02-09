@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-09T03:06:35Z",
-  "total_releases": 3516,
+  "last_indexed_at": "2026-02-09T04:45:41Z",
+  "total_releases": 3518,
   "releases": {
     "2023-11": [
       {
@@ -17636,6 +17636,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-funds-and-delivers-new-school-18-months",
         "date": "2026-02-09T01:45:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/28-million-boost-hill-country-erosion-control",
+        "date": "2026-02-09T03:43:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-backs-energy-resilience-far-north",
+        "date": "2026-02-09T04:00:00Z",
         "content_type": "releases"
       }
     ]
