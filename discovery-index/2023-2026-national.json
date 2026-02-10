@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-10T20:17:40Z",
-  "total_releases": 3524,
+  "last_indexed_at": "2026-02-10T21:18:50Z",
+  "total_releases": 3526,
   "releases": {
     "2023-11": [
       {
@@ -17676,6 +17676,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/international-convention-centre-major-win-tourism-and-hospitality",
         "date": "2026-02-10T20:15:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/98-cent-potholes-repaired-within-24-hours-0",
+        "date": "2026-02-10T20:43:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-attend-munich-security-conference",
+        "date": "2026-02-10T20:58:14Z",
         "content_type": "releases"
       }
     ]
