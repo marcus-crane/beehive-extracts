@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-10T21:18:50Z",
-  "total_releases": 3526,
+  "last_indexed_at": "2026-02-10T22:17:40Z",
+  "total_releases": 3527,
   "releases": {
     "2023-11": [
       {
@@ -17686,6 +17686,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/minister-attend-munich-security-conference",
         "date": "2026-02-10T20:58:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nearly-40000-more-building-products-approved",
+        "date": "2026-02-10T22:01:45Z",
         "content_type": "releases"
       }
     ]
