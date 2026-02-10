@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-10T04:49:00Z",
-  "total_releases": 3523,
+  "last_indexed_at": "2026-02-10T20:17:40Z",
+  "total_releases": 3524,
   "releases": {
     "2023-11": [
       {
@@ -17671,6 +17671,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/fair-and-efficient-military-justice-proposed-bill",
         "date": "2026-02-10T04:10:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/international-convention-centre-major-win-tourism-and-hospitality",
+        "date": "2026-02-10T20:15:46Z",
         "content_type": "releases"
       }
     ]
