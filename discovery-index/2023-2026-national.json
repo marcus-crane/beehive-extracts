@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-10T03:07:00Z",
-  "total_releases": 3522,
+  "last_indexed_at": "2026-02-10T04:49:00Z",
+  "total_releases": 3523,
   "releases": {
     "2023-11": [
       {
@@ -17666,6 +17666,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-data-shows-record-2025-permitting-activity",
         "date": "2026-02-10T02:46:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fair-and-efficient-military-justice-proposed-bill",
+        "date": "2026-02-10T04:10:56Z",
         "content_type": "releases"
       }
     ]
