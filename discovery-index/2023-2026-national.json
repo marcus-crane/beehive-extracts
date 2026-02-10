@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-09T19:32:31Z",
-  "total_releases": 3520,
+  "last_indexed_at": "2026-02-10T00:33:41Z",
+  "total_releases": 3521,
   "releases": {
     "2023-11": [
       {
@@ -17656,6 +17656,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/full-steam-ahead-more-events-set-ignite-2026",
         "date": "2026-02-09T19:08:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/disability-support-improvements-begin",
+        "date": "2026-02-09T23:39:15Z",
         "content_type": "releases"
       }
     ]
