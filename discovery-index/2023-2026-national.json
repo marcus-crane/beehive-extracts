@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-10T00:33:41Z",
-  "total_releases": 3521,
+  "last_indexed_at": "2026-02-10T03:07:00Z",
+  "total_releases": 3522,
   "releases": {
     "2023-11": [
       {
@@ -17661,6 +17661,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/disability-support-improvements-begin",
         "date": "2026-02-09T23:39:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-data-shows-record-2025-permitting-activity",
+        "date": "2026-02-10T02:46:29Z",
         "content_type": "releases"
       }
     ]
