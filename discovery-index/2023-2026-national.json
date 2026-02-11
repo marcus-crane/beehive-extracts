@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-11T01:38:19Z",
-  "total_releases": 3531,
+  "last_indexed_at": "2026-02-11T08:18:11Z",
+  "total_releases": 3532,
   "releases": {
     "2023-11": [
       {
@@ -17711,6 +17711,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/vascular-surgery-now-available-northland",
         "date": "2026-02-11T01:14:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/housing-support-working-rough-sleepers",
+        "date": "2026-02-11T04:00:00Z",
         "content_type": "releases"
       }
     ]
