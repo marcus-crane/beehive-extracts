@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-11T21:15:20Z",
-  "total_releases": 3536,
+  "last_indexed_at": "2026-02-11T23:12:03Z",
+  "total_releases": 3537,
   "releases": {
     "2023-11": [
       {
@@ -17736,6 +17736,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/transmission-gully-accelerating-110kmh",
         "date": "2026-02-11T21:10:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/funding-approved-final-stretch-eastern-busway",
+        "date": "2026-02-11T21:45:40Z",
         "content_type": "releases"
       }
     ]
