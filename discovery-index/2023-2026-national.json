@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-11T08:18:11Z",
-  "total_releases": 3532,
+  "last_indexed_at": "2026-02-11T21:15:20Z",
+  "total_releases": 3536,
   "releases": {
     "2023-11": [
       {
@@ -17716,6 +17716,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/housing-support-working-rough-sleepers",
         "date": "2026-02-11T04:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/investment-boost-driving-real-investment-lifting-productivity",
+        "date": "2026-02-11T20:21:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/k%C4%81inga-ora%E2%80%99s-turnaround-plan-working",
+        "date": "2026-02-11T20:25:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/space-launch-limits-increased-support-growth",
+        "date": "2026-02-11T21:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/transmission-gully-accelerating-110kmh",
+        "date": "2026-02-11T21:10:58Z",
         "content_type": "releases"
       }
     ]
