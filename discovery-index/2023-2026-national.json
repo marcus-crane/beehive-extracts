@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-10T22:17:40Z",
-  "total_releases": 3527,
+  "last_indexed_at": "2026-02-11T00:32:47Z",
+  "total_releases": 3529,
   "releases": {
     "2023-11": [
       {
@@ -17691,6 +17691,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/nearly-40000-more-building-products-approved",
         "date": "2026-02-10T22:01:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/palmerston-north-hospital-ed-expansion-underway",
+        "date": "2026-02-10T23:31:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/independent-review-covid-19-monetary-policy",
+        "date": "2026-02-10T23:43:54Z",
         "content_type": "releases"
       }
     ]
