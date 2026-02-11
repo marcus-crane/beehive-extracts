@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-11T00:32:47Z",
-  "total_releases": 3529,
+  "last_indexed_at": "2026-02-11T01:38:19Z",
+  "total_releases": 3531,
   "releases": {
     "2023-11": [
       {
@@ -17701,6 +17701,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/independent-review-covid-19-monetary-policy",
         "date": "2026-02-10T23:43:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sheep-farmers-come-parliament-celebrate-record-year",
+        "date": "2026-02-11T00:46:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/vascular-surgery-now-available-northland",
+        "date": "2026-02-11T01:14:29Z",
         "content_type": "releases"
       }
     ]
