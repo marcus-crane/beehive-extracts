@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-11T23:12:03Z",
-  "total_releases": 3537,
+  "last_indexed_at": "2026-02-12T00:27:45Z",
+  "total_releases": 3538,
   "releases": {
     "2023-11": [
       {
@@ -17741,6 +17741,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/funding-approved-final-stretch-eastern-busway",
         "date": "2026-02-11T21:45:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-doc-concessions-support-regional-economies",
+        "date": "2026-02-11T23:46:30Z",
         "content_type": "releases"
       }
     ]
