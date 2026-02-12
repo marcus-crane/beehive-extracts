@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-12T00:27:45Z",
-  "total_releases": 3538,
+  "last_indexed_at": "2026-02-12T04:43:55Z",
+  "total_releases": 3540,
   "releases": {
     "2023-11": [
       {
@@ -17746,6 +17746,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-doc-concessions-support-regional-economies",
         "date": "2026-02-11T23:46:30Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/exploring-ai-support-breast-screening-services",
+        "date": "2026-02-12T03:19:51Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/milestone-health-and-safety-bill%E2%80%AFpasses-first-reading",
+        "date": "2026-02-12T03:51:08Z",
         "content_type": "releases"
       }
     ]
