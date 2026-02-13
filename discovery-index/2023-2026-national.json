@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-13T00:30:20Z",
-  "total_releases": 3546,
+  "last_indexed_at": "2026-02-13T01:37:15Z",
+  "total_releases": 3547,
   "releases": {
     "2023-11": [
       {
@@ -17786,6 +17786,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/common-sense-approach-life-saving-medicines",
         "date": "2026-02-13T00:10:31Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/december-visitor-arrivals-highest-2019",
+        "date": "2026-02-13T01:10:32Z",
         "content_type": "releases"
       }
     ]
