@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-13T01:37:15Z",
-  "total_releases": 3547,
+  "last_indexed_at": "2026-02-13T04:41:46Z",
+  "total_releases": 3548,
   "releases": {
     "2023-11": [
       {
@@ -17791,6 +17791,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/december-visitor-arrivals-highest-2019",
         "date": "2026-02-13T01:10:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/land-earmarked-new-kume%C5%AB-high-school",
+        "date": "2026-02-13T03:06:31Z",
         "content_type": "releases"
       }
     ]
