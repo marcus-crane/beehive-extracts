@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-14T00:28:23Z",
-  "total_releases": 3549,
+  "last_indexed_at": "2026-02-14T03:54:10Z",
+  "total_releases": 3550,
   "releases": {
     "2023-11": [
       {
@@ -17791,6 +17791,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/december-visitor-arrivals-highest-2019",
         "date": "2026-02-13T01:10:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/active-investor-plus-delivers-3-billion-investment-new-zealand",
+        "date": "2026-02-13T01:30:00Z",
         "content_type": "releases"
       },
       {
