@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-14T21:07:47Z",
-  "total_releases": 3552,
+  "last_indexed_at": "2026-02-14T22:06:43Z",
+  "total_releases": 3553,
   "releases": {
     "2023-11": [
       {
@@ -17816,6 +17816,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/rockpool-closures-protect-marine-life",
         "date": "2026-02-14T20:09:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-signs-uu-commitment-hiv",
+        "date": "2026-02-14T21:01:50Z",
         "content_type": "releases"
       }
     ]
