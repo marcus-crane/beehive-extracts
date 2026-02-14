@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-14T03:54:10Z",
-  "total_releases": 3550,
+  "last_indexed_at": "2026-02-14T06:17:13Z",
+  "total_releases": 3551,
   "releases": {
     "2023-11": [
       {
@@ -17806,6 +17806,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-urges-people-put-safety-first-severe-weather-hits-north-island",
         "date": "2026-02-14T00:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/keeping-your-heart-healthy-valentine%E2%80%99s-day",
+        "date": "2026-02-14T05:32:26Z",
         "content_type": "releases"
       }
     ]
