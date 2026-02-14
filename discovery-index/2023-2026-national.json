@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-14T06:17:13Z",
-  "total_releases": 3551,
+  "last_indexed_at": "2026-02-14T21:07:47Z",
+  "total_releases": 3552,
   "releases": {
     "2023-11": [
       {
@@ -17811,6 +17811,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/keeping-your-heart-healthy-valentine%E2%80%99s-day",
         "date": "2026-02-14T05:32:26Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rockpool-closures-protect-marine-life",
+        "date": "2026-02-14T20:09:42Z",
         "content_type": "releases"
       }
     ]
