@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-15T19:11:04Z",
-  "total_releases": 3555,
+  "last_indexed_at": "2026-02-15T21:08:26Z",
+  "total_releases": 3556,
   "releases": {
     "2023-11": [
       {
@@ -17761,6 +17761,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/nz-singapore-e-certification-arrangement-boost-trade-food-primary-products",
         "date": "2026-02-12T18:00:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-attend-ai-impact-summit-india",
+        "date": "2026-02-12T21:03:27Z",
         "content_type": "releases"
       },
       {
