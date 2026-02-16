@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-16T03:06:07Z",
-  "total_releases": 3558,
+  "last_indexed_at": "2026-02-16T23:10:04Z",
+  "total_releases": 3559,
   "releases": {
     "2023-11": [
       {
@@ -17846,6 +17846,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/active-investor-plus-delivers-3-billion-investment-new-zealand-0",
         "date": "2026-02-16T02:43:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/national-infrastructure-plan-delivered",
+        "date": "2026-02-16T22:40:42Z",
         "content_type": "releases"
       }
     ]
