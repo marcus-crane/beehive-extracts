@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-15T21:08:26Z",
-  "total_releases": 3556,
+  "last_indexed_at": "2026-02-16T01:37:16Z",
+  "total_releases": 3557,
   "releases": {
     "2023-11": [
       {
@@ -17836,6 +17836,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/state-origin-heads-new-zealand",
         "date": "2026-02-15T18:16:55Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/independent-review-moa-point-failures",
+        "date": "2026-02-16T00:17:29Z",
         "content_type": "releases"
       }
     ]
