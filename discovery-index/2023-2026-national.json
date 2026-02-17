@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-17T01:37:24Z",
-  "total_releases": 3562,
+  "last_indexed_at": "2026-02-17T04:40:09Z",
+  "total_releases": 3564,
   "releases": {
     "2023-11": [
       {
@@ -17866,6 +17866,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/minister-welcomes-settlement-pharmacists",
         "date": "2026-02-17T00:32:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/all-wartime-service-now-honoured-anzac-day",
+        "date": "2026-02-17T02:42:44Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/reform-brings-more-flexibility-workers-and-confidence-employers",
+        "date": "2026-02-17T03:10:09Z",
         "content_type": "releases"
       }
     ]
