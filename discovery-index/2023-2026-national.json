@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-17T21:13:48Z",
-  "total_releases": 3566,
+  "last_indexed_at": "2026-02-17T22:09:50Z",
+  "total_releases": 3567,
   "releases": {
     "2023-11": [
       {
@@ -17886,6 +17886,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/top-%E2%80%99-deliver-faster-access-support",
         "date": "2026-02-17T20:33:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/taking-cash-criminals-protect-new-zealanders",
+        "date": "2026-02-17T21:40:22Z",
         "content_type": "releases"
       }
     ]
