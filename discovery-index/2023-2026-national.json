@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-17T00:28:44Z",
-  "total_releases": 3561,
+  "last_indexed_at": "2026-02-17T01:37:24Z",
+  "total_releases": 3562,
   "releases": {
     "2023-11": [
       {
@@ -17861,6 +17861,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/members-gas-security-fund-panel-named",
         "date": "2026-02-16T23:08:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-welcomes-settlement-pharmacists",
+        "date": "2026-02-17T00:32:28Z",
         "content_type": "releases"
       }
     ]
