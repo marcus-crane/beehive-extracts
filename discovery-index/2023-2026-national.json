@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-18T01:37:29Z",
-  "total_releases": 3569,
+  "last_indexed_at": "2026-02-18T03:05:10Z",
+  "total_releases": 3571,
   "releases": {
     "2023-11": [
       {
@@ -17901,6 +17901,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/ahuwhenua-trophy-finalists-announced-1",
         "date": "2026-02-18T00:29:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-diplomatic-appointments-9",
+        "date": "2026-02-18T01:44:05Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-military-health-centre-opens-burnham",
+        "date": "2026-02-18T02:49:47Z",
         "content_type": "releases"
       }
     ]
