@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-18T21:15:26Z",
-  "total_releases": 3576,
+  "last_indexed_at": "2026-02-18T22:11:32Z",
+  "total_releases": 3577,
   "releases": {
     "2023-11": [
       {
@@ -17936,6 +17936,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/major-queenstown-housing-development-approved-through-fast-track",
         "date": "2026-02-18T21:08:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/club-red-tape-kicked-touch",
+        "date": "2026-02-18T21:26:50Z",
         "content_type": "releases"
       }
     ]
