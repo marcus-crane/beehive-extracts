@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-18T07:25:06Z",
-  "total_releases": 3574,
+  "last_indexed_at": "2026-02-18T17:26:49Z",
+  "total_releases": 3575,
   "releases": {
     "2023-11": [
       {
@@ -17926,6 +17926,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-climate-change-ambassador-appointed-0",
         "date": "2026-02-18T06:40:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/80m-rif-funding-critical-minerals-projects",
+        "date": "2026-02-18T16:59:18Z",
         "content_type": "releases"
       }
     ]
