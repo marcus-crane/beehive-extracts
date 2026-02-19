@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-18T23:11:05Z",
-  "total_releases": 3578,
+  "last_indexed_at": "2026-02-19T00:29:03Z",
+  "total_releases": 3579,
   "releases": {
     "2023-11": [
       {
@@ -17946,6 +17946,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/appointments-soe-boards-0",
         "date": "2026-02-18T22:46:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-flexibility-auckland-housing-plan",
+        "date": "2026-02-18T23:06:34Z",
         "content_type": "releases"
       }
     ]
