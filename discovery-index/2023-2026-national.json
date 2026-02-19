@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-19T00:29:03Z",
-  "total_releases": 3579,
+  "last_indexed_at": "2026-02-19T03:04:33Z",
+  "total_releases": 3580,
   "releases": {
     "2023-11": [
       {
@@ -17951,6 +17951,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/more-flexibility-auckland-housing-plan",
         "date": "2026-02-18T23:06:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointments-nursing-council-new-zealand",
+        "date": "2026-02-19T01:36:21Z",
         "content_type": "releases"
       }
     ]
