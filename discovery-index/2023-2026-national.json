@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-19T04:40:15Z",
-  "total_releases": 3583,
+  "last_indexed_at": "2026-02-19T21:11:26Z",
+  "total_releases": 3585,
   "releases": {
     "2023-11": [
       {
@@ -17971,6 +17971,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/te-huia-service-extension-welcomed",
         "date": "2026-02-19T03:48:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/largest-ever-reduction-district-court-criminal-backlog",
+        "date": "2026-02-19T20:44:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/charter-schools-strengthen-crown-t%C5%ABhoe-relationship",
+        "date": "2026-02-19T20:49:25Z",
         "content_type": "releases"
       }
     ]
