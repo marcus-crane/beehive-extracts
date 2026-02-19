@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-19T22:10:12Z",
-  "total_releases": 3586,
+  "last_indexed_at": "2026-02-19T23:11:42Z",
+  "total_releases": 3588,
   "releases": {
     "2023-11": [
       {
@@ -17986,6 +17986,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/iea-declaration-strengthens-international-co-operation-critical-minerals",
         "date": "2026-02-19T22:05:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-high-court-judge-appointed-14",
+        "date": "2026-02-19T22:58:39Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/work-begins-new-inpatient-ward-nelson-hospital",
+        "date": "2026-02-19T23:03:41Z",
         "content_type": "releases"
       }
     ]
