@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-19T23:11:42Z",
-  "total_releases": 3588,
+  "last_indexed_at": "2026-02-20T00:26:20Z",
+  "total_releases": 3590,
   "releases": {
     "2023-11": [
       {
@@ -17996,6 +17996,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/work-begins-new-inpatient-ward-nelson-hospital",
         "date": "2026-02-19T23:03:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-awards-primary-sector-student-scholarships",
+        "date": "2026-02-19T23:20:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/successful-fruit-fly-response-mt-roskill-credit-community",
+        "date": "2026-02-19T23:50:17Z",
         "content_type": "releases"
       }
     ]
