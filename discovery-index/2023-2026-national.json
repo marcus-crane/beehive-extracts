@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-20T01:37:27Z",
-  "total_releases": 3592,
+  "last_indexed_at": "2026-02-20T04:37:33Z",
+  "total_releases": 3593,
   "releases": {
     "2023-11": [
       {
@@ -18016,6 +18016,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/ship-upgrade-improve-coastal-resilience-disasters",
         "date": "2026-02-20T00:51:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/35m-boost-restore-fire-damaged-tongariro",
+        "date": "2026-02-20T04:00:00Z",
         "content_type": "releases"
       }
     ]
