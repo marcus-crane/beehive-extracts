@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-20T21:07:29Z",
-  "total_releases": 3594,
+  "last_indexed_at": "2026-02-21T22:22:26Z",
+  "total_releases": 3595,
   "releases": {
     "2023-11": [
       {
@@ -18026,6 +18026,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/statement-trade-and-investment-minister-todd-mcclay-respect-us-supreme-court-ruling-",
         "date": "2026-02-20T20:27:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/move-orders-build-progress-auckland-cbd",
+        "date": "2026-02-21T22:16:19Z",
         "content_type": "releases"
       }
     ]
