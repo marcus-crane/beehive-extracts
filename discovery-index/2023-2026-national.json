@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-22T02:02:06Z",
-  "total_releases": 3596,
+  "last_indexed_at": "2026-02-22T21:23:29Z",
+  "total_releases": 3598,
   "releases": {
     "2023-11": [
       {
@@ -18036,6 +18036,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/move-orders-target-disorderly-behaviour",
         "date": "2026-02-21T23:31:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-invests-support-energy-security",
+        "date": "2026-02-22T20:30:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-attending-us-pacific-investment-summit",
+        "date": "2026-02-22T20:31:58Z",
         "content_type": "releases"
       }
     ]
