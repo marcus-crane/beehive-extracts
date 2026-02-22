@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-22T21:23:29Z",
-  "total_releases": 3598,
+  "last_indexed_at": "2026-02-22T23:24:58Z",
+  "total_releases": 3600,
   "releases": {
     "2023-11": [
       {
@@ -18046,6 +18046,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/minister-attending-us-pacific-investment-summit",
         "date": "2026-02-22T20:31:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/record-uptake-nearly-doubles-advanced-nurse-education-scholarships",
+        "date": "2026-02-22T22:22:55Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ng%C4%81ti-wh%C4%81tua-%C5%8Dr%C4%81kei-led-charter-school-gives-students-more-options",
+        "date": "2026-02-22T22:56:49Z",
         "content_type": "releases"
       }
     ]
