@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-21T22:22:26Z",
-  "total_releases": 3595,
+  "last_indexed_at": "2026-02-22T02:02:06Z",
+  "total_releases": 3596,
   "releases": {
     "2023-11": [
       {
@@ -18031,6 +18031,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/move-orders-build-progress-auckland-cbd",
         "date": "2026-02-21T22:16:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/move-orders-target-disorderly-behaviour",
+        "date": "2026-02-21T23:31:22Z",
         "content_type": "releases"
       }
     ]
