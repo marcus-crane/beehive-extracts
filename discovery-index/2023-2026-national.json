@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-22T23:24:58Z",
-  "total_releases": 3600,
+  "last_indexed_at": "2026-02-23T16:56:30Z",
+  "total_releases": 3601,
   "releases": {
     "2023-11": [
       {
@@ -18056,6 +18056,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/ng%C4%81ti-wh%C4%81tua-%C5%8Dr%C4%81kei-led-charter-school-gives-students-more-options",
         "date": "2026-02-22T22:56:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-appointment-teaching-council",
+        "date": "2026-02-23T16:02:21Z",
         "content_type": "releases"
       }
     ]
