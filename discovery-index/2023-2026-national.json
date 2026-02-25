@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-23T16:56:30Z",
-  "total_releases": 3601,
+  "last_indexed_at": "2026-02-25T02:02:01Z",
+  "total_releases": 3613,
   "releases": {
     "2023-11": [
       {
@@ -18061,6 +18061,66 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-appointment-teaching-council",
         "date": "2026-02-23T16:02:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-announces-more-support-%E2%80%AFukraine%E2%80%AFsanctions-russia",
+        "date": "2026-02-23T21:27:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/boosting-manufacturing-productivity-digital-tools",
+        "date": "2026-02-23T23:32:26Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/science-maths-and-english-resources-rolling-classrooms",
+        "date": "2026-02-24T00:29:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/arataki-project-fast-tracked-hawke%E2%80%99s-bay",
+        "date": "2026-02-24T02:05:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-pharmac-proposal-melanoma-patients",
+        "date": "2026-02-24T02:05:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/primary-principals-vote-accept-settlement",
+        "date": "2026-02-24T04:20:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-support-regional-air-routes-takes-flight",
+        "date": "2026-02-24T17:17:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/psa-members-vote-accept-settlement",
+        "date": "2026-02-24T18:24:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fixing-basics-nz%E2%80%99s-transport-rules",
+        "date": "2026-02-24T21:00:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-data-unlocks-domestic-tourism-insights",
+        "date": "2026-02-24T21:18:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-imposes-travels-bans-iranian-ministers",
+        "date": "2026-02-24T21:23:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/driving-investment-new-energy-projects",
+        "date": "2026-02-24T23:40:33Z",
         "content_type": "releases"
       }
     ]
