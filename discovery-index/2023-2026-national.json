@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-25T07:25:41Z",
-  "total_releases": 3615,
+  "last_indexed_at": "2026-02-25T17:26:11Z",
+  "total_releases": 3616,
   "releases": {
     "2023-11": [
       {
@@ -18131,6 +18131,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/crown-signs-deed-settlement-ng%C4%81ti-ruapani",
         "date": "2026-02-25T06:42:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/green-light-ohakea-permanent-alternative-airport",
+        "date": "2026-02-25T16:23:23Z",
         "content_type": "releases"
       }
     ]
