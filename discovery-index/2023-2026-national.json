@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-26T01:37:03Z",
-  "total_releases": 3623,
+  "last_indexed_at": "2026-02-26T03:02:03Z",
+  "total_releases": 3625,
   "releases": {
     "2023-11": [
       {
@@ -18169,8 +18169,18 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/methamphetamine-standards-rental-housing-take-effect-16-april",
+        "date": "2026-02-26T01:00:00Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/nearly-12000-online-gp-consults-delivered-over-holidays",
         "date": "2026-02-26T01:19:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/settlement-reached-dietitians",
+        "date": "2026-02-26T02:42:33Z",
         "content_type": "releases"
       }
     ]
