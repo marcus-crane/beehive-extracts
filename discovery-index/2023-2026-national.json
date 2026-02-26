@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-25T21:13:39Z",
-  "total_releases": 3619,
+  "last_indexed_at": "2026-02-26T00:25:31Z",
+  "total_releases": 3622,
   "releases": {
     "2023-11": [
       {
@@ -18151,6 +18151,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/kiwi-drones-boost-defence-capability",
         "date": "2026-02-25T20:59:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fewer-victims-crime-more-police-beat",
+        "date": "2026-02-25T23:45:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-receives-final-covid-inquiry-report",
+        "date": "2026-02-25T23:47:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/parliamentary-and-business-delegation-visit-latin-america",
+        "date": "2026-02-25T23:53:00Z",
         "content_type": "releases"
       }
     ]
