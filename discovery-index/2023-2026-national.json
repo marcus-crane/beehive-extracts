@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-26T00:25:31Z",
-  "total_releases": 3622,
+  "last_indexed_at": "2026-02-26T01:37:03Z",
+  "total_releases": 3623,
   "releases": {
     "2023-11": [
       {
@@ -18166,6 +18166,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/parliamentary-and-business-delegation-visit-latin-america",
         "date": "2026-02-25T23:53:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nearly-12000-online-gp-consults-delivered-over-holidays",
+        "date": "2026-02-26T01:19:23Z",
         "content_type": "releases"
       }
     ]
