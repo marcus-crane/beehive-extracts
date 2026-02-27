@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-26T23:11:06Z",
-  "total_releases": 3629,
+  "last_indexed_at": "2026-02-27T19:16:25Z",
+  "total_releases": 3630,
   "releases": {
     "2023-11": [
       {
@@ -18201,6 +18201,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/better-outcomes-new-zealanders-acc",
         "date": "2026-02-26T22:43:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/harwoods-roundabout-completed",
+        "date": "2026-02-27T19:08:11Z",
         "content_type": "releases"
       }
     ]
