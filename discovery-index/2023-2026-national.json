@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-02-28T23:06:39Z",
-  "total_releases": 3632,
+  "last_indexed_at": "2026-03-01T20:07:23Z",
+  "total_releases": 3634,
   "releases": {
     "2023-11": [
       {
@@ -18209,6 +18209,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/ai-scribe-now-every-emergency-department",
+        "date": "2026-02-27T19:55:52Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/nz-government-statement-iran",
         "date": "2026-02-28T21:06:27Z",
         "content_type": "releases"
@@ -18216,6 +18221,13 @@
       {
         "url": "https://www.beehive.govt.nz/release/kiwisaver-adjustment-help-rural-workers",
         "date": "2026-02-28T21:50:09Z",
+        "content_type": "releases"
+      }
+    ],
+    "2026-03": [
+      {
+        "url": "https://www.beehive.govt.nz/release/psa-nurses-vote-accept-settlement",
+        "date": "2026-03-01T19:54:58Z",
         "content_type": "releases"
       }
     ]
