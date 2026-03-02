@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-02T17:19:20Z",
-  "total_releases": 3639,
+  "last_indexed_at": "2026-03-02T21:12:45Z",
+  "total_releases": 3640,
   "releases": {
     "2023-11": [
       {
@@ -18253,6 +18253,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/traffic-light-system-proves-results",
         "date": "2026-03-02T17:15:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/closer-cooperation-argentina",
+        "date": "2026-03-02T21:11:00Z",
         "content_type": "releases"
       }
     ]
