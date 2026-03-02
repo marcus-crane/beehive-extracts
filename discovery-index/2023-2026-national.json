@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-02T05:27:01Z",
-  "total_releases": 3638,
+  "last_indexed_at": "2026-03-02T17:19:20Z",
+  "total_releases": 3639,
   "releases": {
     "2023-11": [
       {
@@ -18248,6 +18248,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/extra-funding-smokefreerockquest-and-tangata-beats-2026",
         "date": "2026-03-02T04:43:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/traffic-light-system-proves-results",
+        "date": "2026-03-02T17:15:25Z",
         "content_type": "releases"
       }
     ]
