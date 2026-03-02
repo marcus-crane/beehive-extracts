@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-02T04:37:33Z",
-  "total_releases": 3637,
+  "last_indexed_at": "2026-03-02T05:27:01Z",
+  "total_releases": 3638,
   "releases": {
     "2023-11": [
       {
@@ -18243,6 +18243,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-appointments-university-otago-council",
         "date": "2026-03-02T03:53:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/extra-funding-smokefreerockquest-and-tangata-beats-2026",
+        "date": "2026-03-02T04:43:36Z",
         "content_type": "releases"
       }
     ]
