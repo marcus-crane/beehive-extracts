@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-03T03:04:07Z",
-  "total_releases": 3642,
+  "last_indexed_at": "2026-03-03T04:37:10Z",
+  "total_releases": 3643,
   "releases": {
     "2023-11": [
       {
@@ -18268,6 +18268,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/tourism-drives-billions-new-zealand-economy",
         "date": "2026-03-03T01:43:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-funding-weather-hit-communities",
+        "date": "2026-03-03T03:00:00Z",
         "content_type": "releases"
       }
     ]
