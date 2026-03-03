@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-03T21:12:31Z",
-  "total_releases": 3644,
+  "last_indexed_at": "2026-03-03T22:09:08Z",
+  "total_releases": 3645,
   "releases": {
     "2023-11": [
       {
@@ -18278,6 +18278,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/smokefree-compliance-efforts-double",
         "date": "2026-03-03T19:18:18Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/progress-sails-new-chatham-islands-ship",
+        "date": "2026-03-03T21:46:12Z",
         "content_type": "releases"
       }
     ]
