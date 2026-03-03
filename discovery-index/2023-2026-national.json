@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-03T00:28:34Z",
-  "total_releases": 3641,
+  "last_indexed_at": "2026-03-03T03:04:07Z",
+  "total_releases": 3642,
   "releases": {
     "2023-11": [
       {
@@ -18263,6 +18263,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-neonatal-unit-hutt-hospital-boost-local-capacity",
         "date": "2026-03-02T23:13:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tourism-drives-billions-new-zealand-economy",
+        "date": "2026-03-03T01:43:49Z",
         "content_type": "releases"
       }
     ]
