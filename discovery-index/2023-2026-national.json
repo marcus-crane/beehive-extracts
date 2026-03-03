@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-02T21:12:45Z",
-  "total_releases": 3640,
+  "last_indexed_at": "2026-03-03T00:28:34Z",
+  "total_releases": 3641,
   "releases": {
     "2023-11": [
       {
@@ -18258,6 +18258,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/closer-cooperation-argentina",
         "date": "2026-03-02T21:11:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-neonatal-unit-hutt-hospital-boost-local-capacity",
+        "date": "2026-03-02T23:13:20Z",
         "content_type": "releases"
       }
     ]
