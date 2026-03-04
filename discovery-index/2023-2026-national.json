@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-04T04:35:35Z",
-  "total_releases": 3651,
+  "last_indexed_at": "2026-03-04T14:18:27Z",
+  "total_releases": 3652,
   "releases": {
     "2023-11": [
       {
@@ -18313,6 +18313,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/m%C4%81ori-led-tech-company-prepares-go-global",
         "date": "2026-03-04T04:00:18Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-consular-response-middle-east",
+        "date": "2026-03-04T13:43:14Z",
         "content_type": "releases"
       }
     ]
