@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-04T01:37:36Z",
-  "total_releases": 3649,
+  "last_indexed_at": "2026-03-04T04:35:35Z",
+  "total_releases": 3651,
   "releases": {
     "2023-11": [
       {
@@ -18303,6 +18303,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/joint-new-zealand-uruguay-statement",
         "date": "2026-03-04T01:35:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/exports-more-2b-%E2%80%93-powering-economy",
+        "date": "2026-03-04T03:08:57Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/m%C4%81ori-led-tech-company-prepares-go-global",
+        "date": "2026-03-04T04:00:18Z",
         "content_type": "releases"
       }
     ]
