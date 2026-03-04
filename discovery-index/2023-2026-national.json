@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-04T19:18:41Z",
-  "total_releases": 3653,
+  "last_indexed_at": "2026-03-04T21:11:53Z",
+  "total_releases": 3654,
   "releases": {
     "2023-11": [
       {
@@ -18323,6 +18323,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/chamberworks-helps-employers-build-teams",
         "date": "2026-03-04T18:37:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/upgraded-womens-leadership-database-launched",
+        "date": "2026-03-04T20:52:40Z",
         "content_type": "releases"
       }
     ]
