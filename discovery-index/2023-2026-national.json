@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-04T00:27:36Z",
-  "total_releases": 3647,
+  "last_indexed_at": "2026-03-04T01:37:36Z",
+  "total_releases": 3649,
   "releases": {
     "2023-11": [
       {
@@ -18293,6 +18293,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-ct-scanner-wairarapa",
         "date": "2026-03-03T23:19:37Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-tourism-continuing-boom",
+        "date": "2026-03-04T00:39:38Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/joint-new-zealand-uruguay-statement",
+        "date": "2026-03-04T01:35:24Z",
         "content_type": "releases"
       }
     ]
