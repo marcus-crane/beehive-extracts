@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-05T21:12:48Z",
-  "total_releases": 3665,
+  "last_indexed_at": "2026-03-05T22:09:40Z",
+  "total_releases": 3666,
   "releases": {
     "2023-11": [
       {
@@ -18383,6 +18383,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-overseas-investment-rules-inject-billions-local-economy",
         "date": "2026-03-05T20:21:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-clarifies-welfare-and-acc-payments",
+        "date": "2026-03-05T21:17:15Z",
         "content_type": "releases"
       }
     ]
