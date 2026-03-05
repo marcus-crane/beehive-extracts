@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-04T23:10:59Z",
-  "total_releases": 3658,
+  "last_indexed_at": "2026-03-05T00:27:47Z",
+  "total_releases": 3659,
   "releases": {
     "2023-11": [
       {
@@ -18348,6 +18348,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/supporting-first-year-gp-trainees",
         "date": "2026-03-04T22:58:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-backs-kiwi-seafarer-workforce-growth",
+        "date": "2026-03-04T23:20:07Z",
         "content_type": "releases"
       }
     ]
