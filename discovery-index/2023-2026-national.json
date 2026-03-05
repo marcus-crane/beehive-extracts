@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-05T01:37:13Z",
-  "total_releases": 3661,
+  "last_indexed_at": "2026-03-05T03:01:30Z",
+  "total_releases": 3663,
   "releases": {
     "2023-11": [
       {
@@ -18363,6 +18363,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/nominating-committee-guardians-new-zealand-superannuation-appointments",
         "date": "2026-03-05T00:41:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cautionary-approach-bluff-oyster-season",
+        "date": "2026-03-05T01:37:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/it%E2%80%99s-game-new-pacific-career-pathways-%C2%A0",
+        "date": "2026-03-05T02:15:35Z",
         "content_type": "releases"
       }
     ]
