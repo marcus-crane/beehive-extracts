@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-09T03:04:54Z",
-  "total_releases": 3669,
+  "last_indexed_at": "2026-03-09T22:09:31Z",
+  "total_releases": 3670,
   "releases": {
     "2023-11": [
       {
@@ -18403,6 +18403,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/appointment-aged-care-commissioner",
         "date": "2026-03-09T02:25:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/choice-control-and-certainty-through-flexible-funding",
+        "date": "2026-03-09T21:57:12Z",
         "content_type": "releases"
       }
     ]
