@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-10T21:11:36Z",
-  "total_releases": 3674,
+  "last_indexed_at": "2026-03-10T23:10:59Z",
+  "total_releases": 3675,
   "releases": {
     "2023-11": [
       {
@@ -18428,6 +18428,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/another-housing-development-approved",
         "date": "2026-03-10T20:35:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rural-communities-encouraged-attend-emergency-preparedness-events",
+        "date": "2026-03-10T22:12:25Z",
         "content_type": "releases"
       }
     ]
