@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-10T01:36:49Z",
-  "total_releases": 3672,
+  "last_indexed_at": "2026-03-10T02:59:49Z",
+  "total_releases": 3673,
   "releases": {
     "2023-11": [
       {
@@ -18418,6 +18418,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/covid-19-inquiry-released",
         "date": "2026-03-10T00:33:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/health-committee-inquiry-will-help-inform-aged-care-service-improvements",
+        "date": "2026-03-10T02:07:44Z",
         "content_type": "releases"
       }
     ]
