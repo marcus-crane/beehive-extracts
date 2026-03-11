@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-11T01:36:50Z",
-  "total_releases": 3677,
+  "last_indexed_at": "2026-03-11T04:36:20Z",
+  "total_releases": 3678,
   "releases": {
     "2023-11": [
       {
@@ -18443,6 +18443,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-solicitor-general-appointed",
         "date": "2026-03-11T00:32:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-contributes-changes-pacific-fisheries",
+        "date": "2026-03-11T04:27:55Z",
         "content_type": "releases"
       }
     ]
