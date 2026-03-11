@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-10T23:10:59Z",
-  "total_releases": 3675,
+  "last_indexed_at": "2026-03-11T01:36:50Z",
+  "total_releases": 3677,
   "releases": {
     "2023-11": [
       {
@@ -18431,8 +18431,18 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/feedback-sought-orange-roughy-closures",
+        "date": "2026-03-10T22:04:43Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/rural-communities-encouraged-attend-emergency-preparedness-events",
         "date": "2026-03-10T22:12:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-solicitor-general-appointed",
+        "date": "2026-03-11T00:32:14Z",
         "content_type": "releases"
       }
     ]
