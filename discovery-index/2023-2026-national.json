@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-11T04:36:20Z",
-  "total_releases": 3678,
+  "last_indexed_at": "2026-03-12T09:18:27Z",
+  "total_releases": 3696,
   "releases": {
     "2023-11": [
       {
@@ -18441,6 +18441,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/new-pay-deal-primary-teachers-welcomed",
+        "date": "2026-03-10T23:00:30Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/new-solicitor-general-appointed",
         "date": "2026-03-11T00:32:14Z",
         "content_type": "releases"
@@ -18448,6 +18453,91 @@
       {
         "url": "https://www.beehive.govt.nz/release/nz-contributes-changes-pacific-fisheries",
         "date": "2026-03-11T04:27:55Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ministerial-group-oversee-fuel-security",
+        "date": "2026-03-11T17:45:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-mri-scanner-wairarapa-hospital",
+        "date": "2026-03-11T20:13:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/innovative-digital-labelling-trial-progress",
+        "date": "2026-03-11T20:38:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/moa-point-crown-review-team-appointed",
+        "date": "2026-03-11T21:22:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/further-improvements-pacific-visitor-visa-settings",
+        "date": "2026-03-11T21:24:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pm-visit-samoa-and-tonga",
+        "date": "2026-03-11T21:45:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/guardians-new-zealand-superannuation-board-chair-reappointed",
+        "date": "2026-03-11T22:02:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/common-sense-proposal-will-benefit-patients-and-save-money",
+        "date": "2026-03-11T22:16:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/growing-frontline-workforce-wairoa",
+        "date": "2026-03-11T22:17:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-appointment-tec-board-1",
+        "date": "2026-03-11T23:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/building-future-coastal-shipping-resilience",
+        "date": "2026-03-11T23:15:18Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-supports-pacific-cultures-polyfest%C2%A0%C2%A0",
+        "date": "2026-03-12T03:15:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/crown-progresses-ng%C4%81ti-ruapani-settlement-pace",
+        "date": "2026-03-12T03:36:52Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/partnership-driving-hospitality-momentum",
+        "date": "2026-03-12T03:48:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/improved-access-secondary-legislation",
+        "date": "2026-03-12T04:05:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/long-awaited-holidays-act-replacement-passes-first-reading",
+        "date": "2026-03-12T04:41:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hauraki-gulf-collections-closure-comes-force",
+        "date": "2026-03-12T05:20:40Z",
         "content_type": "releases"
       }
     ]
