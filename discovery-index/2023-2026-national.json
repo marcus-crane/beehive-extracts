@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-12T22:07:56Z",
-  "total_releases": 3697,
+  "last_indexed_at": "2026-03-12T23:09:11Z",
+  "total_releases": 3699,
   "releases": {
     "2023-11": [
       {
@@ -18543,6 +18543,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/guiding-early-learning-progress-new-maths-check",
         "date": "2026-03-12T21:39:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/foreign-affairs-minister-hosts-deputy-prime-minister-cambodia",
+        "date": "2026-03-12T22:42:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/judicial-appointments-announced-6",
+        "date": "2026-03-12T22:59:38Z",
         "content_type": "releases"
       }
     ]
