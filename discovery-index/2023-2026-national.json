@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-12T09:18:27Z",
-  "total_releases": 3696,
+  "last_indexed_at": "2026-03-12T22:07:56Z",
+  "total_releases": 3697,
   "releases": {
     "2023-11": [
       {
@@ -18538,6 +18538,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/hauraki-gulf-collections-closure-comes-force",
         "date": "2026-03-12T05:20:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/guiding-early-learning-progress-new-maths-check",
+        "date": "2026-03-12T21:39:23Z",
         "content_type": "releases"
       }
     ]
