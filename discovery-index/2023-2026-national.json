@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-13T01:37:01Z",
-  "total_releases": 3700,
+  "last_indexed_at": "2026-03-13T03:00:51Z",
+  "total_releases": 3703,
   "releases": {
     "2023-11": [
       {
@@ -18558,6 +18558,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/oranga-tamariki-showing-strong-progress-against-key-targets",
         "date": "2026-03-13T00:46:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/incoming-solicitor-general-appointed-king%E2%80%99s-counsel",
+        "date": "2026-03-13T01:47:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-attend-global-fraud-summit-0",
+        "date": "2026-03-13T02:04:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/racing-minister-welcomes-clear-plan-greyhound-rehoming",
+        "date": "2026-03-13T02:24:22Z",
         "content_type": "releases"
       }
     ]
