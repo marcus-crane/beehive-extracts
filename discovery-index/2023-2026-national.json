@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-15T22:08:19Z",
-  "total_releases": 3705,
+  "last_indexed_at": "2026-03-16T03:08:09Z",
+  "total_releases": 3706,
   "releases": {
     "2023-11": [
       {
@@ -18583,6 +18583,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/foreign-and-defence-ministers-visit-canberra",
         "date": "2026-03-15T21:37:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bill-introduced-cut-red-tape-and-modernise-alcohol-law",
+        "date": "2026-03-16T02:48:09Z",
         "content_type": "releases"
       }
     ]
