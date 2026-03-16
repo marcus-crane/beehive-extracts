@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-16T20:14:28Z",
-  "total_releases": 3710,
+  "last_indexed_at": "2026-03-16T22:13:25Z",
+  "total_releases": 3711,
   "releases": {
     "2023-11": [
       {
@@ -18608,6 +18608,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/moving-health-decisions-closer-home",
         "date": "2026-03-16T19:53:33Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/inquiry-fatal-landslides-tauranga",
+        "date": "2026-03-16T22:00:00Z",
         "content_type": "releases"
       }
     ]
