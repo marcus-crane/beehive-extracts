@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-17T03:03:17Z",
-  "total_releases": 3715,
+  "last_indexed_at": "2026-03-17T06:27:11Z",
+  "total_releases": 3717,
   "releases": {
     "2023-11": [
       {
@@ -18633,6 +18633,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/rif-funding-underpins-geothermal-sector",
         "date": "2026-03-17T02:10:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/joint-statement-australia%E2%80%93new-zealand-foreign-and-defence-ministerial-consultations-22",
+        "date": "2026-03-17T05:35:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/operationalising-australia-new-zealand-alliance-anzac-2035-closer-defence-relations",
+        "date": "2026-03-17T05:57:40Z",
         "content_type": "releases"
       }
     ]
