@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-17T21:15:21Z",
-  "total_releases": 3722,
+  "last_indexed_at": "2026-03-17T23:11:35Z",
+  "total_releases": 3723,
   "releases": {
     "2023-11": [
       {
@@ -18668,6 +18668,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/immigration-enhanced-risk-management-amendment-bill-hold-people-account-serious-offending",
         "date": "2026-03-17T20:18:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/468k-help-reduce-dog-bite-incidents",
+        "date": "2026-03-17T22:28:09Z",
         "content_type": "releases"
       }
     ]
