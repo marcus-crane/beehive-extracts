@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-17T00:28:07Z",
-  "total_releases": 3712,
+  "last_indexed_at": "2026-03-17T01:37:24Z",
+  "total_releases": 3713,
   "releases": {
     "2023-11": [
       {
@@ -18618,6 +18618,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/ero%E2%80%99s-school-reports-strengthened-and-improved",
         "date": "2026-03-16T23:42:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/supply-chain-challenges-raised-international-ministerial-meeting",
+        "date": "2026-03-17T00:39:45Z",
         "content_type": "releases"
       }
     ]
