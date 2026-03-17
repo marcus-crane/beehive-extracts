@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-17T09:21:51Z",
-  "total_releases": 3718,
+  "last_indexed_at": "2026-03-17T19:26:43Z",
+  "total_releases": 3720,
   "releases": {
     "2023-11": [
       {
@@ -18648,6 +18648,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/rock-nz-robbie-williams-goes-global-kiwis",
         "date": "2026-03-17T08:32:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kura-toa-gives-students-more-options-term-3-2026",
+        "date": "2026-03-17T19:14:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/%E2%80%9Ccharlotte%E2%80%99s-change%E2%80%9D-provide-redress-more-survivors-abuse-mental-health-care",
+        "date": "2026-03-17T19:19:14Z",
         "content_type": "releases"
       }
     ]
