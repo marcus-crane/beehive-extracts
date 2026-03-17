@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-17T19:26:43Z",
-  "total_releases": 3720,
+  "last_indexed_at": "2026-03-17T20:14:14Z",
+  "total_releases": 3721,
   "releases": {
     "2023-11": [
       {
@@ -18658,6 +18658,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/%E2%80%9Ccharlotte%E2%80%99s-change%E2%80%9D-provide-redress-more-survivors-abuse-mental-health-care",
         "date": "2026-03-17T19:19:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/building-stronger-future-our-children",
+        "date": "2026-03-17T19:44:02Z",
         "content_type": "releases"
       }
     ]
