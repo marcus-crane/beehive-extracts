@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-17T01:37:24Z",
-  "total_releases": 3713,
+  "last_indexed_at": "2026-03-17T03:03:17Z",
+  "total_releases": 3715,
   "releases": {
     "2023-11": [
       {
@@ -18623,6 +18623,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/supply-chain-challenges-raised-international-ministerial-meeting",
         "date": "2026-03-17T00:39:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bringing-heat-new-zealand%E2%80%99s-geothermal-sector",
+        "date": "2026-03-17T01:55:44Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rif-funding-underpins-geothermal-sector",
+        "date": "2026-03-17T02:10:41Z",
         "content_type": "releases"
       }
     ]
