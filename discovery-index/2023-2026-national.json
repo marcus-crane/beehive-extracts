@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-17T23:11:35Z",
-  "total_releases": 3723,
+  "last_indexed_at": "2026-03-18T00:29:17Z",
+  "total_releases": 3724,
   "releases": {
     "2023-11": [
       {
@@ -18673,6 +18673,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/468k-help-reduce-dog-bite-incidents",
         "date": "2026-03-17T22:28:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fuel-stocks-remain-healthy-monitoring-steps",
+        "date": "2026-03-18T00:23:59Z",
         "content_type": "releases"
       }
     ]
