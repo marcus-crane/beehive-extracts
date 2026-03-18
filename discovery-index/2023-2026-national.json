@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-18T05:33:42Z",
-  "total_releases": 3730,
+  "last_indexed_at": "2026-03-18T10:22:28Z",
+  "total_releases": 3731,
   "releases": {
     "2023-11": [
       {
@@ -18708,6 +18708,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-ireland-collaborate-farm-emissions",
         "date": "2026-03-18T05:17:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/education-delegation-heads-australia-maths-engagements",
+        "date": "2026-03-18T06:10:38Z",
         "content_type": "releases"
       }
     ]
