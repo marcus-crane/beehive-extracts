@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-18T10:22:28Z",
-  "total_releases": 3731,
+  "last_indexed_at": "2026-03-18T17:27:24Z",
+  "total_releases": 3732,
   "releases": {
     "2023-11": [
       {
@@ -18713,6 +18713,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/education-delegation-heads-australia-maths-engagements",
         "date": "2026-03-18T06:10:38Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-playing-its-part-global-oil-response",
+        "date": "2026-03-18T17:02:04Z",
         "content_type": "releases"
       }
     ]
