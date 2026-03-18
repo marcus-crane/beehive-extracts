@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-18T03:06:35Z",
-  "total_releases": 3726,
+  "last_indexed_at": "2026-03-18T04:42:57Z",
+  "total_releases": 3729,
   "releases": {
     "2023-11": [
       {
@@ -18688,6 +18688,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/waikato-steel-manufacturing-project-fast-tracked",
         "date": "2026-03-18T02:05:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-introduces-legislation-reaffirm-police-tools-prevent-disrupt-and-address-crime",
+        "date": "2026-03-18T03:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ara-hub-celebrates-10-years-airport-jobs",
+        "date": "2026-03-18T03:47:51Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/mcclay-lead-cross-party-delegation-wto-negotiation",
+        "date": "2026-03-18T04:32:56Z",
         "content_type": "releases"
       }
     ]
