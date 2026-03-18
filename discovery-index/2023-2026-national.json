@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-18T04:42:57Z",
-  "total_releases": 3729,
+  "last_indexed_at": "2026-03-18T05:33:42Z",
+  "total_releases": 3730,
   "releases": {
     "2023-11": [
       {
@@ -18703,6 +18703,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/mcclay-lead-cross-party-delegation-wto-negotiation",
         "date": "2026-03-18T04:32:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-ireland-collaborate-farm-emissions",
+        "date": "2026-03-18T05:17:43Z",
         "content_type": "releases"
       }
     ]
