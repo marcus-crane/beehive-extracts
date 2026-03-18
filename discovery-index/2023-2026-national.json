@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-18T17:27:24Z",
-  "total_releases": 3732,
+  "last_indexed_at": "2026-03-18T21:14:19Z",
+  "total_releases": 3735,
   "releases": {
     "2023-11": [
       {
@@ -18718,6 +18718,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-playing-its-part-global-oil-response",
         "date": "2026-03-18T17:02:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/innovation-fund-delivers-increased-access",
+        "date": "2026-03-18T20:18:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/call-proposals-restore-historic-chateau-tongariro",
+        "date": "2026-03-18T21:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/final-data-shows-term-4-attendance-continues-rise",
+        "date": "2026-03-18T21:04:19Z",
         "content_type": "releases"
       }
     ]
