@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-18T21:14:19Z",
-  "total_releases": 3735,
+  "last_indexed_at": "2026-03-18T23:10:48Z",
+  "total_releases": 3737,
   "releases": {
     "2023-11": [
       {
@@ -18731,8 +18731,18 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/masterton-aerodrome-reaches-new-heights",
+        "date": "2026-03-18T21:00:00Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/final-data-shows-term-4-attendance-continues-rise",
         "date": "2026-03-18T21:04:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rural-wellbeing-fund-backs-18-initiatives",
+        "date": "2026-03-18T22:38:02Z",
         "content_type": "releases"
       }
     ]
