@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-18T00:29:17Z",
-  "total_releases": 3724,
+  "last_indexed_at": "2026-03-18T01:37:31Z",
+  "total_releases": 3725,
   "releases": {
     "2023-11": [
       {
@@ -18678,6 +18678,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/fuel-stocks-remain-healthy-monitoring-steps",
         "date": "2026-03-18T00:23:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/genomic-trial-brings-testing-home-kiwis-cancer-and-rare-disorders",
+        "date": "2026-03-18T01:18:49Z",
         "content_type": "releases"
       }
     ]
