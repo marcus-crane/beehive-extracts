@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-19T03:06:42Z",
-  "total_releases": 3742,
+  "last_indexed_at": "2026-03-19T22:07:59Z",
+  "total_releases": 3743,
   "releases": {
     "2023-11": [
       {
@@ -18768,6 +18768,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/takitimu-north-link-stage-2-fast-tracked",
         "date": "2026-03-19T02:32:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/counties-manukau-youth-get-faster-support",
+        "date": "2026-03-19T21:55:33Z",
         "content_type": "releases"
       }
     ]
