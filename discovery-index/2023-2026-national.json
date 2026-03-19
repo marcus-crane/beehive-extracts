@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-18T23:10:48Z",
-  "total_releases": 3737,
+  "last_indexed_at": "2026-03-19T00:29:40Z",
+  "total_releases": 3740,
   "releases": {
     "2023-11": [
       {
@@ -18743,6 +18743,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/rural-wellbeing-fund-backs-18-initiatives",
         "date": "2026-03-18T22:38:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ban-retaining-reef-fish-bycatch-remains",
+        "date": "2026-03-18T23:15:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/gdp-data-shows-growing-economy",
+        "date": "2026-03-18T23:30:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/waihoehoe-road-upgrade-driving-forward",
+        "date": "2026-03-18T23:58:31Z",
         "content_type": "releases"
       }
     ]
