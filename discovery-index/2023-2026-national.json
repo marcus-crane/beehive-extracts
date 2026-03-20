@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-19T22:07:59Z",
-  "total_releases": 3743,
+  "last_indexed_at": "2026-03-20T00:28:24Z",
+  "total_releases": 3744,
   "releases": {
     "2023-11": [
       {
@@ -18773,6 +18773,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/counties-manukau-youth-get-faster-support",
         "date": "2026-03-19T21:55:33Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-features-coming-govtnz-app",
+        "date": "2026-03-19T23:30:47Z",
         "content_type": "releases"
       }
     ]
