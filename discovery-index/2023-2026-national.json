@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-20T00:28:24Z",
-  "total_releases": 3744,
+  "last_indexed_at": "2026-03-20T04:37:09Z",
+  "total_releases": 3745,
   "releases": {
     "2023-11": [
       {
@@ -18778,6 +18778,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-features-coming-govtnz-app",
         "date": "2026-03-19T23:30:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/district-court-judges-appointed-11",
+        "date": "2026-03-20T03:23:04Z",
         "content_type": "releases"
       }
     ]
