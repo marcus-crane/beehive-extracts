@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-20T20:10:07Z",
-  "total_releases": 3746,
+  "last_indexed_at": "2026-03-21T01:36:41Z",
+  "total_releases": 3747,
   "releases": {
     "2023-11": [
       {
@@ -18788,6 +18788,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-orders-review-dog-control-act",
         "date": "2026-03-20T20:00:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fitch-outlook-reaffirms-case-fiscal-discipline",
+        "date": "2026-03-21T00:50:42Z",
         "content_type": "releases"
       }
     ]
