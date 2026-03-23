@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-23T01:37:20Z",
-  "total_releases": 3749,
+  "last_indexed_at": "2026-03-23T04:47:53Z",
+  "total_releases": 3751,
   "releases": {
     "2023-11": [
       {
@@ -18803,6 +18803,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/prime-minister-host-tuvalu-counterpart",
         "date": "2026-03-23T00:33:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/racing-minister-hails-james-mcdonald-%E2%80%9Cglobal-superstar%E2%80%9D",
+        "date": "2026-03-23T03:59:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-widens-fuel-supply-options",
+        "date": "2026-03-23T04:27:46Z",
         "content_type": "releases"
       }
     ]
