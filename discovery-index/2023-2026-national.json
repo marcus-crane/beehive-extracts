@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-22T21:08:56Z",
-  "total_releases": 3748,
+  "last_indexed_at": "2026-03-23T01:37:20Z",
+  "total_releases": 3749,
   "releases": {
     "2023-11": [
       {
@@ -18798,6 +18798,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/charging-ahead-2500-ev-chargers-way",
         "date": "2026-03-22T20:25:38Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/prime-minister-host-tuvalu-counterpart",
+        "date": "2026-03-23T00:33:58Z",
         "content_type": "releases"
       }
     ]
