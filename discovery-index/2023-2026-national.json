@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-23T22:10:30Z",
-  "total_releases": 3753,
+  "last_indexed_at": "2026-03-24T01:37:12Z",
+  "total_releases": 3756,
   "releases": {
     "2023-11": [
       {
@@ -18806,6 +18806,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/applications-close-molesworth-farm-operation",
+        "date": "2026-03-23T02:30:00Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/racing-minister-hails-james-mcdonald-%E2%80%9Cglobal-superstar%E2%80%9D",
         "date": "2026-03-23T03:59:42Z",
         "content_type": "releases"
@@ -18823,6 +18828,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/prospecting-application-targets-frontier-acreage",
         "date": "2026-03-23T21:41:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/landlords-and-tenants-be-better-under-more-effective-regulation",
+        "date": "2026-03-24T00:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/green-light-te-awa-lakes",
+        "date": "2026-03-24T01:15:11Z",
         "content_type": "releases"
       }
     ]
