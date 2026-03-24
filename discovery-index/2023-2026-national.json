@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-24T03:03:23Z",
-  "total_releases": 3757,
+  "last_indexed_at": "2026-03-24T08:18:35Z",
+  "total_releases": 3758,
   "releases": {
     "2023-11": [
       {
@@ -18843,6 +18843,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/green-light-te-awa-lakes",
         "date": "2026-03-24T01:15:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/school-support-staff-reach-pay-settlement",
+        "date": "2026-03-24T05:10:32Z",
         "content_type": "releases"
       }
     ]
