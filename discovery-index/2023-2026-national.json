@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-25T00:28:54Z",
-  "total_releases": 3762,
+  "last_indexed_at": "2026-03-25T03:05:29Z",
+  "total_releases": 3764,
   "releases": {
     "2023-11": [
       {
@@ -18866,8 +18866,18 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/wellington-te-whanganui-tara-lead-next-phase-predator-free-2050",
+        "date": "2026-03-24T23:20:00Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/workforce-planning-key-meeting-new-zealand%E2%80%99s-energy-needs",
         "date": "2026-03-24T23:55:52Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/thousands-more-kiwis-now-eligible-bowel-screening",
+        "date": "2026-03-25T02:49:30Z",
         "content_type": "releases"
       }
     ]
