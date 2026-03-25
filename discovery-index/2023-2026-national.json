@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-25T21:14:19Z",
-  "total_releases": 3765,
+  "last_indexed_at": "2026-03-25T22:14:07Z",
+  "total_releases": 3766,
   "releases": {
     "2023-11": [
       {
@@ -18883,6 +18883,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-confirms-next-steps-new-senior-secondary-qualification",
         "date": "2026-03-25T20:56:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-commercial-vehicle-safety-centre-taup%C5%8D",
+        "date": "2026-03-25T21:25:24Z",
         "content_type": "releases"
       }
     ]
