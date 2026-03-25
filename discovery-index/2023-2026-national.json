@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-25T22:14:07Z",
-  "total_releases": 3766,
+  "last_indexed_at": "2026-03-25T23:13:38Z",
+  "total_releases": 3768,
   "releases": {
     "2023-11": [
       {
@@ -18888,6 +18888,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-commercial-vehicle-safety-centre-taup%C5%8D",
         "date": "2026-03-25T21:25:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/online-surveys-reduce-burden-businesses",
+        "date": "2026-03-25T22:28:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/catch-limit-changes-two-rock-lobster-fisheries",
+        "date": "2026-03-25T22:43:39Z",
         "content_type": "releases"
       }
     ]
