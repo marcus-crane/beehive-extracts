@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-24T21:15:24Z",
-  "total_releases": 3761,
+  "last_indexed_at": "2026-03-25T00:28:54Z",
+  "total_releases": 3762,
   "releases": {
     "2023-11": [
       {
@@ -18863,6 +18863,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/national-diabetes-action-plan-launched",
         "date": "2026-03-24T20:49:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/workforce-planning-key-meeting-new-zealand%E2%80%99s-energy-needs",
+        "date": "2026-03-24T23:55:52Z",
         "content_type": "releases"
       }
     ]
