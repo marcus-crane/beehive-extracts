@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-26T00:31:25Z",
-  "total_releases": 3769,
+  "last_indexed_at": "2026-03-26T01:37:38Z",
+  "total_releases": 3770,
   "releases": {
     "2023-11": [
       {
@@ -18903,6 +18903,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/nz-and-tuvalu-reaffirm-strong-partnership",
         "date": "2026-03-26T00:18:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-significant-pharmac-medical-device-proposal-procurement-changes",
+        "date": "2026-03-26T01:15:38Z",
         "content_type": "releases"
       }
     ]
