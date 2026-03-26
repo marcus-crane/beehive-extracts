@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-26T19:28:07Z",
-  "total_releases": 3773,
+  "last_indexed_at": "2026-03-26T21:11:59Z",
+  "total_releases": 3774,
   "releases": {
     "2023-11": [
       {
@@ -18923,6 +18923,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/telco-regulation-review-gets-rid-outdated-bureaucracy",
         "date": "2026-03-26T19:03:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/eastern-northland-rock-lobster-fishery-closed",
+        "date": "2026-03-26T20:15:16Z",
         "content_type": "releases"
       }
     ]
