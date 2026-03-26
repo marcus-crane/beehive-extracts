@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-26T04:50:08Z",
-  "total_releases": 3771,
+  "last_indexed_at": "2026-03-26T05:35:15Z",
+  "total_releases": 3772,
   "releases": {
     "2023-11": [
       {
@@ -18913,6 +18913,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/tax-changes-passed-provide-fuel-price-relief",
         "date": "2026-03-26T03:21:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/stronger-future-commerce-commission",
+        "date": "2026-03-26T05:01:20Z",
         "content_type": "releases"
       }
     ]
