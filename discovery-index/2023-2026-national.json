@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-26T05:35:15Z",
-  "total_releases": 3772,
+  "last_indexed_at": "2026-03-26T19:28:07Z",
+  "total_releases": 3773,
   "releases": {
     "2023-11": [
       {
@@ -18918,6 +18918,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/stronger-future-commerce-commission",
         "date": "2026-03-26T05:01:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/telco-regulation-review-gets-rid-outdated-bureaucracy",
+        "date": "2026-03-26T19:03:09Z",
         "content_type": "releases"
       }
     ]
