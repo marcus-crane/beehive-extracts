@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-27T00:31:14Z",
-  "total_releases": 3777,
+  "last_indexed_at": "2026-03-27T01:37:34Z",
+  "total_releases": 3778,
   "releases": {
     "2023-11": [
       {
@@ -18943,6 +18943,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/fuel-plan-protect-economy-amid-disruption",
         "date": "2026-03-27T00:01:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/land-acquisition-underway-future-south-auckland-hospital",
+        "date": "2026-03-27T00:46:34Z",
         "content_type": "releases"
       }
     ]
