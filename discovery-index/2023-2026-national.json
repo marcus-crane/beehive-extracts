@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-29T20:09:41Z",
-  "total_releases": 3782,
+  "last_indexed_at": "2026-03-29T22:09:45Z",
+  "total_releases": 3783,
   "releases": {
     "2023-11": [
       {
@@ -18948,6 +18948,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/land-acquisition-underway-future-south-auckland-hospital",
         "date": "2026-03-27T00:46:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/exceptional-students-named-2026-ngarimu-vc-and-28th-m%C4%81ori-battalion-memorial-scholarships",
+        "date": "2026-03-27T01:14:48Z",
         "content_type": "releases"
       },
       {
