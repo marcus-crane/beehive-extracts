@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-29T19:15:15Z",
-  "total_releases": 3781,
+  "last_indexed_at": "2026-03-29T20:09:41Z",
+  "total_releases": 3782,
   "releases": {
     "2023-11": [
       {
@@ -18963,6 +18963,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/p%C4%81p%C4%81moa-east-interchange-open-easter",
         "date": "2026-03-29T19:02:05Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-scores-premier-football-line",
+        "date": "2026-03-29T19:28:28Z",
         "content_type": "releases"
       }
     ]
