@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-29T03:07:38Z",
-  "total_releases": 3780,
+  "last_indexed_at": "2026-03-29T19:15:15Z",
+  "total_releases": 3781,
   "releases": {
     "2023-11": [
       {
@@ -18958,6 +18958,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/1-april-boost-superannuitants-families-and-other-kiwis",
         "date": "2026-03-29T02:21:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/p%C4%81p%C4%81moa-east-interchange-open-easter",
+        "date": "2026-03-29T19:02:05Z",
         "content_type": "releases"
       }
     ]
