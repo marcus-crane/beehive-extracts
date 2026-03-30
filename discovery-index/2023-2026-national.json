@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-30T00:32:39Z",
-  "total_releases": 3784,
+  "last_indexed_at": "2026-03-30T20:15:57Z",
+  "total_releases": 3785,
   "releases": {
     "2023-11": [
       {
@@ -18978,6 +18978,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/fruit-fly-response-success",
         "date": "2026-03-29T23:06:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/mystery-creek-water-network-being-upgraded",
+        "date": "2026-03-30T20:02:30Z",
         "content_type": "releases"
       }
     ]
