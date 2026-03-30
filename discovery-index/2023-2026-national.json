@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-29T22:09:45Z",
-  "total_releases": 3783,
+  "last_indexed_at": "2026-03-30T00:32:39Z",
+  "total_releases": 3784,
   "releases": {
     "2023-11": [
       {
@@ -18973,6 +18973,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-scores-premier-football-line",
         "date": "2026-03-29T19:28:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fruit-fly-response-success",
+        "date": "2026-03-29T23:06:34Z",
         "content_type": "releases"
       }
     ]
