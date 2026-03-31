@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-31T03:07:40Z",
-  "total_releases": 3792,
+  "last_indexed_at": "2026-03-31T04:51:46Z",
+  "total_releases": 3794,
   "releases": {
     "2023-11": [
       {
@@ -19018,6 +19018,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/fiscal-responsibility-and-disclosure-beefed",
         "date": "2026-03-31T02:26:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/foreign-minister-visit-cook-islands",
+        "date": "2026-03-31T03:37:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-and-trade-partners-working-together-trade-disruptions",
+        "date": "2026-03-31T04:00:00Z",
         "content_type": "releases"
       }
     ]
