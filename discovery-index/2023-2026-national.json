@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-31T04:51:46Z",
-  "total_releases": 3794,
+  "last_indexed_at": "2026-03-31T21:15:38Z",
+  "total_releases": 3795,
   "releases": {
     "2023-11": [
       {
@@ -19028,6 +19028,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/nz-and-trade-partners-working-together-trade-disruptions",
         "date": "2026-03-31T04:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/border-fee-changes-make-system-fairer",
+        "date": "2026-03-31T20:55:36Z",
         "content_type": "releases"
       }
     ]
