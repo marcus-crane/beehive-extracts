@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-30T22:14:00Z",
-  "total_releases": 3787,
+  "last_indexed_at": "2026-03-31T01:37:24Z",
+  "total_releases": 3791,
   "releases": {
     "2023-11": [
       {
@@ -18993,6 +18993,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/legislation-gives-more-flex-auckland%E2%80%99s-pc120",
         "date": "2026-03-30T22:06:31Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-chapter-remaining-four-polytechnics-2027",
+        "date": "2026-03-31T01:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/major-works-completed-sh2-devil%E2%80%99s-elbow",
+        "date": "2026-03-31T01:10:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/medallic-recognition-nzdf-personnel-supporting-ukraine",
+        "date": "2026-03-31T01:19:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pharmac-funds-lifechanging-cystic-fibrosis-medication-all-ages",
+        "date": "2026-03-31T01:21:23Z",
         "content_type": "releases"
       }
     ]
