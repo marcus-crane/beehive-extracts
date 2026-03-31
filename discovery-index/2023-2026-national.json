@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-31T22:13:06Z",
-  "total_releases": 3796,
+  "last_indexed_at": "2026-03-31T23:12:03Z",
+  "total_releases": 3798,
   "releases": {
     "2023-11": [
       {
@@ -19038,6 +19038,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/mcclay-attends-key-wto-negotiations",
         "date": "2026-03-31T21:26:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/open-banking-power-business-growth",
+        "date": "2026-03-31T22:11:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/purchasing-rules-lifted-disability-support",
+        "date": "2026-03-31T22:18:48Z",
         "content_type": "releases"
       }
     ]
