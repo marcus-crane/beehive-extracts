@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-31T01:37:24Z",
-  "total_releases": 3791,
+  "last_indexed_at": "2026-03-31T03:07:40Z",
+  "total_releases": 3792,
   "releases": {
     "2023-11": [
       {
@@ -19013,6 +19013,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/pharmac-funds-lifechanging-cystic-fibrosis-medication-all-ages",
         "date": "2026-03-31T01:21:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fiscal-responsibility-and-disclosure-beefed",
+        "date": "2026-03-31T02:26:11Z",
         "content_type": "releases"
       }
     ]
