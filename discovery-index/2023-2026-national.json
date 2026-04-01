@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-01T22:14:39Z",
-  "total_releases": 3803,
+  "last_indexed_at": "2026-04-01T23:14:53Z",
+  "total_releases": 3806,
   "releases": {
     "2023-11": [
       {
@@ -19075,6 +19075,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-supports-additional-diesel-storage",
         "date": "2026-04-01T21:58:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/increased-mileage-rates-home-and-community-support-workers",
+        "date": "2026-04-01T22:23:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/much-needed-relief-hospitality-businesses-time-easter",
+        "date": "2026-04-01T22:40:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fast-track-approved-project-could-deliver-new-zealand%E2%80%99s-largest-wind-farm",
+        "date": "2026-04-01T22:42:00Z",
         "content_type": "releases"
       }
     ]
