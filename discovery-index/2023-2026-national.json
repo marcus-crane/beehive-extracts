@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-01T05:47:53Z",
-  "total_releases": 3799,
+  "last_indexed_at": "2026-04-01T21:18:15Z",
+  "total_releases": 3800,
   "releases": {
     "2023-11": [
       {
@@ -19055,6 +19055,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/science-funding-focus-national-impact",
         "date": "2026-04-01T05:24:38Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-and-cook-islands-sign-defence-security-declaration",
+        "date": "2026-04-01T21:03:15Z",
         "content_type": "releases"
       }
     ]
