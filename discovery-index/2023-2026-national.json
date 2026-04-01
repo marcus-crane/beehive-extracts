@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-03-31T23:12:03Z",
-  "total_releases": 3798,
+  "last_indexed_at": "2026-04-01T05:47:53Z",
+  "total_releases": 3799,
   "releases": {
     "2023-11": [
       {
@@ -19048,6 +19048,13 @@
       {
         "url": "https://www.beehive.govt.nz/release/purchasing-rules-lifted-disability-support",
         "date": "2026-03-31T22:18:48Z",
+        "content_type": "releases"
+      }
+    ],
+    "2026-04": [
+      {
+        "url": "https://www.beehive.govt.nz/release/science-funding-focus-national-impact",
+        "date": "2026-04-01T05:24:38Z",
         "content_type": "releases"
       }
     ]
