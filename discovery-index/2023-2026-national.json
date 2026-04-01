@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-01T21:18:15Z",
-  "total_releases": 3800,
+  "last_indexed_at": "2026-04-01T22:14:39Z",
+  "total_releases": 3803,
   "releases": {
     "2023-11": [
       {
@@ -19060,6 +19060,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-and-cook-islands-sign-defence-security-declaration",
         "date": "2026-04-01T21:03:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pm-refreshes-ministerial-team",
+        "date": "2026-04-01T21:24:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/reduced-youth-offending-improved-school-attendance-welcomed",
+        "date": "2026-04-01T21:27:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-supports-additional-diesel-storage",
+        "date": "2026-04-01T21:58:10Z",
         "content_type": "releases"
       }
     ]
