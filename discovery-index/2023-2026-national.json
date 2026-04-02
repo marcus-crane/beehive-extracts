@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-02T00:29:54Z",
-  "total_releases": 3807,
+  "last_indexed_at": "2026-04-02T01:37:22Z",
+  "total_releases": 3808,
   "releases": {
     "2023-11": [
       {
@@ -19095,6 +19095,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/more-people-supported-streets-and-stable-housing",
         "date": "2026-04-02T00:17:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/young-people-are-turning-their-lives-around",
+        "date": "2026-04-02T00:41:23Z",
         "content_type": "releases"
       }
     ]
