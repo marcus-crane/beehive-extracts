@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-02T01:37:22Z",
-  "total_releases": 3808,
+  "last_indexed_at": "2026-04-02T03:07:32Z",
+  "total_releases": 3809,
   "releases": {
     "2023-11": [
       {
@@ -19100,6 +19100,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/young-people-are-turning-their-lives-around",
         "date": "2026-04-02T00:41:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/primary-teachers%E2%80%99-vote-accept-pay-settlement",
+        "date": "2026-04-02T01:45:56Z",
         "content_type": "releases"
       }
     ]
