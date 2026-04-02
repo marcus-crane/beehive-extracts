@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-02T04:47:46Z",
-  "total_releases": 3812,
+  "last_indexed_at": "2026-04-02T06:30:19Z",
+  "total_releases": 3813,
   "releases": {
     "2023-11": [
       {
@@ -19120,6 +19120,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/keeping-children-classrooms-and-supporting-schools-through-fuel-challenges",
         "date": "2026-04-02T04:41:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/unlocking-economic-potential-high-country-farms",
+        "date": "2026-04-02T05:36:34Z",
         "content_type": "releases"
       }
     ]
