@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-02T03:07:32Z",
-  "total_releases": 3809,
+  "last_indexed_at": "2026-04-02T04:47:46Z",
+  "total_releases": 3812,
   "releases": {
     "2023-11": [
       {
@@ -19105,6 +19105,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/primary-teachers%E2%80%99-vote-accept-pay-settlement",
         "date": "2026-04-02T01:45:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/greyhound-racing-end-bill-passes",
+        "date": "2026-04-02T03:34:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/foreign-minister-appoints-simpson-deputy-chair-antarctica-new-zealand",
+        "date": "2026-04-02T03:47:44Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/keeping-children-classrooms-and-supporting-schools-through-fuel-challenges",
+        "date": "2026-04-02T04:41:24Z",
         "content_type": "releases"
       }
     ]
