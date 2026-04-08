@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-08T01:37:16Z",
-  "total_releases": 3817,
+  "last_indexed_at": "2026-04-08T22:16:30Z",
+  "total_releases": 3818,
   "releases": {
     "2023-11": [
       {
@@ -19145,6 +19145,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-support-delivers-faster-access-eating-disorder-care",
         "date": "2026-04-08T01:16:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/construction-new-sh36-hauraki-stream-bridge-begin-month",
+        "date": "2026-04-08T21:24:29Z",
         "content_type": "releases"
       }
     ]
