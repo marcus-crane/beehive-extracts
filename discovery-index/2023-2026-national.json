@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-07T07:35:02Z",
-  "total_releases": 3815,
+  "last_indexed_at": "2026-04-08T01:37:16Z",
+  "total_releases": 3817,
   "releases": {
     "2023-11": [
       {
@@ -19135,6 +19135,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/hawkes-bay-water-project-boost-food-production",
         "date": "2026-04-07T01:52:55Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-welcomes-ceasefire",
+        "date": "2026-04-08T01:12:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-support-delivers-faster-access-eating-disorder-care",
+        "date": "2026-04-08T01:16:54Z",
         "content_type": "releases"
       }
     ]
