@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-08T23:16:53Z",
-  "total_releases": 3819,
+  "last_indexed_at": "2026-04-09T00:27:36Z",
+  "total_releases": 3822,
   "releases": {
     "2023-11": [
       {
@@ -19155,6 +19155,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/gas-focused-new-entrant-good-news-nz%E2%80%99s-petroleum-sector",
         "date": "2026-04-08T22:56:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pharmac-update-blood-cancer-decision-due-patient-feedback",
+        "date": "2026-04-08T23:24:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ev-chargers-roll-out-faster-under-new-rules",
+        "date": "2026-04-08T23:42:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-manukau-rehab-centre-spinal-injury-patients",
+        "date": "2026-04-08T23:57:20Z",
         "content_type": "releases"
       }
     ]
