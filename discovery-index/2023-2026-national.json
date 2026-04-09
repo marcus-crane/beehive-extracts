@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-09T00:27:36Z",
-  "total_releases": 3822,
+  "last_indexed_at": "2026-04-09T03:07:28Z",
+  "total_releases": 3823,
   "releases": {
     "2023-11": [
       {
@@ -19170,6 +19170,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-manukau-rehab-centre-spinal-injury-patients",
         "date": "2026-04-08T23:57:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/last-call-red-tape-alcohol-bill-open-submissions",
+        "date": "2026-04-09T02:32:59Z",
         "content_type": "releases"
       }
     ]
