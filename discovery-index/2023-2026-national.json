@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-10T05:01:53Z",
-  "total_releases": 3828,
+  "last_indexed_at": "2026-04-11T12:14:36Z",
+  "total_releases": 3830,
   "releases": {
     "2023-11": [
       {
@@ -19200,6 +19200,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/govt-encourages-farmers-growers-be-prepared",
         "date": "2026-04-10T03:48:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-and-cruise-sector-team-further-growth",
+        "date": "2026-04-10T23:05:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/job-well-done-resolving-rooftop-incident",
+        "date": "2026-04-11T03:20:27Z",
         "content_type": "releases"
       }
     ]
