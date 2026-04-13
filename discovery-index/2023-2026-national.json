@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-13T01:38:09Z",
-  "total_releases": 3832,
+  "last_indexed_at": "2026-04-13T03:09:02Z",
+  "total_releases": 3833,
   "releases": {
     "2023-11": [
       {
@@ -19195,6 +19195,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/panel-finds-judge-ema-aitken%E2%80%99s-conduct-does-not-justify-removal",
         "date": "2026-04-10T02:24:26Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rural-communities-access-planned-care-closer-home",
+        "date": "2026-04-10T02:29:17Z",
         "content_type": "releases"
       },
       {
