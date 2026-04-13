@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-13T03:09:02Z",
-  "total_releases": 3833,
+  "last_indexed_at": "2026-04-13T22:18:45Z",
+  "total_releases": 3834,
   "releases": {
     "2023-11": [
       {
@@ -19225,6 +19225,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/pm-welcomes-palau-president-first-state-visit",
         "date": "2026-04-13T01:30:52Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nelson-hospital-ed-expansion-complete",
+        "date": "2026-04-13T21:24:55Z",
         "content_type": "releases"
       }
     ]
