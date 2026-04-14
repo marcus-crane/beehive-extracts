@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-14T21:19:45Z",
-  "total_releases": 3841,
+  "last_indexed_at": "2026-04-14T22:18:52Z",
+  "total_releases": 3842,
   "releases": {
     "2023-11": [
       {
@@ -19265,6 +19265,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/dunedin-get-new-crisis-recovery-caf%C3%A9",
         "date": "2026-04-14T20:43:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-welcomes-landcorp-special-dividend",
+        "date": "2026-04-14T22:02:20Z",
         "content_type": "releases"
       }
     ]
