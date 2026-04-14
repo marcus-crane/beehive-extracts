@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-14T00:37:28Z",
-  "total_releases": 3838,
+  "last_indexed_at": "2026-04-14T01:37:06Z",
+  "total_releases": 3839,
   "releases": {
     "2023-11": [
       {
@@ -19235,6 +19235,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/first-crisis-recovery-caf%C3%A9-south-island",
         "date": "2026-04-13T22:50:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-retirement-commissioner-appointed-0",
+        "date": "2026-04-13T23:21:31Z",
         "content_type": "releases"
       },
       {
