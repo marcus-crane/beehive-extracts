@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-14T05:00:04Z",
-  "total_releases": 3840,
+  "last_indexed_at": "2026-04-14T21:19:45Z",
+  "total_releases": 3841,
   "releases": {
     "2023-11": [
       {
@@ -19260,6 +19260,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-tourism-continuing-rise",
         "date": "2026-04-14T03:32:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/dunedin-get-new-crisis-recovery-caf%C3%A9",
+        "date": "2026-04-14T20:43:23Z",
         "content_type": "releases"
       }
     ]
