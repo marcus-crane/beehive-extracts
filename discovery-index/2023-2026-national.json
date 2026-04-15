@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-14T22:18:52Z",
-  "total_releases": 3842,
+  "last_indexed_at": "2026-04-15T03:08:03Z",
+  "total_releases": 3844,
   "releases": {
     "2023-11": [
       {
@@ -19270,6 +19270,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/minister-welcomes-landcorp-special-dividend",
         "date": "2026-04-14T22:02:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/expanded-role-community-pharmacists",
+        "date": "2026-04-15T01:58:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/report-shows-economic-contribution-seniors",
+        "date": "2026-04-15T02:56:02Z",
         "content_type": "releases"
       }
     ]
