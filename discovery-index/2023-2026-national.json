@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-15T05:00:30Z",
-  "total_releases": 3845,
+  "last_indexed_at": "2026-04-15T22:17:41Z",
+  "total_releases": 3846,
   "releases": {
     "2023-11": [
       {
@@ -19285,6 +19285,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/tony-balfour-appointed-chair-new-zealand-lotteries-commission-board",
         "date": "2026-04-15T03:38:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/investment-strengthens-resilience-two-t%C4%81kitimu-marae",
+        "date": "2026-04-15T21:00:00Z",
         "content_type": "releases"
       }
     ]
