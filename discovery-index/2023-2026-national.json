@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-15T22:17:41Z",
-  "total_releases": 3846,
+  "last_indexed_at": "2026-04-15T23:19:00Z",
+  "total_releases": 3850,
   "releases": {
     "2023-11": [
       {
@@ -19290,6 +19290,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/investment-strengthens-resilience-two-t%C4%81kitimu-marae",
         "date": "2026-04-15T21:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/marlborough-moves-ferry-solution-forward",
+        "date": "2026-04-15T22:34:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sh2-roundabout-boosts-road-safety-eastern-bay-plenty",
+        "date": "2026-04-15T22:39:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sh73-candy%E2%80%99s-bend-resilience-project-getting-underway",
+        "date": "2026-04-15T22:47:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-appointments-health-new-zealand-board",
+        "date": "2026-04-15T23:10:06Z",
         "content_type": "releases"
       }
     ]
