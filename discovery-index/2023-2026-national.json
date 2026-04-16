@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-16T00:38:29Z",
-  "total_releases": 3851,
+  "last_indexed_at": "2026-04-16T01:37:39Z",
+  "total_releases": 3852,
   "releases": {
     "2023-11": [
       {
@@ -19315,6 +19315,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-appointments-health-new-zealand-board",
         "date": "2026-04-15T23:10:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/wof-and-cof-changes-save-kiwis-billions",
+        "date": "2026-04-16T01:23:20Z",
         "content_type": "releases"
       }
     ]
