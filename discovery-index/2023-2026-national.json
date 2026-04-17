@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-16T23:17:43Z",
-  "total_releases": 3854,
+  "last_indexed_at": "2026-04-17T01:37:20Z",
+  "total_releases": 3855,
   "releases": {
     "2023-11": [
       {
@@ -19330,6 +19330,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-boat-hoist-lifts-port-nelson%E2%80%99s-marine-capability",
         "date": "2026-04-16T22:35:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fast-tracked-hydro-boost-west-coast-resilience",
+        "date": "2026-04-17T00:54:28Z",
         "content_type": "releases"
       }
     ]
