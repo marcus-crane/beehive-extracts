@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-19T17:15:15Z",
-  "total_releases": 3857,
+  "last_indexed_at": "2026-04-19T21:13:25Z",
+  "total_releases": 3858,
   "releases": {
     "2023-11": [
       {
@@ -19345,6 +19345,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/legal-verification-india-fta-complete-and-date-signing-agreed",
         "date": "2026-04-19T17:06:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-wakefield-street-bridge-whanganui",
+        "date": "2026-04-19T20:33:17Z",
         "content_type": "releases"
       }
     ]
