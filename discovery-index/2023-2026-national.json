@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-17T22:15:31Z",
-  "total_releases": 3856,
+  "last_indexed_at": "2026-04-19T17:15:15Z",
+  "total_releases": 3857,
   "releases": {
     "2023-11": [
       {
@@ -19340,6 +19340,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/lower-hutt%E2%80%99s-eastern-bays-shared-path-opens",
         "date": "2026-04-17T21:26:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/legal-verification-india-fta-complete-and-date-signing-agreed",
+        "date": "2026-04-19T17:06:01Z",
         "content_type": "releases"
       }
     ]
