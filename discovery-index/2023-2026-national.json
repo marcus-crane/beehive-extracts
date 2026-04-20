@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-20T01:38:02Z",
-  "total_releases": 3859,
+  "last_indexed_at": "2026-04-20T21:19:46Z",
+  "total_releases": 3860,
   "releases": {
     "2023-11": [
       {
@@ -19355,6 +19355,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/board-appointed-protect-property-rights",
         "date": "2026-04-20T01:30:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/immediate-fuel-relief-school-communities",
+        "date": "2026-04-20T04:00:05Z",
         "content_type": "releases"
       }
     ]
