@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-20T21:19:46Z",
-  "total_releases": 3860,
+  "last_indexed_at": "2026-04-21T03:08:11Z",
+  "total_releases": 3861,
   "releases": {
     "2023-11": [
       {
@@ -19360,6 +19360,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/immediate-fuel-relief-school-communities",
         "date": "2026-04-20T04:00:05Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/seventh-fast-track-housing-development-approved",
+        "date": "2026-04-21T02:55:50Z",
         "content_type": "releases"
       }
     ]
