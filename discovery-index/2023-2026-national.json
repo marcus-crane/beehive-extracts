@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-22T18:26:54Z",
-  "total_releases": 3867,
+  "last_indexed_at": "2026-04-22T20:22:37Z",
+  "total_releases": 3868,
   "releases": {
     "2023-11": [
       {
@@ -19395,6 +19395,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/boosting-maths-progress-nationwide-proven-pathway",
         "date": "2026-04-22T18:07:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/moody%E2%80%99s-highlights-need-balanced-books",
+        "date": "2026-04-22T20:01:20Z",
         "content_type": "releases"
       }
     ]
