@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-22T22:18:50Z",
-  "total_releases": 3872,
+  "last_indexed_at": "2026-04-22T23:20:33Z",
+  "total_releases": 3873,
   "releases": {
     "2023-11": [
       {
@@ -19420,6 +19420,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-biodiversity-plan-focuses-turning-tide",
         "date": "2026-04-22T22:10:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/skilled-plumbers-and-drainlayers-scheme-expands",
+        "date": "2026-04-22T23:01:22Z",
         "content_type": "releases"
       }
     ]
