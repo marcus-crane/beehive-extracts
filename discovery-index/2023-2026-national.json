@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-22T00:33:31Z",
-  "total_releases": 3865,
+  "last_indexed_at": "2026-04-22T03:08:16Z",
+  "total_releases": 3866,
   "releases": {
     "2023-11": [
       {
@@ -19385,6 +19385,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/upgraded-whang%C4%81rei-hospital-helipad-speed-emergency-care",
         "date": "2026-04-22T00:30:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-flexibility-high-country-pastoral-farmers",
+        "date": "2026-04-22T03:01:26Z",
         "content_type": "releases"
       }
     ]
