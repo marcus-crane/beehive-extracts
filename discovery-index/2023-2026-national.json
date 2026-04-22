@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-22T20:22:37Z",
-  "total_releases": 3868,
+  "last_indexed_at": "2026-04-22T22:18:50Z",
+  "total_releases": 3872,
   "releases": {
     "2023-11": [
       {
@@ -19400,6 +19400,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/moody%E2%80%99s-highlights-need-balanced-books",
         "date": "2026-04-22T20:01:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bonjour-investment-new-zealand",
+        "date": "2026-04-22T21:22:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/80s-called-they-want-their-views-back",
+        "date": "2026-04-22T21:41:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/attendance-rates-increase-again-0",
+        "date": "2026-04-22T22:04:18Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-biodiversity-plan-focuses-turning-tide",
+        "date": "2026-04-22T22:10:04Z",
         "content_type": "releases"
       }
     ]
