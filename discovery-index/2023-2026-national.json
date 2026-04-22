@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-22T03:08:16Z",
-  "total_releases": 3866,
+  "last_indexed_at": "2026-04-22T18:26:54Z",
+  "total_releases": 3867,
   "releases": {
     "2023-11": [
       {
@@ -19390,6 +19390,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/more-flexibility-high-country-pastoral-farmers",
         "date": "2026-04-22T03:01:26Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/boosting-maths-progress-nationwide-proven-pathway",
+        "date": "2026-04-22T18:07:47Z",
         "content_type": "releases"
       }
     ]
