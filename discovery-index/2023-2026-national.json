@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-22T23:20:33Z",
-  "total_releases": 3873,
+  "last_indexed_at": "2026-04-23T00:38:48Z",
+  "total_releases": 3874,
   "releases": {
     "2023-11": [
       {
@@ -19425,6 +19425,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/skilled-plumbers-and-drainlayers-scheme-expands",
         "date": "2026-04-22T23:01:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/mcclay-leads-delegation-india-fta-signing",
+        "date": "2026-04-23T00:26:19Z",
         "content_type": "releases"
       }
     ]
