@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-23T00:38:48Z",
-  "total_releases": 3874,
+  "last_indexed_at": "2026-04-23T01:37:47Z",
+  "total_releases": 3875,
   "releases": {
     "2023-11": [
       {
@@ -19425,6 +19425,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/skilled-plumbers-and-drainlayers-scheme-expands",
         "date": "2026-04-22T23:01:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/online-casino-gambling-bill-passes-third-reading",
+        "date": "2026-04-23T00:02:11Z",
         "content_type": "releases"
       },
       {
