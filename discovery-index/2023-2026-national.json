@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-23T01:37:47Z",
-  "total_releases": 3875,
+  "last_indexed_at": "2026-04-23T05:03:40Z",
+  "total_releases": 3876,
   "releases": {
     "2023-11": [
       {
@@ -19435,6 +19435,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/mcclay-leads-delegation-india-fta-signing",
         "date": "2026-04-23T00:26:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/defence-minister-visit-australia",
+        "date": "2026-04-23T04:04:57Z",
         "content_type": "releases"
       }
     ]
