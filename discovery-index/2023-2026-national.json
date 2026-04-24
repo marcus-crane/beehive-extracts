@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-24T00:38:51Z",
-  "total_releases": 3879,
+  "last_indexed_at": "2026-04-24T03:08:55Z",
+  "total_releases": 3880,
   "releases": {
     "2023-11": [
       {
@@ -19435,6 +19435,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/mcclay-leads-delegation-india-fta-signing",
         "date": "2026-04-23T00:26:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/volunteer-awards-celebrate-health-heroes",
+        "date": "2026-04-23T03:00:24Z",
         "content_type": "releases"
       },
       {
