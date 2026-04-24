@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-24T03:08:55Z",
-  "total_releases": 3880,
+  "last_indexed_at": "2026-04-24T05:05:11Z",
+  "total_releases": 3883,
   "releases": {
     "2023-11": [
       {
@@ -19460,6 +19460,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-high-court-judge-appointed-15",
         "date": "2026-04-23T23:48:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/risk-canterbury-youth-benefit-new-fund",
+        "date": "2026-04-24T02:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rebuilding-vogels-rail-system",
+        "date": "2026-04-24T03:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/willis-chalmers-discuss-fuel-security-economic-growth",
+        "date": "2026-04-24T03:49:12Z",
         "content_type": "releases"
       }
     ]
