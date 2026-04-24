@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-23T05:03:40Z",
-  "total_releases": 3876,
+  "last_indexed_at": "2026-04-24T00:38:51Z",
+  "total_releases": 3879,
   "releases": {
     "2023-11": [
       {
@@ -19440,6 +19440,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/defence-minister-visit-australia",
         "date": "2026-04-23T04:04:57Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fuel-cost-relief-veterans%E2%80%99-medical-travel",
+        "date": "2026-04-23T23:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/regional-airlines-supported-rif-funding",
+        "date": "2026-04-23T23:41:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-high-court-judge-appointed-15",
+        "date": "2026-04-23T23:48:20Z",
         "content_type": "releases"
       }
     ]
