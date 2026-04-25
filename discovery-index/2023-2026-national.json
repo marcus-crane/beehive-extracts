@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-24T05:05:11Z",
-  "total_releases": 3883,
+  "last_indexed_at": "2026-04-25T23:15:34Z",
+  "total_releases": 3884,
   "releases": {
     "2023-11": [
       {
@@ -19475,6 +19475,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/willis-chalmers-discuss-fuel-security-economic-growth",
         "date": "2026-04-24T03:49:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rebuilding-regional-tourism-after-severe-weather",
+        "date": "2026-04-25T22:25:08Z",
         "content_type": "releases"
       }
     ]
