@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-27T09:50:01Z",
-  "total_releases": 3887,
+  "last_indexed_at": "2026-04-27T22:20:14Z",
+  "total_releases": 3889,
   "releases": {
     "2023-11": [
       {
@@ -19495,6 +19495,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/historic-nz-india-fta-signed-new-delhi",
         "date": "2026-04-27T09:37:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-consults-biosecurity-changes-safeguard-beef-exports",
+        "date": "2026-04-27T21:56:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sh2-flood-resilience-works-completed-early",
+        "date": "2026-04-27T22:15:02Z",
         "content_type": "releases"
       }
     ]
