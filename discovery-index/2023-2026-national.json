@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-28T03:10:09Z",
-  "total_releases": 3892,
+  "last_indexed_at": "2026-04-28T05:11:00Z",
+  "total_releases": 3894,
   "releases": {
     "2023-11": [
       {
@@ -19520,6 +19520,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/kaitaia-hospital-boosts-access-specialist-care",
         "date": "2026-04-28T02:48:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tougher-legislation-manage-extreme-risk-prisoners-passes-first-reading",
+        "date": "2026-04-28T03:23:44Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/additional-90-million-litres-diesel-coming",
+        "date": "2026-04-28T04:08:29Z",
         "content_type": "releases"
       }
     ]
