@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-28T21:26:53Z",
-  "total_releases": 3897,
+  "last_indexed_at": "2026-04-28T22:23:15Z",
+  "total_releases": 3898,
   "releases": {
     "2023-11": [
       {
@@ -19545,6 +19545,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/more-progress-wellington-road-regional-significance-project",
         "date": "2026-04-28T21:13:33Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/finalists-announced-manufacturing-awards",
+        "date": "2026-04-28T21:30:56Z",
         "content_type": "releases"
       }
     ]
