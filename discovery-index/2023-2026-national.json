@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-28T00:41:27Z",
-  "total_releases": 3890,
+  "last_indexed_at": "2026-04-28T03:10:09Z",
+  "total_releases": 3892,
   "releases": {
     "2023-11": [
       {
@@ -19510,6 +19510,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/attendance-initiatives-continue-get-children-back-school",
         "date": "2026-04-27T23:36:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/updated-granny-flat-rules-increase-choice",
+        "date": "2026-04-28T01:45:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kaitaia-hospital-boosts-access-specialist-care",
+        "date": "2026-04-28T02:48:20Z",
         "content_type": "releases"
       }
     ]
