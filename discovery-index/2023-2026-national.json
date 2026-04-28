@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-27T22:20:14Z",
-  "total_releases": 3889,
+  "last_indexed_at": "2026-04-28T00:41:27Z",
+  "total_releases": 3890,
   "releases": {
     "2023-11": [
       {
@@ -19505,6 +19505,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/sh2-flood-resilience-works-completed-early",
         "date": "2026-04-27T22:15:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/attendance-initiatives-continue-get-children-back-school",
+        "date": "2026-04-27T23:36:29Z",
         "content_type": "releases"
       }
     ]
