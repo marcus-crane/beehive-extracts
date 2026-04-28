@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-28T22:23:15Z",
-  "total_releases": 3898,
+  "last_indexed_at": "2026-04-28T23:21:49Z",
+  "total_releases": 3899,
   "releases": {
     "2023-11": [
       {
@@ -19550,6 +19550,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/finalists-announced-manufacturing-awards",
         "date": "2026-04-28T21:30:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cracking-down-nitrous-oxide-misuse",
+        "date": "2026-04-28T23:03:46Z",
         "content_type": "releases"
       }
     ]
