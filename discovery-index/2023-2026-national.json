@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-28T23:21:49Z",
-  "total_releases": 3899,
+  "last_indexed_at": "2026-04-30T05:11:14Z",
+  "total_releases": 3910,
   "releases": {
     "2023-11": [
       {
@@ -19555,6 +19555,61 @@
       {
         "url": "https://www.beehive.govt.nz/release/cracking-down-nitrous-oxide-misuse",
         "date": "2026-04-28T23:03:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/prime-minister-visit-singapore",
+        "date": "2026-04-29T00:51:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/junior-doctors-vote-accept-settlement",
+        "date": "2026-04-29T04:43:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/asia-new-zealand-foundation-chair-and-board-appointments",
+        "date": "2026-04-29T06:32:18Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-diplomatic-appointments-10",
+        "date": "2026-04-29T06:37:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/funding-boost-sunsmart-cancer-prevention-programme",
+        "date": "2026-04-29T20:17:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/exercises-test-our-ability-manage-foot-and-mouth-disease",
+        "date": "2026-04-29T21:55:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/reserve-bank-transparency-increasing",
+        "date": "2026-04-29T23:05:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-flex-public-transport-operators-and-contractors-fuel-costs-rise",
+        "date": "2026-04-29T23:36:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointments-nz-blood-and-organ-service-board",
+        "date": "2026-04-30T00:56:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/additional-tools-go-after-fraudsters",
+        "date": "2026-04-30T03:41:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/auckland-transport-reforms-pass-third-reading",
+        "date": "2026-04-30T04:50:17Z",
         "content_type": "releases"
       }
     ]
