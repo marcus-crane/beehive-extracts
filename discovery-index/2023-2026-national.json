@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-04-30T23:21:57Z",
-  "total_releases": 3913,
+  "last_indexed_at": "2026-05-01T00:44:54Z",
+  "total_releases": 3915,
   "releases": {
     "2023-11": [
       {
@@ -19625,6 +19625,18 @@
       {
         "url": "https://www.beehive.govt.nz/release/parihaka-infrastructure-upgrades-completed",
         "date": "2026-04-30T23:11:27Z",
+        "content_type": "releases"
+      }
+    ],
+    "2026-05": [
+      {
+        "url": "https://www.beehive.govt.nz/release/government-support-flood-hit-communities",
+        "date": "2026-05-01T00:08:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/lead-free-plumbing-rules-protect-drinking-water",
+        "date": "2026-05-01T00:30:00Z",
         "content_type": "releases"
       }
     ]
