@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-01T00:44:54Z",
-  "total_releases": 3915,
+  "last_indexed_at": "2026-05-01T01:39:14Z",
+  "total_releases": 3916,
   "releases": {
     "2023-11": [
       {
@@ -19637,6 +19637,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/lead-free-plumbing-rules-protect-drinking-water",
         "date": "2026-05-01T00:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/christchurch-industrial-development-fast-tracked",
+        "date": "2026-05-01T00:45:00Z",
         "content_type": "releases"
       }
     ]
