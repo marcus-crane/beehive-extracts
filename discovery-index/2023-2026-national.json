@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-01T22:20:00Z",
-  "total_releases": 3917,
+  "last_indexed_at": "2026-05-02T01:37:49Z",
+  "total_releases": 3918,
   "releases": {
     "2023-11": [
       {
@@ -19647,6 +19647,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/minister-joins-game-bird-season-opening-weekend",
         "date": "2026-05-01T21:51:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-state-art-cancer-treatment-machine-dunedin-hospital",
+        "date": "2026-05-02T01:10:34Z",
         "content_type": "releases"
       }
     ]
