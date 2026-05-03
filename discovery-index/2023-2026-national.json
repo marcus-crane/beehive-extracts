@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-02T01:37:49Z",
-  "total_releases": 3918,
+  "last_indexed_at": "2026-05-03T21:18:04Z",
+  "total_releases": 3919,
   "releases": {
     "2023-11": [
       {
@@ -19652,6 +19652,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-state-art-cancer-treatment-machine-dunedin-hospital",
         "date": "2026-05-02T01:10:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/building-better-school-infrastructure-future",
+        "date": "2026-05-03T21:00:00Z",
         "content_type": "releases"
       }
     ]
