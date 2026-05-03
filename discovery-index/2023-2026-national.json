@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-03T22:16:54Z",
-  "total_releases": 3920,
+  "last_indexed_at": "2026-05-03T23:18:41Z",
+  "total_releases": 3921,
   "releases": {
     "2023-11": [
       {
@@ -19652,6 +19652,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-state-art-cancer-treatment-machine-dunedin-hospital",
         "date": "2026-05-02T01:10:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/floodgate-protects-kaipara-land-and-transport-link",
+        "date": "2026-05-02T23:30:57Z",
         "content_type": "releases"
       },
       {
