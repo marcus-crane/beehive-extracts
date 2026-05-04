@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-04T22:24:03Z",
-  "total_releases": 3925,
+  "last_indexed_at": "2026-05-04T23:21:37Z",
+  "total_releases": 3926,
   "releases": {
     "2023-11": [
       {
@@ -19682,6 +19682,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/feedback-sought-employment-dispute-resolution-process",
         "date": "2026-05-04T17:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-appointments-environmental-protection-authority-board",
+        "date": "2026-05-04T22:00:47Z",
         "content_type": "releases"
       },
       {
