@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-04T03:10:39Z",
-  "total_releases": 3922,
+  "last_indexed_at": "2026-05-04T05:12:50Z",
+  "total_releases": 3923,
   "releases": {
     "2023-11": [
       {
@@ -19672,6 +19672,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/minister-acknowledges-resignation-fma-chair",
         "date": "2026-05-04T03:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-and-singapore-agreement-protects-fuel-supply",
+        "date": "2026-05-04T04:44:47Z",
         "content_type": "releases"
       }
     ]
