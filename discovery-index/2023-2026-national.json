@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-04T05:12:50Z",
-  "total_releases": 3923,
+  "last_indexed_at": "2026-05-04T17:35:15Z",
+  "total_releases": 3924,
   "releases": {
     "2023-11": [
       {
@@ -19677,6 +19677,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/nz-and-singapore-agreement-protects-fuel-supply",
         "date": "2026-05-04T04:44:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/feedback-sought-employment-dispute-resolution-process",
+        "date": "2026-05-04T17:00:00Z",
         "content_type": "releases"
       }
     ]
