@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-05T10:36:23Z",
-  "total_releases": 3932,
+  "last_indexed_at": "2026-05-05T22:22:27Z",
+  "total_releases": 3935,
   "releases": {
     "2023-11": [
       {
@@ -19722,6 +19722,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-appointment-tertiary-education-commission-board",
         "date": "2026-05-05T05:18:38Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/young-people-northland-get-better-crisis-support",
+        "date": "2026-05-05T21:44:33Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/test-strengthen-citizenship-grant-process",
+        "date": "2026-05-05T21:54:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/feedback-sought-auckland-and-coromandel-shellfish-gathering",
+        "date": "2026-05-05T22:10:20Z",
         "content_type": "releases"
       }
     ]
