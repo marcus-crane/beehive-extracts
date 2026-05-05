@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-05T06:50:37Z",
-  "total_releases": 3931,
+  "last_indexed_at": "2026-05-05T10:36:23Z",
+  "total_releases": 3932,
   "releases": {
     "2023-11": [
       {
@@ -19712,6 +19712,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/cheaper-smarter-ev-charging-way-kiwis",
         "date": "2026-05-05T01:19:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/prime-minister-wraps-visit-singapore",
+        "date": "2026-05-05T04:54:14Z",
         "content_type": "releases"
       },
       {
