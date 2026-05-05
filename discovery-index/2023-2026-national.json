@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-05T00:39:52Z",
-  "total_releases": 3929,
+  "last_indexed_at": "2026-05-05T01:38:21Z",
+  "total_releases": 3930,
   "releases": {
     "2023-11": [
       {
@@ -19707,6 +19707,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/councils-invited-fast-track-local-reform",
         "date": "2026-05-05T00:15:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cheaper-smarter-ev-charging-way-kiwis",
+        "date": "2026-05-05T01:19:23Z",
         "content_type": "releases"
       }
     ]
