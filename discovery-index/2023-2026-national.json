@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-05T23:21:24Z",
-  "total_releases": 3937,
+  "last_indexed_at": "2026-05-06T00:39:06Z",
+  "total_releases": 3938,
   "releases": {
     "2023-11": [
       {
@@ -19747,6 +19747,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/appointments-health-research-council-new-zealand",
         "date": "2026-05-05T23:18:05Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-disestablish-bsa",
+        "date": "2026-05-06T00:11:46Z",
         "content_type": "releases"
       }
     ]
