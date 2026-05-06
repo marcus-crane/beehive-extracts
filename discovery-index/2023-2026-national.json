@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-06T06:59:14Z",
-  "total_releases": 3941,
+  "last_indexed_at": "2026-05-06T21:27:46Z",
+  "total_releases": 3942,
   "releases": {
     "2023-11": [
       {
@@ -19767,6 +19767,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-welcomes-costa-rica-joining-cptpp",
         "date": "2026-05-06T05:40:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/protections-locked-stop-abuse-overseas-adoptions",
+        "date": "2026-05-06T20:56:12Z",
         "content_type": "releases"
       }
     ]
