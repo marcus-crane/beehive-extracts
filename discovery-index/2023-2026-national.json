@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-06T22:19:51Z",
-  "total_releases": 3943,
+  "last_indexed_at": "2026-05-06T23:20:57Z",
+  "total_releases": 3946,
   "releases": {
     "2023-11": [
       {
@@ -19777,6 +19777,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/boost-cycling-infrastructure-across-nz",
         "date": "2026-05-06T21:40:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/supporting-communities-create-safer-environments-children",
+        "date": "2026-05-06T22:24:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/senior-doctors-vote-accept-settlement",
+        "date": "2026-05-06T23:00:31Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/frigate-project-progress-key-maritime-security",
+        "date": "2026-05-06T23:02:36Z",
         "content_type": "releases"
       }
     ]
