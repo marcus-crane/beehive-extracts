@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-06T23:20:57Z",
-  "total_releases": 3946,
+  "last_indexed_at": "2026-05-07T00:41:55Z",
+  "total_releases": 3948,
   "releases": {
     "2023-11": [
       {
@@ -19792,6 +19792,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/frigate-project-progress-key-maritime-security",
         "date": "2026-05-06T23:02:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/farmers%E2%80%99-nature-work-recognised-and-export-claims-boosted-silver-fern-farm%E2%80%99s-initiative",
+        "date": "2026-05-06T23:23:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-ambassador-chair-wto-general-council-0",
+        "date": "2026-05-06T23:47:36Z",
         "content_type": "releases"
       }
     ]
