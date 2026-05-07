@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-07T01:39:05Z",
-  "total_releases": 3949,
+  "last_indexed_at": "2026-05-07T05:11:40Z",
+  "total_releases": 3953,
   "releases": {
     "2023-11": [
       {
@@ -19807,6 +19807,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/nz-announces-sanctions-malicious-russian-cyber-actors-online-platforms",
         "date": "2026-05-07T00:46:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rate-rebate-scheme-assist-ratepayers",
+        "date": "2026-05-07T03:13:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/solar-panel-installation-be-done-lightspeed",
+        "date": "2026-05-07T03:18:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/canterbury%E2%80%99s-ryans-road-fast-tracked",
+        "date": "2026-05-07T03:44:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/landmark-conservation-reform-bill-will-boost-economy-and-protect-nature",
+        "date": "2026-05-07T03:45:54Z",
         "content_type": "releases"
       }
     ]
