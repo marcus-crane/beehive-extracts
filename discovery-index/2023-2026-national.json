@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-07T05:11:40Z",
-  "total_releases": 3953,
+  "last_indexed_at": "2026-05-08T11:33:44Z",
+  "total_releases": 3961,
   "releases": {
     "2023-11": [
       {
@@ -19827,6 +19827,46 @@
       {
         "url": "https://www.beehive.govt.nz/release/landmark-conservation-reform-bill-will-boost-economy-and-protect-nature",
         "date": "2026-05-07T03:45:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-purpose-built-endoscopy-suite-wairarapa-hospital",
+        "date": "2026-05-07T22:41:30Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-high-court-associate-judge-appointed",
+        "date": "2026-05-07T23:43:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointment-king%E2%80%99s-counsel-0",
+        "date": "2026-05-07T23:43:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointments-health-quality-and-safety-commission-board",
+        "date": "2026-05-08T01:31:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/needle-exchange-service-strengthen-prevention",
+        "date": "2026-05-08T01:36:31Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-secures-long-term-housing-westport",
+        "date": "2026-05-08T03:40:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sh82-bridge-replacement-delivered-under-budget",
+        "date": "2026-05-08T03:42:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/critical-flood-resilience-work-begins-southland",
+        "date": "2026-05-08T04:10:00Z",
         "content_type": "releases"
       }
     ]
