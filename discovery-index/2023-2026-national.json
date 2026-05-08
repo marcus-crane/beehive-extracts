@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-08T11:33:44Z",
-  "total_releases": 3961,
+  "last_indexed_at": "2026-05-08T21:25:06Z",
+  "total_releases": 3962,
   "releases": {
     "2023-11": [
       {
@@ -19867,6 +19867,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/critical-flood-resilience-work-begins-southland",
         "date": "2026-05-08T04:10:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/green-light-new-sh6-walking-and-cycling-bridge-queenstown",
+        "date": "2026-05-08T21:18:56Z",
         "content_type": "releases"
       }
     ]
