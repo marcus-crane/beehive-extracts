@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-08T21:25:06Z",
-  "total_releases": 3962,
+  "last_indexed_at": "2026-05-09T00:42:59Z",
+  "total_releases": 3963,
   "releases": {
     "2023-11": [
       {
@@ -19872,6 +19872,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/green-light-new-sh6-walking-and-cycling-bridge-queenstown",
         "date": "2026-05-08T21:18:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-engine-room-now-powering-auckland-city-hospital",
+        "date": "2026-05-09T00:14:11Z",
         "content_type": "releases"
       }
     ]
