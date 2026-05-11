@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-11T17:45:49Z",
-  "total_releases": 3970,
+  "last_indexed_at": "2026-05-11T19:36:05Z",
+  "total_releases": 3971,
   "releases": {
     "2023-11": [
       {
@@ -19912,6 +19912,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/football-festival-brings-more-global-football-stars",
         "date": "2026-05-11T17:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-brings-certainty-climate-change-tort-law",
+        "date": "2026-05-11T19:33:29Z",
         "content_type": "releases"
       }
     ]
