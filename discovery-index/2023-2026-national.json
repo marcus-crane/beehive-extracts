@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-09T20:17:24Z",
-  "total_releases": 3964,
+  "last_indexed_at": "2026-05-11T00:44:54Z",
+  "total_releases": 3967,
   "releases": {
     "2023-11": [
       {
@@ -19835,6 +19835,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/combining-forces-illicit-tobacco",
+        "date": "2026-05-07T23:19:30Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/new-high-court-associate-judge-appointed",
         "date": "2026-05-07T23:43:04Z",
         "content_type": "releases"
@@ -19882,6 +19887,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/cancer-treatment-closer-home-west-aucklanders",
         "date": "2026-05-09T20:12:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-backs-growth-trusted-voluntary-nature-and-carbon-markets",
+        "date": "2026-05-10T23:29:57Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/keeping-wait%C4%81kere-hospital-flowing-winter",
+        "date": "2026-05-11T00:30:25Z",
         "content_type": "releases"
       }
     ]
