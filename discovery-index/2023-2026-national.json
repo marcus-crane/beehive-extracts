@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-11T00:44:54Z",
-  "total_releases": 3967,
+  "last_indexed_at": "2026-05-11T03:12:11Z",
+  "total_releases": 3968,
   "releases": {
     "2023-11": [
       {
@@ -19897,6 +19897,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/keeping-wait%C4%81kere-hospital-flowing-winter",
         "date": "2026-05-11T00:30:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/flexibility-adaptability-key-fuel-response-plan",
+        "date": "2026-05-11T02:42:52Z",
         "content_type": "releases"
       }
     ]
