@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-11T21:32:38Z",
-  "total_releases": 3972,
+  "last_indexed_at": "2026-05-11T23:22:41Z",
+  "total_releases": 3973,
   "releases": {
     "2023-11": [
       {
@@ -19922,6 +19922,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/industry-awards-recognise-innovation-and-impact",
         "date": "2026-05-11T21:02:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/citizenship-office-smashing-timeliness-targets",
+        "date": "2026-05-11T22:56:35Z",
         "content_type": "releases"
       }
     ]
