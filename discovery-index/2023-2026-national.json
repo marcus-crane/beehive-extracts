@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-11T03:12:11Z",
-  "total_releases": 3968,
+  "last_indexed_at": "2026-05-11T05:23:16Z",
+  "total_releases": 3969,
   "releases": {
     "2023-11": [
       {
@@ -19902,6 +19902,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/flexibility-adaptability-key-fuel-response-plan",
         "date": "2026-05-11T02:42:52Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-inks-deal-bolster-fuel-resilience",
+        "date": "2026-05-11T02:44:28Z",
         "content_type": "releases"
       }
     ]
