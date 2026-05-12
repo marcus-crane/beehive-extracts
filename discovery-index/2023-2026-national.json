@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-12T22:29:47Z",
-  "total_releases": 3980,
+  "last_indexed_at": "2026-05-12T23:26:42Z",
+  "total_releases": 3981,
   "releases": {
     "2023-11": [
       {
@@ -19962,6 +19962,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/ng%C4%81-hap%C5%AB-o-te-iwi-o-whanganui-bill-moves-forward-pace",
         "date": "2026-05-12T22:19:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cancer-treatment-closer-home-king-country-patients",
+        "date": "2026-05-12T22:36:54Z",
         "content_type": "releases"
       }
     ]
