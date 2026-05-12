@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-12T00:40:58Z",
-  "total_releases": 3975,
+  "last_indexed_at": "2026-05-12T05:16:51Z",
+  "total_releases": 3976,
   "releases": {
     "2023-11": [
       {
@@ -19937,6 +19937,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/recognising-extraordinary-contribution-nurses",
         "date": "2026-05-12T00:03:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-announces-delegations-new-associate-agriculture-minister",
+        "date": "2026-05-12T03:20:18Z",
         "content_type": "releases"
       }
     ]
