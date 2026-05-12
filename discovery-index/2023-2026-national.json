@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-11T23:22:41Z",
-  "total_releases": 3973,
+  "last_indexed_at": "2026-05-12T00:40:58Z",
+  "total_releases": 3975,
   "releases": {
     "2023-11": [
       {
@@ -19927,6 +19927,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/citizenship-office-smashing-timeliness-targets",
         "date": "2026-05-11T22:56:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fourth-petroleum-permit-application-enters-competitive-process",
+        "date": "2026-05-11T23:37:39Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/recognising-extraordinary-contribution-nurses",
+        "date": "2026-05-12T00:03:46Z",
         "content_type": "releases"
       }
     ]
