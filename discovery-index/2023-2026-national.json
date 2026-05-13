@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-13T09:05:26Z",
-  "total_releases": 3988,
+  "last_indexed_at": "2026-05-13T23:27:21Z",
+  "total_releases": 3989,
   "releases": {
     "2023-11": [
       {
@@ -20002,6 +20002,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/bill-enable-digital-drivers-licences-passes-third-reading",
         "date": "2026-05-13T08:11:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/gang-profits-turned-against-organised-crime",
+        "date": "2026-05-13T23:03:58Z",
         "content_type": "releases"
       }
     ]
