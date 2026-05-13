@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-13T01:40:33Z",
-  "total_releases": 3984,
+  "last_indexed_at": "2026-05-13T03:11:07Z",
+  "total_releases": 3985,
   "releases": {
     "2023-11": [
       {
@@ -19972,6 +19972,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/chief-community-magistrate-appointed",
         "date": "2026-05-12T23:55:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tougher-penalties-misleading-pricing-incoming",
+        "date": "2026-05-13T00:01:41Z",
         "content_type": "releases"
       },
       {
