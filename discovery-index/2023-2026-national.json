@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-13T00:45:29Z",
-  "total_releases": 3982,
+  "last_indexed_at": "2026-05-13T01:40:33Z",
+  "total_releases": 3984,
   "releases": {
     "2023-11": [
       {
@@ -19972,6 +19972,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/chief-community-magistrate-appointed",
         "date": "2026-05-12T23:55:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/levelling-playing-field-food-business-verification",
+        "date": "2026-05-13T01:06:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/three-long-awaited-hauraki-iwi-settlement-bills-pass-final-reading",
+        "date": "2026-05-13T01:22:11Z",
         "content_type": "releases"
       }
     ]
