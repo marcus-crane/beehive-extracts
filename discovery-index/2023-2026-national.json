@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-14T20:34:11Z",
-  "total_releases": 4004,
+  "last_indexed_at": "2026-05-14T23:24:46Z",
+  "total_releases": 4006,
   "releases": {
     "2023-11": [
       {
@@ -20082,6 +20082,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/1-million-boost-tarawera-and-%C5%8Dkataina-tracks",
         "date": "2026-05-14T20:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ngauranga-petone-shared-path-te-ara-tupua-opens",
+        "date": "2026-05-14T22:21:55Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-kiwi-space-activators-announced",
+        "date": "2026-05-14T22:31:11Z",
         "content_type": "releases"
       }
     ]
