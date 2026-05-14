@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-14T05:20:40Z",
-  "total_releases": 4002,
+  "last_indexed_at": "2026-05-14T19:35:07Z",
+  "total_releases": 4003,
   "releases": {
     "2023-11": [
       {
@@ -20072,6 +20072,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/amendment-proposed-streamline-hazardous-substance-and-new-organism-approvals",
         "date": "2026-05-14T04:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/guidance-support-investment-voluntary-carbon-and-nature-markets",
+        "date": "2026-05-14T19:24:44Z",
         "content_type": "releases"
       }
     ]
