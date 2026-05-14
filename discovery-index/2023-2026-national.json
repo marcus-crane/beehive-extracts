@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-14T01:42:32Z",
-  "total_releases": 3997,
+  "last_indexed_at": "2026-05-14T03:10:24Z",
+  "total_releases": 4000,
   "releases": {
     "2023-11": [
       {
@@ -20047,6 +20047,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/communities-lead-targeted-social-support",
         "date": "2026-05-14T00:42:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/foreign-minister-welcomes-deputy-pm-lao-pdr-new-zealand",
+        "date": "2026-05-14T02:11:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pharmac-proposes-improving-access-type-2-diabetes-medicines",
+        "date": "2026-05-14T02:30:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/visitor-numbers-reflect-continued-tourism-growth",
+        "date": "2026-05-14T02:37:40Z",
         "content_type": "releases"
       }
     ]
