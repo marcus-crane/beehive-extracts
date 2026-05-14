@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-14T19:35:07Z",
-  "total_releases": 4003,
+  "last_indexed_at": "2026-05-14T20:34:11Z",
+  "total_releases": 4004,
   "releases": {
     "2023-11": [
       {
@@ -20077,6 +20077,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/guidance-support-investment-voluntary-carbon-and-nature-markets",
         "date": "2026-05-14T19:24:44Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/1-million-boost-tarawera-and-%C5%8Dkataina-tracks",
+        "date": "2026-05-14T20:30:00Z",
         "content_type": "releases"
       }
     ]
