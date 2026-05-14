@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-13T23:27:21Z",
-  "total_releases": 3989,
+  "last_indexed_at": "2026-05-14T00:46:54Z",
+  "total_releases": 3995,
   "releases": {
     "2023-11": [
       {
@@ -20007,6 +20007,36 @@
       {
         "url": "https://www.beehive.govt.nz/release/gang-profits-turned-against-organised-crime",
         "date": "2026-05-13T23:03:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bringing-specialist-paediatric-palliative-care-closer",
+        "date": "2026-05-13T23:26:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-ed-pharmacist-role-delivering-faster-care-dunedin-hospital",
+        "date": "2026-05-13T23:39:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tribute-sir-kenneth-keith",
+        "date": "2026-05-13T23:55:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/move-orders-legislation-introduced",
+        "date": "2026-05-14T00:15:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-gas-data-supports-action-keep-lights",
+        "date": "2026-05-14T00:15:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/western-bay-plenty-deal-signed-unlock-long-term-growth",
+        "date": "2026-05-14T00:28:49Z",
         "content_type": "releases"
       }
     ]
