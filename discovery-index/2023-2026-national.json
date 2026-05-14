@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-14T03:10:24Z",
-  "total_releases": 4000,
+  "last_indexed_at": "2026-05-14T05:20:40Z",
+  "total_releases": 4002,
   "releases": {
     "2023-11": [
       {
@@ -20062,6 +20062,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/visitor-numbers-reflect-continued-tourism-growth",
         "date": "2026-05-14T02:37:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-reducing-regulatory-barriers-new-agriculture-horticulture-and-veterinary",
+        "date": "2026-05-14T03:46:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/amendment-proposed-streamline-hazardous-substance-and-new-organism-approvals",
+        "date": "2026-05-14T04:00:00Z",
         "content_type": "releases"
       }
     ]
