@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-14T00:46:54Z",
-  "total_releases": 3995,
+  "last_indexed_at": "2026-05-14T01:42:32Z",
+  "total_releases": 3997,
   "releases": {
     "2023-11": [
       {
@@ -20037,6 +20037,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/western-bay-plenty-deal-signed-unlock-long-term-growth",
         "date": "2026-05-14T00:28:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/targeting-financial-assistance-those-most-need",
+        "date": "2026-05-14T00:40:03Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/communities-lead-targeted-social-support",
+        "date": "2026-05-14T00:42:49Z",
         "content_type": "releases"
       }
     ]
