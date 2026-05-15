@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-15T07:11:25Z",
-  "total_releases": 4016,
+  "last_indexed_at": "2026-05-15T10:50:27Z",
+  "total_releases": 4017,
   "releases": {
     "2023-11": [
       {
@@ -20092,6 +20092,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/first-kiwi-space-activators-announced",
         "date": "2026-05-14T22:31:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-kiwi-businesses-get-ai-support",
+        "date": "2026-05-14T23:30:05Z",
         "content_type": "releases"
       },
       {
