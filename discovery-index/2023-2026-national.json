@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-15T00:44:11Z",
-  "total_releases": 4008,
+  "last_indexed_at": "2026-05-15T01:40:58Z",
+  "total_releases": 4010,
   "releases": {
     "2023-11": [
       {
@@ -20102,6 +20102,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/ensuring-treaty-references-are-consistent",
         "date": "2026-05-14T23:50:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/healthy-school-lunch-programme-saves-more-money",
+        "date": "2026-05-15T01:17:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/students-should-be-school-not-strike",
+        "date": "2026-05-15T01:26:09Z",
         "content_type": "releases"
       }
     ]
