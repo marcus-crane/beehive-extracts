@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-15T01:40:58Z",
-  "total_releases": 4010,
+  "last_indexed_at": "2026-05-15T03:11:21Z",
+  "total_releases": 4012,
   "releases": {
     "2023-11": [
       {
@@ -20112,6 +20112,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/students-should-be-school-not-strike",
         "date": "2026-05-15T01:26:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/100m-wellington-airport-project-fast-tracked",
+        "date": "2026-05-15T02:02:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fourth-renewable-energy-project-fast-tracked",
+        "date": "2026-05-15T02:02:47Z",
         "content_type": "releases"
       }
     ]
