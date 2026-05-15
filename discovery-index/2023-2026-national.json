@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-14T23:24:46Z",
-  "total_releases": 4006,
+  "last_indexed_at": "2026-05-15T00:44:11Z",
+  "total_releases": 4008,
   "releases": {
     "2023-11": [
       {
@@ -20092,6 +20092,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/first-kiwi-space-activators-announced",
         "date": "2026-05-14T22:31:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/district-court-judge-appointed-27",
+        "date": "2026-05-14T23:42:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ensuring-treaty-references-are-consistent",
+        "date": "2026-05-14T23:50:09Z",
         "content_type": "releases"
       }
     ]
