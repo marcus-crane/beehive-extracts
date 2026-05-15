@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-15T03:11:21Z",
-  "total_releases": 4012,
+  "last_indexed_at": "2026-05-15T05:22:16Z",
+  "total_releases": 4015,
   "releases": {
     "2023-11": [
       {
@@ -20122,6 +20122,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/fourth-renewable-energy-project-fast-tracked",
         "date": "2026-05-15T02:02:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-forensic-inpatient-beds-opened",
+        "date": "2026-05-15T02:54:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/statutory-guidance-issued-help-protect-kiwis%E2%80%99-rights",
+        "date": "2026-05-15T03:28:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/growers-benefit-govt-strengthens-plant-rights",
+        "date": "2026-05-15T03:37:45Z",
         "content_type": "releases"
       }
     ]
