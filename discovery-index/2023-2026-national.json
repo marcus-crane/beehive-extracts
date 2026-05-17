@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-17T21:21:15Z",
-  "total_releases": 4019,
+  "last_indexed_at": "2026-05-17T22:20:37Z",
+  "total_releases": 4020,
   "releases": {
     "2023-11": [
       {
@@ -20157,6 +20157,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/doocey-lead-delegation-australia",
         "date": "2026-05-17T20:30:57Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-attending-pacific-organised-crime-summit",
+        "date": "2026-05-17T21:23:02Z",
         "content_type": "releases"
       }
     ]
