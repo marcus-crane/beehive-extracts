@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-18T09:15:36Z",
-  "total_releases": 4023,
+  "last_indexed_at": "2026-05-18T21:30:01Z",
+  "total_releases": 4024,
   "releases": {
     "2023-11": [
       {
@@ -20177,6 +20177,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/proposed-amendments-education-system-reform-bill-be-considered",
         "date": "2026-05-18T05:30:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/southland-farmers-benefit-under-improved-farm-plan-system",
+        "date": "2026-05-18T09:00:17Z",
         "content_type": "releases"
       }
     ]
