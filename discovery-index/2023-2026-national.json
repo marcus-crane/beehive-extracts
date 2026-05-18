@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-18T05:26:59Z",
-  "total_releases": 4021,
+  "last_indexed_at": "2026-05-18T07:28:40Z",
+  "total_releases": 4022,
   "releases": {
     "2023-11": [
       {
@@ -20167,6 +20167,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-homes-delivered-defence-families",
         "date": "2026-05-18T04:17:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bill-strengthen-disability-support",
+        "date": "2026-05-18T05:27:23Z",
         "content_type": "releases"
       }
     ]
