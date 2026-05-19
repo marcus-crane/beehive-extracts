@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-19T01:43:41Z",
-  "total_releases": 4025,
+  "last_indexed_at": "2026-05-19T03:11:24Z",
+  "total_releases": 4027,
   "releases": {
     "2023-11": [
       {
@@ -20187,6 +20187,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/public-service-be-overhauled",
         "date": "2026-05-19T01:00:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/dairy-industry-restructuring-act-statutory-review-begins",
+        "date": "2026-05-19T02:25:39Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/modern-imaging-technology-southland-hospital",
+        "date": "2026-05-19T02:30:40Z",
         "content_type": "releases"
       }
     ]
