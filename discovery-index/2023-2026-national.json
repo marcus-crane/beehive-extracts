@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-19T05:24:52Z",
-  "total_releases": 4029,
+  "last_indexed_at": "2026-05-19T07:17:52Z",
+  "total_releases": 4031,
   "releases": {
     "2023-11": [
       {
@@ -20165,6 +20165,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/literacy-and-maths-forefront-new-investment",
+        "date": "2026-05-18T03:00:04Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/new-homes-delivered-defence-families",
         "date": "2026-05-18T04:17:45Z",
         "content_type": "releases"
@@ -20207,6 +20212,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-chair-fire-and-emergency-new-zealand-board",
         "date": "2026-05-19T03:30:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kelvin-davis-appointed-m%C4%81ori-education-ministerial-advisory-group",
+        "date": "2026-05-19T05:34:15Z",
         "content_type": "releases"
       }
     ]
