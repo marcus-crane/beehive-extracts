@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-18T21:30:01Z",
-  "total_releases": 4024,
+  "last_indexed_at": "2026-05-19T01:43:41Z",
+  "total_releases": 4025,
   "releases": {
     "2023-11": [
       {
@@ -20182,6 +20182,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/southland-farmers-benefit-under-improved-farm-plan-system",
         "date": "2026-05-18T09:00:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/public-service-be-overhauled",
+        "date": "2026-05-19T01:00:21Z",
         "content_type": "releases"
       }
     ]
