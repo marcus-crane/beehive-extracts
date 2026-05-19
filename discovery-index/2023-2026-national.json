@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-19T22:30:34Z",
-  "total_releases": 4032,
+  "last_indexed_at": "2026-05-19T23:28:37Z",
+  "total_releases": 4033,
   "releases": {
     "2023-11": [
       {
@@ -20222,6 +20222,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/rapid-build-ward-taking-shape-hawke%E2%80%99s-bay-hospital",
         "date": "2026-05-19T21:52:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/survivor-support-and-recognition-fund-provides-49-million-memorialise-and-care-unmarked",
+        "date": "2026-05-19T22:36:16Z",
         "content_type": "releases"
       }
     ]
