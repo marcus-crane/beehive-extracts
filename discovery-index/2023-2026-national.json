@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-19T03:11:24Z",
-  "total_releases": 4027,
+  "last_indexed_at": "2026-05-19T05:24:52Z",
+  "total_releases": 4029,
   "releases": {
     "2023-11": [
       {
@@ -20180,6 +20180,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/new-support-risk-young-people-youth-week",
+        "date": "2026-05-18T06:00:00Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/southland-farmers-benefit-under-improved-farm-plan-system",
         "date": "2026-05-18T09:00:17Z",
         "content_type": "releases"
@@ -20197,6 +20202,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/modern-imaging-technology-southland-hospital",
         "date": "2026-05-19T02:30:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-chair-fire-and-emergency-new-zealand-board",
+        "date": "2026-05-19T03:30:27Z",
         "content_type": "releases"
       }
     ]
