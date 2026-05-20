@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-20T01:44:54Z",
-  "total_releases": 4036,
+  "last_indexed_at": "2026-05-20T05:25:16Z",
+  "total_releases": 4037,
   "releases": {
     "2023-11": [
       {
@@ -20242,6 +20242,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/regulatory-changes-help-kiwis-during-fuel-uncertainty",
         "date": "2026-05-20T01:04:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/trade-minister-visit-china-apec-meeting",
+        "date": "2026-05-20T03:54:17Z",
         "content_type": "releases"
       }
     ]
