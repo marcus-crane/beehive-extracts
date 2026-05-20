@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-19T23:28:37Z",
-  "total_releases": 4033,
+  "last_indexed_at": "2026-05-20T00:50:11Z",
+  "total_releases": 4034,
   "releases": {
     "2023-11": [
       {
@@ -20227,6 +20227,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/survivor-support-and-recognition-fund-provides-49-million-memorialise-and-care-unmarked",
         "date": "2026-05-19T22:36:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/submissions-open-regulations-modernise-ruc-system",
+        "date": "2026-05-19T23:32:23Z",
         "content_type": "releases"
       }
     ]
