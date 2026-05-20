@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-20T00:50:11Z",
-  "total_releases": 4034,
+  "last_indexed_at": "2026-05-20T01:44:54Z",
+  "total_releases": 4036,
   "releases": {
     "2023-11": [
       {
@@ -20232,6 +20232,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/submissions-open-regulations-modernise-ruc-system",
         "date": "2026-05-19T23:32:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-ever-picture-new-zealand%E2%80%99s-regulatory-landscape-revealed",
+        "date": "2026-05-20T00:49:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/regulatory-changes-help-kiwis-during-fuel-uncertainty",
+        "date": "2026-05-20T01:04:04Z",
         "content_type": "releases"
       }
     ]
