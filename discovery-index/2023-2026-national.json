@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-21T21:34:25Z",
-  "total_releases": 4049,
+  "last_indexed_at": "2026-05-21T22:32:02Z",
+  "total_releases": 4051,
   "releases": {
     "2023-11": [
       {
@@ -20307,6 +20307,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/projects-selected-improve-accessibility",
         "date": "2026-05-21T20:50:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/work-second-ashburton-bridge-underway",
+        "date": "2026-05-21T21:49:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/package-support-small-businesses-announced",
+        "date": "2026-05-21T22:07:04Z",
         "content_type": "releases"
       }
     ]
