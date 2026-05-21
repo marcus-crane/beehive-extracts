@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-21T22:32:02Z",
-  "total_releases": 4051,
+  "last_indexed_at": "2026-05-21T23:25:59Z",
+  "total_releases": 4053,
   "releases": {
     "2023-11": [
       {
@@ -20317,6 +20317,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/package-support-small-businesses-announced",
         "date": "2026-05-21T22:07:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/stewart-islandrakiura-solar-project-underway",
+        "date": "2026-05-21T22:31:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/boosting-ambulance-services-across-new-zealand",
+        "date": "2026-05-21T22:39:45Z",
         "content_type": "releases"
       }
     ]
