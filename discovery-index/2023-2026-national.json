@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-20T23:30:53Z",
-  "total_releases": 4041,
+  "last_indexed_at": "2026-05-21T00:49:46Z",
+  "total_releases": 4043,
   "releases": {
     "2023-11": [
       {
@@ -20267,6 +20267,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/defence-supports-efforts-train-ukrainian-military",
         "date": "2026-05-20T22:43:52Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nelson-hospital-parking-expansion-drives-forward",
+        "date": "2026-05-20T23:52:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/delivering-fairer-social-housing",
+        "date": "2026-05-21T00:32:38Z",
         "content_type": "releases"
       }
     ]
