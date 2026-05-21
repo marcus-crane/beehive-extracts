@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-21T03:12:11Z",
-  "total_releases": 4045,
+  "last_indexed_at": "2026-05-21T05:28:56Z",
+  "total_releases": 4048,
   "releases": {
     "2023-11": [
       {
@@ -20287,6 +20287,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/pharmac-proposal-strengthen-new-zealand%E2%80%99s-vaccine-response",
         "date": "2026-05-21T02:23:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/family-violence-and-sexual-violence-advisory-group-announced",
+        "date": "2026-05-21T03:11:52Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/wairoa-youth-benefit-new-funding-partnerships",
+        "date": "2026-05-21T03:55:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/move-orders-pass-first-reading",
+        "date": "2026-05-21T05:23:33Z",
         "content_type": "releases"
       }
     ]
