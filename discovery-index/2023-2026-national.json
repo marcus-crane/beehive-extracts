@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-21T00:49:46Z",
-  "total_releases": 4043,
+  "last_indexed_at": "2026-05-21T03:12:11Z",
+  "total_releases": 4045,
   "releases": {
     "2023-11": [
       {
@@ -20277,6 +20277,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/delivering-fairer-social-housing",
         "date": "2026-05-21T00:32:38Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/porirua-facility-opens-boost-recycling-and-reduce-construction-waste",
+        "date": "2026-05-21T02:05:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pharmac-proposal-strengthen-new-zealand%E2%80%99s-vaccine-response",
+        "date": "2026-05-21T02:23:34Z",
         "content_type": "releases"
       }
     ]
