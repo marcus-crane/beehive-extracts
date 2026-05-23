@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-22T01:44:16Z",
-  "total_releases": 4055,
+  "last_indexed_at": "2026-05-23T05:18:24Z",
+  "total_releases": 4056,
   "releases": {
     "2023-11": [
       {
@@ -20337,6 +20337,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/funding-new-tools-beef-border-security",
         "date": "2026-05-22T02:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/budget-2026-shores-maritime-security",
+        "date": "2026-05-22T21:30:00Z",
         "content_type": "releases"
       }
     ]
