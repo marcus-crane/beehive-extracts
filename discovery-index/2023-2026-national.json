@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-23T05:18:24Z",
-  "total_releases": 4056,
+  "last_indexed_at": "2026-05-24T03:11:14Z",
+  "total_releases": 4057,
   "releases": {
     "2023-11": [
       {
@@ -20342,6 +20342,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/budget-2026-shores-maritime-security",
         "date": "2026-05-22T21:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-boosts-funding-tackle-wilding-pines",
+        "date": "2026-05-24T03:06:38Z",
         "content_type": "releases"
       }
     ]
