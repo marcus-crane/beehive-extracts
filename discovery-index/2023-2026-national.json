@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-25T01:46:38Z",
-  "total_releases": 4060,
+  "last_indexed_at": "2026-05-25T03:12:59Z",
+  "total_releases": 4061,
   "releases": {
     "2023-11": [
       {
@@ -20362,6 +20362,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/anti-stalking-laws-take-effect-midnight",
         "date": "2026-05-25T01:30:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/loans-help-businesses-transition-away-gas",
+        "date": "2026-05-25T03:03:08Z",
         "content_type": "releases"
       }
     ]
