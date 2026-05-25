@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-25T03:12:59Z",
-  "total_releases": 4061,
+  "last_indexed_at": "2026-05-25T20:33:20Z",
+  "total_releases": 4062,
   "releases": {
     "2023-11": [
       {
@@ -20367,6 +20367,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/loans-help-businesses-transition-away-gas",
         "date": "2026-05-25T03:03:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/delivering-fairer-electricity-market-kiwi-consumers",
+        "date": "2026-05-25T19:50:24Z",
         "content_type": "releases"
       }
     ]
