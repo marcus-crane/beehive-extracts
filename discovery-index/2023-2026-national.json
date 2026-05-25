@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-25T20:33:20Z",
-  "total_releases": 4062,
+  "last_indexed_at": "2026-05-25T22:26:06Z",
+  "total_releases": 4063,
   "releases": {
     "2023-11": [
       {
@@ -20372,6 +20372,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/delivering-fairer-electricity-market-kiwi-consumers",
         "date": "2026-05-25T19:50:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sh3-mangapepeke-culvert-replacements-now-complete",
+        "date": "2026-05-25T22:03:14Z",
         "content_type": "releases"
       }
     ]
