@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-24T22:22:35Z",
-  "total_releases": 4059,
+  "last_indexed_at": "2026-05-25T01:46:38Z",
+  "total_releases": 4060,
   "releases": {
     "2023-11": [
       {
@@ -20357,6 +20357,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/english-language-requirement-extended-aewv-skill-level-3-roles",
         "date": "2026-05-24T21:29:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/anti-stalking-laws-take-effect-midnight",
+        "date": "2026-05-25T01:30:27Z",
         "content_type": "releases"
       }
     ]
