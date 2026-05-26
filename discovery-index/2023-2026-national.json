@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-25T22:26:06Z",
-  "total_releases": 4063,
+  "last_indexed_at": "2026-05-26T05:24:42Z",
+  "total_releases": 4065,
   "releases": {
     "2023-11": [
       {
@@ -20377,6 +20377,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/sh3-mangapepeke-culvert-replacements-now-complete",
         "date": "2026-05-25T22:03:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/maritime-nz-board-appointees-confirmed",
+        "date": "2026-05-26T03:43:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/keeping-kiwi-music-kiwi-hands",
+        "date": "2026-05-26T04:22:40Z",
         "content_type": "releases"
       }
     ]
