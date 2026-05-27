@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-27T03:12:45Z",
-  "total_releases": 4073,
+  "last_indexed_at": "2026-05-27T05:32:54Z",
+  "total_releases": 4075,
   "releases": {
     "2023-11": [
       {
@@ -20427,6 +20427,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/remuneration-authority-appointments-0",
         "date": "2026-05-27T02:38:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/defence-minister-visit-singapore-global-security-conference",
+        "date": "2026-05-27T04:21:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sri-lankan-foreign-minister-visit-new-zealand",
+        "date": "2026-05-27T04:38:25Z",
         "content_type": "releases"
       }
     ]
