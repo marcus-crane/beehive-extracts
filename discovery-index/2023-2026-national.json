@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-27T07:31:21Z",
-  "total_releases": 4076,
+  "last_indexed_at": "2026-05-27T09:12:40Z",
+  "total_releases": 4077,
   "releases": {
     "2023-11": [
       {
@@ -20442,6 +20442,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/manufacturing-excellence-celebrated-annual-awards",
         "date": "2026-05-27T07:21:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bill-passed-pave-way-mcert",
+        "date": "2026-05-27T08:00:00Z",
         "content_type": "releases"
       }
     ]
