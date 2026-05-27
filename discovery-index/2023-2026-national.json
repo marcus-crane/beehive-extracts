@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-27T00:49:06Z",
-  "total_releases": 4072,
+  "last_indexed_at": "2026-05-27T03:12:45Z",
+  "total_releases": 4073,
   "releases": {
     "2023-11": [
       {
@@ -20422,6 +20422,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-listens-feedback-homeschool-regulations",
         "date": "2026-05-27T00:41:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/remuneration-authority-appointments-0",
+        "date": "2026-05-27T02:38:08Z",
         "content_type": "releases"
       }
     ]
