@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-27T05:32:54Z",
-  "total_releases": 4075,
+  "last_indexed_at": "2026-05-27T07:31:21Z",
+  "total_releases": 4076,
   "releases": {
     "2023-11": [
       {
@@ -20437,6 +20437,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/sri-lankan-foreign-minister-visit-new-zealand",
         "date": "2026-05-27T04:38:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/manufacturing-excellence-celebrated-annual-awards",
+        "date": "2026-05-27T07:21:29Z",
         "content_type": "releases"
       }
     ]
