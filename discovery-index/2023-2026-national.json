@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-27T09:12:40Z",
-  "total_releases": 4077,
+  "last_indexed_at": "2026-05-28T01:38:55Z",
+  "total_releases": 4078,
   "releases": {
     "2023-11": [
       {
@@ -20447,6 +20447,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/bill-passed-pave-way-mcert",
         "date": "2026-05-27T08:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nsnz-nurses-vote-accept-settlement",
+        "date": "2026-05-28T01:26:29Z",
         "content_type": "releases"
       }
     ]
