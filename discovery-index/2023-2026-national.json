@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-28T03:13:40Z",
-  "total_releases": 4105,
+  "last_indexed_at": "2026-05-29T09:14:35Z",
+  "total_releases": 4113,
   "releases": {
     "2023-11": [
       {
@@ -20587,6 +20587,46 @@
       {
         "url": "https://www.beehive.govt.nz/release/ece-funding-provide-sector-instant-relief",
         "date": "2026-05-28T02:31:03Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/brent-impey-appointed-chair-rnz",
+        "date": "2026-05-28T21:30:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/progress-sh2-waikare-gorge-realignment",
+        "date": "2026-05-28T22:27:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-support-hawke%E2%80%99s-bay-growers",
+        "date": "2026-05-28T22:57:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/children-be-prevented-buying-lottery-products",
+        "date": "2026-05-28T23:37:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/foreign-minister-visit-samoa",
+        "date": "2026-05-28T23:45:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-backs-food-fibre-sector%E2%80%99s-success",
+        "date": "2026-05-29T00:38:55Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/increased-support-mothers-and-babies",
+        "date": "2026-05-29T00:40:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-bottom-trawl-footprint-remains-small",
+        "date": "2026-05-29T02:42:41Z",
         "content_type": "releases"
       }
     ]
