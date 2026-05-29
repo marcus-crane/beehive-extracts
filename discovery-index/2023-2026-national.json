@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-29T09:14:35Z",
-  "total_releases": 4113,
+  "last_indexed_at": "2026-05-29T13:10:33Z",
+  "total_releases": 4114,
   "releases": {
     "2023-11": [
       {
@@ -20627,6 +20627,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/nz-bottom-trawl-footprint-remains-small",
         "date": "2026-05-29T02:42:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/improving-welfare-system-efficiency",
+        "date": "2026-05-29T11:06:49Z",
         "content_type": "releases"
       }
     ]
