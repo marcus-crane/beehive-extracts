@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-29T22:34:27Z",
-  "total_releases": 4115,
+  "last_indexed_at": "2026-05-31T05:34:33Z",
+  "total_releases": 4116,
   "releases": {
     "2023-11": [
       {
@@ -20637,6 +20637,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/budget-2026-delivering-auckland",
         "date": "2026-05-29T22:12:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/mcclay-chair-formal-uk-and-oecd-trade-meetings",
+        "date": "2026-05-31T03:28:13Z",
         "content_type": "releases"
       }
     ]
