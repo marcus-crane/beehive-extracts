@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-31T05:34:33Z",
-  "total_releases": 4116,
+  "last_indexed_at": "2026-05-31T17:27:01Z",
+  "total_releases": 4118,
   "releases": {
     "2023-11": [
       {
@@ -20642,6 +20642,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/mcclay-chair-formal-uk-and-oecd-trade-meetings",
         "date": "2026-05-31T03:28:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/king%E2%80%99s-birthday-honours-recipients-congratulated",
+        "date": "2026-05-31T16:59:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/m%C4%81ori-recognised-king%E2%80%99s-birthday-honours-2026",
+        "date": "2026-05-31T17:03:39Z",
         "content_type": "releases"
       }
     ]
