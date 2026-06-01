@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-01T22:05:19Z",
-  "total_releases": 4124,
+  "last_indexed_at": "2026-06-01T23:34:02Z",
+  "total_releases": 4126,
   "releases": {
     "2023-11": [
       {
@@ -20684,6 +20684,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/powering-data-driven-social-investment",
         "date": "2026-06-01T21:47:03Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-social-homes-autistic-people",
+        "date": "2026-06-01T23:01:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/deep-south%E2%80%99s-mega-marine-life-gets-historic-new-protections",
+        "date": "2026-06-01T23:24:15Z",
         "content_type": "releases"
       }
     ]
