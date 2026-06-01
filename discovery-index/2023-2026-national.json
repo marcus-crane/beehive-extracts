@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-01T07:51:27Z",
-  "total_releases": 4122,
+  "last_indexed_at": "2026-06-01T20:29:12Z",
+  "total_releases": 4123,
   "releases": {
     "2023-11": [
       {
@@ -20674,6 +20674,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/talks-polynesian-priorities-samoa",
         "date": "2026-06-01T06:03:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/travel-bans-extremist-israeli-settlers-0",
+        "date": "2026-06-01T20:00:42Z",
         "content_type": "releases"
       }
     ]
