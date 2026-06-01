@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-01T20:29:12Z",
-  "total_releases": 4123,
+  "last_indexed_at": "2026-06-01T22:05:19Z",
+  "total_releases": 4124,
   "releases": {
     "2023-11": [
       {
@@ -20679,6 +20679,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/travel-bans-extremist-israeli-settlers-0",
         "date": "2026-06-01T20:00:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/powering-data-driven-social-investment",
+        "date": "2026-06-01T21:47:03Z",
         "content_type": "releases"
       }
     ]
