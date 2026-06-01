@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-05-31T23:26:36Z",
-  "total_releases": 4119,
+  "last_indexed_at": "2026-06-01T01:50:59Z",
+  "total_releases": 4121,
   "releases": {
     "2023-11": [
       {
@@ -20657,6 +20657,18 @@
       {
         "url": "https://www.beehive.govt.nz/release/education-contributions-recognised-king%E2%80%99s-birthday-honours",
         "date": "2026-05-31T22:49:44Z",
+        "content_type": "releases"
+      }
+    ],
+    "2026-06": [
+      {
+        "url": "https://www.beehive.govt.nz/release/e-bike-charging-stations-locked-regions",
+        "date": "2026-06-01T01:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-shipment-extra-diesel-reserve-bound-nz",
+        "date": "2026-06-01T01:32:03Z",
         "content_type": "releases"
       }
     ]
