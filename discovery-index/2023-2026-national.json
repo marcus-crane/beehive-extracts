@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-02T22:44:18Z",
-  "total_releases": 4135,
+  "last_indexed_at": "2026-06-02T23:36:57Z",
+  "total_releases": 4137,
   "releases": {
     "2023-11": [
       {
@@ -20739,6 +20739,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/solar-schools-boost-future-resilience",
         "date": "2026-06-02T22:24:03Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tertiary-research-excellence-fund-focused-driving-economic-growth",
+        "date": "2026-06-02T23:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/creative-and-cultural-sector-gets-further-copyright-support",
+        "date": "2026-06-02T23:05:22Z",
         "content_type": "releases"
       }
     ]
