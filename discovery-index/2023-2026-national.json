@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-02T01:53:48Z",
-  "total_releases": 4128,
+  "last_indexed_at": "2026-06-02T03:14:24Z",
+  "total_releases": 4131,
   "releases": {
     "2023-11": [
       {
@@ -20704,6 +20704,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/council-voting-be-restricted-elected-members",
         "date": "2026-06-02T01:39:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-trades-academy-places-young-people",
+        "date": "2026-06-02T01:54:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/improving-services-disabled-people-and-carers",
+        "date": "2026-06-02T01:57:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-represent-new-zealand-key-labour-conference",
+        "date": "2026-06-02T03:12:17Z",
         "content_type": "releases"
       }
     ]
