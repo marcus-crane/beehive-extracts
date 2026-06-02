@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-02T03:14:24Z",
-  "total_releases": 4131,
+  "last_indexed_at": "2026-06-02T07:43:03Z",
+  "total_releases": 4132,
   "releases": {
     "2023-11": [
       {
@@ -20694,6 +20694,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/deep-south%E2%80%99s-mega-marine-life-gets-historic-new-protections",
         "date": "2026-06-01T23:24:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/workable-lending-laws-delivered",
+        "date": "2026-06-02T00:01:44Z",
         "content_type": "releases"
       },
       {
