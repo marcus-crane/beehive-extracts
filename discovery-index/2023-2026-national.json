@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-03T22:50:51Z",
-  "total_releases": 4142,
+  "last_indexed_at": "2026-06-03T23:35:40Z",
+  "total_releases": 4145,
   "releases": {
     "2023-11": [
       {
@@ -20774,6 +20774,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/life-changing-cancer-care-closer-home-northland",
         "date": "2026-06-03T22:25:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/boosting-support-children-and-young-people-high-support-needs",
+        "date": "2026-06-03T22:48:33Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/global-stars-shine-new-zealand-boosting-cities-and-regions",
+        "date": "2026-06-03T22:49:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-rural-training-hub-comes-south-island",
+        "date": "2026-06-03T23:00:15Z",
         "content_type": "releases"
       }
     ]
