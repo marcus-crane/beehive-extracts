@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-02T23:36:57Z",
-  "total_releases": 4137,
+  "last_indexed_at": "2026-06-03T10:36:47Z",
+  "total_releases": 4138,
   "releases": {
     "2023-11": [
       {
@@ -20749,6 +20749,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/creative-and-cultural-sector-gets-further-copyright-support",
         "date": "2026-06-02T23:05:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-french-trade-ministers-meet-yearly",
+        "date": "2026-06-03T09:44:47Z",
         "content_type": "releases"
       }
     ]
