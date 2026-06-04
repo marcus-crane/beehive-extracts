@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-04T00:59:17Z",
-  "total_releases": 4148,
+  "last_indexed_at": "2026-06-04T02:00:43Z",
+  "total_releases": 4149,
   "releases": {
     "2023-11": [
       {
@@ -20804,6 +20804,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/training-boost-20000-children%E2%80%99s-workers-keep-kids-safe",
         "date": "2026-06-04T00:40:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-welcomes-new-ero-chief-executive",
+        "date": "2026-06-04T01:03:10Z",
         "content_type": "releases"
       }
     ]
