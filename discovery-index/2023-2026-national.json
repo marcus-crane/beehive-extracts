@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-04T03:24:53Z",
-  "total_releases": 4151,
+  "last_indexed_at": "2026-06-04T23:29:04Z",
+  "total_releases": 4153,
   "releases": {
     "2023-11": [
       {
@@ -20819,6 +20819,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/pm-visit-australia-annual-leaders%E2%80%99-meeting",
         "date": "2026-06-04T02:06:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/10m-accelerate-predator-free-auckland-t%C4%81maki-makaurau",
+        "date": "2026-06-04T19:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/parenting-support-strengthened-budget-investment",
+        "date": "2026-06-04T23:20:29Z",
         "content_type": "releases"
       }
     ]
