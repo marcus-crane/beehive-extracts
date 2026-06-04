@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-03T23:35:40Z",
-  "total_releases": 4145,
+  "last_indexed_at": "2026-06-04T00:59:17Z",
+  "total_releases": 4148,
   "releases": {
     "2023-11": [
       {
@@ -20789,6 +20789,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/first-rural-training-hub-comes-south-island",
         "date": "2026-06-03T23:00:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/clean-former-landfills-national-park-complete",
+        "date": "2026-06-04T00:10:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-aml-code-delivers-practical-changes-new-zealanders",
+        "date": "2026-06-04T00:15:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/training-boost-20000-children%E2%80%99s-workers-keep-kids-safe",
+        "date": "2026-06-04T00:40:14Z",
         "content_type": "releases"
       }
     ]
