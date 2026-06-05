@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-04T23:29:04Z",
-  "total_releases": 4153,
+  "last_indexed_at": "2026-06-05T00:52:16Z",
+  "total_releases": 4154,
   "releases": {
     "2023-11": [
       {
@@ -20829,6 +20829,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/parenting-support-strengthened-budget-investment",
         "date": "2026-06-04T23:20:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ashburton-community-birthing-unit-upgrade-underway",
+        "date": "2026-06-04T23:45:07Z",
         "content_type": "releases"
       }
     ]
