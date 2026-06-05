@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-05T00:52:16Z",
-  "total_releases": 4154,
+  "last_indexed_at": "2026-06-05T07:34:23Z",
+  "total_releases": 4155,
   "releases": {
     "2023-11": [
       {
@@ -20834,6 +20834,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/ashburton-community-birthing-unit-upgrade-underway",
         "date": "2026-06-04T23:45:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/waste-funding-waihi-refuse-transfer-station-upgrade",
+        "date": "2026-06-05T05:56:34Z",
         "content_type": "releases"
       }
     ]
