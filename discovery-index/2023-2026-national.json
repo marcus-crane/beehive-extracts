@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-05T23:30:03Z",
-  "total_releases": 4156,
+  "last_indexed_at": "2026-06-06T05:21:24Z",
+  "total_releases": 4157,
   "releases": {
     "2023-11": [
       {
@@ -20844,6 +20844,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/paramedics-be-able-prescribe-medicines",
         "date": "2026-06-05T22:32:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/successful-nz-australia-pms%E2%80%99-meeting-concludes",
+        "date": "2026-06-06T03:20:20Z",
         "content_type": "releases"
       }
     ]
