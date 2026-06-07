@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-07T01:48:14Z",
-  "total_releases": 4158,
+  "last_indexed_at": "2026-06-07T21:29:53Z",
+  "total_releases": 4159,
   "releases": {
     "2023-11": [
       {
@@ -20854,6 +20854,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/solomon-islands-pm-visit-new-zealand-0",
         "date": "2026-06-07T01:01:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-welcomes-new-diesel-storage",
+        "date": "2026-06-07T20:48:58Z",
         "content_type": "releases"
       }
     ]
