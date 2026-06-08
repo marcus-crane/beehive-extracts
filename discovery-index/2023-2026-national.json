@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-08T20:55:48Z",
-  "total_releases": 4163,
+  "last_indexed_at": "2026-06-08T22:34:40Z",
+  "total_releases": 4164,
   "releases": {
     "2023-11": [
       {
@@ -20879,6 +20879,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/securing-affordable-energy-lng-keep-lights-and-protect-jobs",
         "date": "2026-06-08T20:36:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/progress-supercritical-geothermal-forges-ahead",
+        "date": "2026-06-08T22:31:56Z",
         "content_type": "releases"
       }
     ]
