@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-07T21:29:53Z",
-  "total_releases": 4159,
+  "last_indexed_at": "2026-06-08T00:54:19Z",
+  "total_releases": 4160,
   "releases": {
     "2023-11": [
       {
@@ -20859,6 +20859,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-welcomes-new-diesel-storage",
         "date": "2026-06-07T20:48:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/budget-26-625-million-more-classrooms-south-island-schools",
+        "date": "2026-06-07T23:39:32Z",
         "content_type": "releases"
       }
     ]
