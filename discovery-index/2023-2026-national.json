@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-09T22:34:46Z",
-  "total_releases": 4170,
+  "last_indexed_at": "2026-06-09T23:34:44Z",
+  "total_releases": 4172,
   "releases": {
     "2023-11": [
       {
@@ -20914,6 +20914,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/ensuring-resilience-regional-new-zealand",
         "date": "2026-06-09T22:24:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-industry-accelerate-world-leading-farm-technology",
+        "date": "2026-06-09T22:41:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-science-investment-plan-drive-economic-growth-and-prosperity",
+        "date": "2026-06-09T23:00:00Z",
         "content_type": "releases"
       }
     ]
