@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-09T00:47:47Z",
-  "total_releases": 4166,
+  "last_indexed_at": "2026-06-09T20:43:56Z",
+  "total_releases": 4168,
   "releases": {
     "2023-11": [
       {
@@ -20894,6 +20894,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/investment-deliver-faster-access-support",
         "date": "2026-06-09T00:02:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-backs-wild-deer-control-pilots",
+        "date": "2026-06-09T20:10:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-agriculture-scholarship-grow-rural-leaders",
+        "date": "2026-06-09T20:28:03Z",
         "content_type": "releases"
       }
     ]
