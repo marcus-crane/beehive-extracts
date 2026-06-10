@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-10T19:51:08Z",
-  "total_releases": 4183,
+  "last_indexed_at": "2026-06-10T20:56:06Z",
+  "total_releases": 4186,
   "releases": {
     "2023-11": [
       {
@@ -20979,6 +20979,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/creating-certainty-rural-catchment-groups",
         "date": "2026-06-10T19:42:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-doctors-train-regions-need-them-most",
+        "date": "2026-06-10T20:40:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/charter-schools-helping-students-achieve-their-potential",
+        "date": "2026-06-10T20:40:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/christchurch-sh75-improvements-complete",
+        "date": "2026-06-10T20:41:09Z",
         "content_type": "releases"
       }
     ]
