@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-10T07:34:04Z",
-  "total_releases": 4181,
+  "last_indexed_at": "2026-06-10T18:57:48Z",
+  "total_releases": 4182,
   "releases": {
     "2023-11": [
       {
@@ -20969,6 +20969,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/boosting-support-school-choirs",
         "date": "2026-06-10T06:55:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/food-and-fibre-exports-set-hit-record-643-billion",
+        "date": "2026-06-10T18:14:30Z",
         "content_type": "releases"
       }
     ]
