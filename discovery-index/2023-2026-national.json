@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-10T01:46:48Z",
-  "total_releases": 4178,
+  "last_indexed_at": "2026-06-10T05:35:25Z",
+  "total_releases": 4180,
   "releases": {
     "2023-11": [
       {
@@ -20822,6 +20822,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/budget-2026-students-get-more-and-better-access-musical-instruments",
+        "date": "2026-06-04T04:56:25Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/10m-accelerate-predator-free-auckland-t%C4%81maki-makaurau",
         "date": "2026-06-04T19:30:00Z",
         "content_type": "releases"
@@ -20954,6 +20959,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/land-use-flexibility-greater-options-whenua-m%C4%81ori",
         "date": "2026-06-10T00:59:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/m%C4%81ori-development-fund-backing-growth-jobs-and-exports",
+        "date": "2026-06-10T03:37:28Z",
         "content_type": "releases"
       }
     ]
