@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-10T21:43:37Z",
-  "total_releases": 4188,
+  "last_indexed_at": "2026-06-10T22:39:21Z",
+  "total_releases": 4189,
   "releases": {
     "2023-11": [
       {
@@ -21004,6 +21004,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/taup%C5%8D-fishing-regulation-updates-increase-bag-limits-0",
         "date": "2026-06-10T21:40:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/work-replace-sh27-ohinekaua-stream-bridge-begins",
+        "date": "2026-06-10T21:47:59Z",
         "content_type": "releases"
       }
     ]
