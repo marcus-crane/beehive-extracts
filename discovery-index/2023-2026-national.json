@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-10T18:57:48Z",
-  "total_releases": 4182,
+  "last_indexed_at": "2026-06-10T19:51:08Z",
+  "total_releases": 4183,
   "releases": {
     "2023-11": [
       {
@@ -20974,6 +20974,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/food-and-fibre-exports-set-hit-record-643-billion",
         "date": "2026-06-10T18:14:30Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/creating-certainty-rural-catchment-groups",
+        "date": "2026-06-10T19:42:35Z",
         "content_type": "releases"
       }
     ]
