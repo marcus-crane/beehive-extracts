@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-10T05:35:25Z",
-  "total_releases": 4180,
+  "last_indexed_at": "2026-06-10T07:34:04Z",
+  "total_releases": 4181,
   "releases": {
     "2023-11": [
       {
@@ -20964,6 +20964,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/m%C4%81ori-development-fund-backing-growth-jobs-and-exports",
         "date": "2026-06-10T03:37:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/boosting-support-school-choirs",
+        "date": "2026-06-10T06:55:10Z",
         "content_type": "releases"
       }
     ]
