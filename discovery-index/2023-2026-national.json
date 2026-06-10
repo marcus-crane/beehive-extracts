@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-10T20:56:06Z",
-  "total_releases": 4186,
+  "last_indexed_at": "2026-06-10T21:43:37Z",
+  "total_releases": 4188,
   "releases": {
     "2023-11": [
       {
@@ -20994,6 +20994,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/christchurch-sh75-improvements-complete",
         "date": "2026-06-10T20:41:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/taup%C5%8D-fishing-regulation-updates-increase-bag-limits",
+        "date": "2026-06-10T21:34:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/taup%C5%8D-fishing-regulation-updates-increase-bag-limits-0",
+        "date": "2026-06-10T21:40:32Z",
         "content_type": "releases"
       }
     ]
