@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-11T22:38:17Z",
-  "total_releases": 4196,
+  "last_indexed_at": "2026-06-11T23:34:33Z",
+  "total_releases": 4198,
   "releases": {
     "2023-11": [
       {
@@ -21044,6 +21044,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/strengthening-future-nz-forestry",
         "date": "2026-06-11T22:03:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/game-animal-council-appointees-confirmed",
+        "date": "2026-06-11T22:52:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/backing-young-farmers",
+        "date": "2026-06-11T23:01:15Z",
         "content_type": "releases"
       }
     ]
