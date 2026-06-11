@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-10T22:39:21Z",
-  "total_releases": 4189,
+  "last_indexed_at": "2026-06-11T01:54:00Z",
+  "total_releases": 4190,
   "releases": {
     "2023-11": [
       {
@@ -21009,6 +21009,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/work-replace-sh27-ohinekaua-stream-bridge-begins",
         "date": "2026-06-10T21:47:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-signs-defence-arrangement-timor-leste",
+        "date": "2026-06-11T01:45:17Z",
         "content_type": "releases"
       }
     ]
