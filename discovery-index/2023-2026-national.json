@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-11T03:11:10Z",
-  "total_releases": 4191,
+  "last_indexed_at": "2026-06-11T05:39:02Z",
+  "total_releases": 4194,
   "releases": {
     "2023-11": [
       {
@@ -21019,6 +21019,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/nearly-1400-classrooms-fully-funded-two-and-half-years",
         "date": "2026-06-11T02:12:26Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kiwi-space-tech-innovation-awarded",
+        "date": "2026-06-11T02:45:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/boosting-returns-kiwi-wool-growers",
+        "date": "2026-06-11T03:12:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-backs-ai-support-small-business",
+        "date": "2026-06-11T04:33:56Z",
         "content_type": "releases"
       }
     ]
