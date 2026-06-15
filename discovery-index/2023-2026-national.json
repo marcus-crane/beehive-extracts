@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-14T23:30:52Z",
-  "total_releases": 4203,
+  "last_indexed_at": "2026-06-15T05:51:54Z",
+  "total_releases": 4204,
   "releases": {
     "2023-11": [
       {
@@ -21079,6 +21079,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-welcomes-progress-towards-iran-peace-deal",
         "date": "2026-06-14T23:00:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-acute-care-and-cancer-treatment-services-dargaville",
+        "date": "2026-06-15T03:58:26Z",
         "content_type": "releases"
       }
     ]
