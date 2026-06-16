@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-16T18:32:16Z",
-  "total_releases": 4211,
+  "last_indexed_at": "2026-06-16T21:52:13Z",
+  "total_releases": 4213,
   "releases": {
     "2023-11": [
       {
@@ -21119,6 +21119,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/fire-and-emergency-funding-system-evaluation",
         "date": "2026-06-16T16:54:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/2m-funding-boost-turbocharges-wasp-wipeout",
+        "date": "2026-06-16T21:19:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/boost-predator-control-protect-endangered-wildlife",
+        "date": "2026-06-16T21:21:39Z",
         "content_type": "releases"
       }
     ]
