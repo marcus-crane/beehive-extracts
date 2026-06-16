@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-16T22:40:36Z",
-  "total_releases": 4214,
+  "last_indexed_at": "2026-06-16T23:34:23Z",
+  "total_releases": 4215,
   "releases": {
     "2023-11": [
       {
@@ -21134,6 +21134,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/recovery-works-get-underway-waioweka-gorge",
         "date": "2026-06-16T21:52:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/additional-145-million-support-rough-sleepers",
+        "date": "2026-06-16T23:11:37Z",
         "content_type": "releases"
       }
     ]
