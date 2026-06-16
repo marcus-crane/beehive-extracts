@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-15T23:36:58Z",
-  "total_releases": 4205,
+  "last_indexed_at": "2026-06-16T01:02:02Z",
+  "total_releases": 4206,
   "releases": {
     "2023-11": [
       {
@@ -21089,6 +21089,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/longstanding-defence-deployments-extended",
         "date": "2026-06-15T23:27:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fixing-basics-statutory-spring-clean",
+        "date": "2026-06-16T00:29:50Z",
         "content_type": "releases"
       }
     ]
