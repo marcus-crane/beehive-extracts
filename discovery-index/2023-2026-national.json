@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-16T01:02:02Z",
-  "total_releases": 4206,
+  "last_indexed_at": "2026-06-16T05:53:46Z",
+  "total_releases": 4210,
   "releases": {
     "2023-11": [
       {
@@ -21094,6 +21094,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/fixing-basics-statutory-spring-clean",
         "date": "2026-06-16T00:29:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-responds-infrastructure-plan",
+        "date": "2026-06-16T03:16:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/funding-investigate-historic-mine-impacts",
+        "date": "2026-06-16T03:24:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/funding-divert-concrete-waste-landfill",
+        "date": "2026-06-16T03:43:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/environmental-reporting-act-legislation-introduced",
+        "date": "2026-06-16T04:04:00Z",
         "content_type": "releases"
       }
     ]
