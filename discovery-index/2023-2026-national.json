@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-17T18:53:36Z",
-  "total_releases": 4218,
+  "last_indexed_at": "2026-06-17T23:35:14Z",
+  "total_releases": 4219,
   "releases": {
     "2023-11": [
       {
@@ -21154,6 +21154,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/driving-visitor-growth-and-business-events",
         "date": "2026-06-17T17:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-parents-receive-increased-support",
+        "date": "2026-06-17T23:07:39Z",
         "content_type": "releases"
       }
     ]
