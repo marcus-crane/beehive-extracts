@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-17T23:35:14Z",
-  "total_releases": 4219,
+  "last_indexed_at": "2026-06-18T00:56:00Z",
+  "total_releases": 4220,
   "releases": {
     "2023-11": [
       {
@@ -21159,6 +21159,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-parents-receive-increased-support",
         "date": "2026-06-17T23:07:39Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/gdp-shows-underlying-economic-strength",
+        "date": "2026-06-18T00:03:45Z",
         "content_type": "releases"
       }
     ]
