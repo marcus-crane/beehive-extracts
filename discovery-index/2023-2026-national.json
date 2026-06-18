@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-18T01:55:15Z",
-  "total_releases": 4223,
+  "last_indexed_at": "2026-06-18T03:12:43Z",
+  "total_releases": 4224,
   "releases": {
     "2023-11": [
       {
@@ -21179,6 +21179,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/commonsense-change-insurance-reporting",
         "date": "2026-06-18T01:28:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/2026-new-zealand-space-scholarship-winners-announced",
+        "date": "2026-06-18T02:10:10Z",
         "content_type": "releases"
       }
     ]
