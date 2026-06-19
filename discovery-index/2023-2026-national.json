@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-18T07:45:51Z",
-  "total_releases": 4226,
+  "last_indexed_at": "2026-06-19T02:05:17Z",
+  "total_releases": 4229,
   "releases": {
     "2023-11": [
       {
@@ -21142,6 +21142,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/funding-boost-aged-residential-care-sector",
+        "date": "2026-06-17T01:02:50Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/speeding-council-reports-get-building-faster",
         "date": "2026-06-17T02:01:11Z",
         "content_type": "releases"
@@ -21172,6 +21177,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/funding-boost-community-pharmacies",
+        "date": "2026-06-18T01:01:46Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/pharmac-consumer-working-group-wraps-job-well-done",
         "date": "2026-06-18T01:04:29Z",
         "content_type": "releases"
@@ -21194,6 +21204,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/protecting-our-critical-underwater-infrastructure",
         "date": "2026-06-18T05:36:18Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/gps-overwhelmingly-back-funding-deal",
+        "date": "2026-06-19T01:00:42Z",
         "content_type": "releases"
       }
     ]
