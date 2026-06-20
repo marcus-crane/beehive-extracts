@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-20T01:46:00Z",
-  "total_releases": 4231,
+  "last_indexed_at": "2026-06-20T07:24:22Z",
+  "total_releases": 4232,
   "releases": {
     "2023-11": [
       {
@@ -21219,6 +21219,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-prepared-and-watching-bird-flu-detected-australia",
         "date": "2026-06-20T01:00:18Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-amps-rockquest-funding",
+        "date": "2026-06-20T06:48:01Z",
         "content_type": "releases"
       }
     ]
