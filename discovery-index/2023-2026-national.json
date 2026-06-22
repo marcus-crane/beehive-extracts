@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-22T03:14:30Z",
-  "total_releases": 4233,
+  "last_indexed_at": "2026-06-22T05:53:37Z",
+  "total_releases": 4234,
   "releases": {
     "2023-11": [
       {
@@ -21229,6 +21229,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/disabled-leadership-capability-backed",
         "date": "2026-06-22T02:39:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-takes-next-step-correct-historic-wrong",
+        "date": "2026-06-22T04:52:59Z",
         "content_type": "releases"
       }
     ]
