@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-20T07:24:22Z",
-  "total_releases": 4232,
+  "last_indexed_at": "2026-06-22T03:14:30Z",
+  "total_releases": 4233,
   "releases": {
     "2023-11": [
       {
@@ -21224,6 +21224,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-amps-rockquest-funding",
         "date": "2026-06-20T06:48:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/disabled-leadership-capability-backed",
+        "date": "2026-06-22T02:39:50Z",
         "content_type": "releases"
       }
     ]
