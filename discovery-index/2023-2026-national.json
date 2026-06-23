@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-23T19:39:12Z",
-  "total_releases": 4241,
+  "last_indexed_at": "2026-06-23T21:35:58Z",
+  "total_releases": 4243,
   "releases": {
     "2023-11": [
       {
@@ -21269,6 +21269,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/real-results-delivered-mental-health",
         "date": "2026-06-23T19:19:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/education-system-reforms-pass-third-reading-parliament",
+        "date": "2026-06-23T20:54:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-urges-racing-industry-work-together",
+        "date": "2026-06-23T21:27:13Z",
         "content_type": "releases"
       }
     ]
