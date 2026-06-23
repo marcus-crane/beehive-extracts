@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-23T00:49:27Z",
-  "total_releases": 4237,
+  "last_indexed_at": "2026-06-23T05:24:46Z",
+  "total_releases": 4239,
   "releases": {
     "2023-11": [
       {
@@ -21249,6 +21249,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-research-support-yellow-legged-hornet-response",
         "date": "2026-06-23T00:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/progress-continues-across-all-five-health-targets",
+        "date": "2026-06-23T03:16:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/three-month-closure-kaik%C5%8Dura-rock-lobster",
+        "date": "2026-06-23T03:37:00Z",
         "content_type": "releases"
       }
     ]
