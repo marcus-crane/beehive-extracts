@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-22T22:36:48Z",
-  "total_releases": 4236,
+  "last_indexed_at": "2026-06-23T00:49:27Z",
+  "total_releases": 4237,
   "releases": {
     "2023-11": [
       {
@@ -21244,6 +21244,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/women%E2%80%99s-representation-public-sector-boards-above-50-percent",
         "date": "2026-06-22T21:43:26Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-research-support-yellow-legged-hornet-response",
+        "date": "2026-06-23T00:00:00Z",
         "content_type": "releases"
       }
     ]
