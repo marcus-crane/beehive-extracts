@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-24T05:24:18Z",
-  "total_releases": 4251,
+  "last_indexed_at": "2026-06-24T17:40:23Z",
+  "total_releases": 4252,
   "releases": {
     "2023-11": [
       {
@@ -21319,6 +21319,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-awards-celebrate-excellence-and-delivering-real-results-students",
         "date": "2026-06-24T04:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/215-million-boost-new-travel-option",
+        "date": "2026-06-24T17:00:00Z",
         "content_type": "releases"
       }
     ]
