@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-23T23:27:27Z",
-  "total_releases": 4246,
+  "last_indexed_at": "2026-06-24T00:45:26Z",
+  "total_releases": 4248,
   "releases": {
     "2023-11": [
       {
@@ -21294,6 +21294,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/smoother-safer-roads-delivered",
         "date": "2026-06-23T22:45:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/community-sponsorship-programme-be-permanent",
+        "date": "2026-06-23T23:44:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/senior-court-judges-appointed",
+        "date": "2026-06-23T23:49:39Z",
         "content_type": "releases"
       }
     ]
