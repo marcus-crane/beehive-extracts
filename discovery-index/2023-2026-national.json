@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-24T21:33:08Z",
-  "total_releases": 4253,
+  "last_indexed_at": "2026-06-24T23:28:42Z",
+  "total_releases": 4254,
   "releases": {
     "2023-11": [
       {
@@ -21329,6 +21329,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/redress-system-abuse-care-bill-passes-third-reading",
         "date": "2026-06-24T21:10:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-east-wing-opens-taranaki-base-hospital",
+        "date": "2026-06-24T21:19:59Z",
         "content_type": "releases"
       }
     ]
