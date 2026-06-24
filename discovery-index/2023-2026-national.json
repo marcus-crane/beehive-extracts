@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-24T00:45:26Z",
-  "total_releases": 4248,
+  "last_indexed_at": "2026-06-24T03:11:11Z",
+  "total_releases": 4249,
   "releases": {
     "2023-11": [
       {
@@ -21304,6 +21304,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/senior-court-judges-appointed",
         "date": "2026-06-23T23:49:39Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/multi-school-contracts-charter-sponsors",
+        "date": "2026-06-24T03:06:45Z",
         "content_type": "releases"
       }
     ]
