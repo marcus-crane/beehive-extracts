@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-25T03:11:05Z",
-  "total_releases": 4256,
+  "last_indexed_at": "2026-06-25T05:24:34Z",
+  "total_releases": 4257,
   "releases": {
     "2023-11": [
       {
@@ -21344,6 +21344,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/free-holidays-not-worth-dying",
         "date": "2026-06-25T02:45:33Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-acts-conservation-bill-concerns",
+        "date": "2026-06-25T04:51:02Z",
         "content_type": "releases"
       }
     ]
