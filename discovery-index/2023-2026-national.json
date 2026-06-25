@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-25T07:16:24Z",
-  "total_releases": 4258,
+  "last_indexed_at": "2026-06-25T09:10:16Z",
+  "total_releases": 4259,
   "releases": {
     "2023-11": [
       {
@@ -21354,6 +21354,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/clarity-herds-special-interest-confirmed",
         "date": "2026-06-25T05:55:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/india-fta-bill-passes-first-reading",
+        "date": "2026-06-25T07:34:51Z",
         "content_type": "releases"
       }
     ]
