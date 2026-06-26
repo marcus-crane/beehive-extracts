@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-25T22:33:42Z",
-  "total_releases": 4260,
+  "last_indexed_at": "2026-06-26T00:51:45Z",
+  "total_releases": 4261,
   "releases": {
     "2023-11": [
       {
@@ -21364,6 +21364,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/minister-sets-2026-expectations-pharmac-continue-upward-trajectory",
         "date": "2026-06-25T21:33:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cutting-red-tape-freight-operators",
+        "date": "2026-06-26T00:06:26Z",
         "content_type": "releases"
       }
     ]
