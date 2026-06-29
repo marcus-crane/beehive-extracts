@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-29T00:52:08Z",
-  "total_releases": 4267,
+  "last_indexed_at": "2026-06-29T03:13:19Z",
+  "total_releases": 4268,
   "releases": {
     "2023-11": [
       {
@@ -21399,6 +21399,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/build-begins-southland-space-headquarters",
         "date": "2026-06-28T21:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-backs-major-north-island-freight-hub",
+        "date": "2026-06-29T02:58:46Z",
         "content_type": "releases"
       }
     ]
