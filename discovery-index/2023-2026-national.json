@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-28T05:33:50Z",
-  "total_releases": 4266,
+  "last_indexed_at": "2026-06-29T00:52:08Z",
+  "total_releases": 4267,
   "releases": {
     "2023-11": [
       {
@@ -21394,6 +21394,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/pacific-fisheries-ministers-meet-wellington-0",
         "date": "2026-06-28T03:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/build-begins-southland-space-headquarters",
+        "date": "2026-06-28T21:30:00Z",
         "content_type": "releases"
       }
     ]
