@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-29T03:13:19Z",
-  "total_releases": 4268,
+  "last_indexed_at": "2026-06-29T05:38:49Z",
+  "total_releases": 4270,
   "releases": {
     "2023-11": [
       {
@@ -21374,6 +21374,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/primary-birthing-unit-opens-central-auckland",
         "date": "2026-06-26T00:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-dunedin-hospital-reaches-new-heights-tower-cranes",
+        "date": "2026-06-26T03:46:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/stronger-rules-protect-power-lines-trees",
+        "date": "2026-06-26T03:47:49Z",
         "content_type": "releases"
       },
       {
