@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-30T05:26:59Z",
-  "total_releases": 4278,
+  "last_indexed_at": "2026-06-30T09:11:08Z",
+  "total_releases": 4280,
   "releases": {
     "2023-11": [
       {
@@ -21454,6 +21454,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/five-judges-price-none",
         "date": "2026-06-30T04:14:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-restaurants-serve-michelin-guide-success",
+        "date": "2026-06-30T07:30:52Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bill-passed-tackle-antisocial-road-users",
+        "date": "2026-06-30T08:27:16Z",
         "content_type": "releases"
       }
     ]
