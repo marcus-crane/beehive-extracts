@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-30T00:49:52Z",
-  "total_releases": 4276,
+  "last_indexed_at": "2026-06-30T03:10:59Z",
+  "total_releases": 4277,
   "releases": {
     "2023-11": [
       {
@@ -21444,6 +21444,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/corded-blinds-be-made-safer-children",
         "date": "2026-06-30T00:04:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-taic-commissioner-appointed",
+        "date": "2026-06-30T03:01:20Z",
         "content_type": "releases"
       }
     ]
