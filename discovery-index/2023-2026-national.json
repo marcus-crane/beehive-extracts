@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-30T09:11:08Z",
-  "total_releases": 4280,
+  "last_indexed_at": "2026-06-30T20:41:19Z",
+  "total_releases": 4282,
   "releases": {
     "2023-11": [
       {
@@ -21464,6 +21464,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/bill-passed-tackle-antisocial-road-users",
         "date": "2026-06-30T08:27:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/peak-pricing-make-power-more-affordable",
+        "date": "2026-06-30T20:31:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/registration-stillborn-babies-be-made-easier",
+        "date": "2026-06-30T20:33:57Z",
         "content_type": "releases"
       }
     ]
