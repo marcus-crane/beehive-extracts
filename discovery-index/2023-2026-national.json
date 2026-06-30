@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-30T21:34:23Z",
-  "total_releases": 4283,
+  "last_indexed_at": "2026-06-30T22:29:51Z",
+  "total_releases": 4287,
   "releases": {
     "2023-11": [
       {
@@ -21479,6 +21479,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/regulatory-standards-act-takes-effect-board-ready-work",
         "date": "2026-06-30T21:04:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/aml-reforms-enter-new-phase-one-clear-regulator",
+        "date": "2026-06-30T21:54:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/launch-safetynet-critical-communications",
+        "date": "2026-06-30T22:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/prime-minister%E2%80%99s-science-prizes-announced-1",
+        "date": "2026-06-30T22:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/major-milestone-reached-local-water-done-well",
+        "date": "2026-06-30T22:13:55Z",
         "content_type": "releases"
       }
     ]
