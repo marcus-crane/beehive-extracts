@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-30T20:41:19Z",
-  "total_releases": 4282,
+  "last_indexed_at": "2026-06-30T21:34:23Z",
+  "total_releases": 4283,
   "releases": {
     "2023-11": [
       {
@@ -21474,6 +21474,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/registration-stillborn-babies-be-made-easier",
         "date": "2026-06-30T20:33:57Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/regulatory-standards-act-takes-effect-board-ready-work",
+        "date": "2026-06-30T21:04:02Z",
         "content_type": "releases"
       }
     ]
