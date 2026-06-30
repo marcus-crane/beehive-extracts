@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-29T23:24:51Z",
-  "total_releases": 4273,
+  "last_indexed_at": "2026-06-30T00:49:52Z",
+  "total_releases": 4276,
   "releases": {
     "2023-11": [
       {
@@ -21427,8 +21427,23 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/six-co-response-team-locations-announced",
+        "date": "2026-06-29T22:59:06Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/407m-boost-backs-university-research-lab-market",
         "date": "2026-06-29T23:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pharmac-widens-access-medicine-high-cholesterol-everyone",
+        "date": "2026-06-29T23:46:31Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/corded-blinds-be-made-safer-children",
+        "date": "2026-06-30T00:04:15Z",
         "content_type": "releases"
       }
     ]
