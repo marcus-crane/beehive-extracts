@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-01T01:49:20Z",
-  "total_releases": 4289,
+  "last_indexed_at": "2026-07-01T03:12:44Z",
+  "total_releases": 4290,
   "releases": {
     "2023-11": [
       {
@@ -21511,6 +21511,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/common-sense-fix-eases-costs-toy-importers",
         "date": "2026-07-01T00:58:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/home-test-will-unlock-lower-bowel-screening-age",
+        "date": "2026-07-01T03:11:15Z",
         "content_type": "releases"
       }
     ]
