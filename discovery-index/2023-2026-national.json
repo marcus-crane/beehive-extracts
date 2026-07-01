@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-01T05:36:48Z",
-  "total_releases": 4292,
+  "last_indexed_at": "2026-07-01T22:31:54Z",
+  "total_releases": 4295,
   "releases": {
     "2023-11": [
       {
@@ -21482,6 +21482,16 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/new-appointments-announced-kordia-and-qv",
+        "date": "2026-06-30T21:47:31Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/building-future-offshore-renewable-energy",
+        "date": "2026-06-30T21:49:21Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/aml-reforms-enter-new-phase-one-clear-regulator",
         "date": "2026-06-30T21:54:58Z",
         "content_type": "releases"
@@ -21526,6 +21536,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/major-overhaul-health-and-safety-laws-passes-final-reading",
         "date": "2026-07-01T03:36:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/patients-now-focus-health-system",
+        "date": "2026-07-01T21:54:51Z",
         "content_type": "releases"
       }
     ]
