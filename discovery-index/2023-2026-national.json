@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-01T00:52:35Z",
-  "total_releases": 4288,
+  "last_indexed_at": "2026-07-01T01:49:20Z",
+  "total_releases": 4289,
   "releases": {
     "2023-11": [
       {
@@ -21504,6 +21504,13 @@
       {
         "url": "https://www.beehive.govt.nz/release/road-cone-crackdown-gathers-pace",
         "date": "2026-06-30T23:59:48Z",
+        "content_type": "releases"
+      }
+    ],
+    "2026-07": [
+      {
+        "url": "https://www.beehive.govt.nz/release/common-sense-fix-eases-costs-toy-importers",
+        "date": "2026-07-01T00:58:04Z",
         "content_type": "releases"
       }
     ]
