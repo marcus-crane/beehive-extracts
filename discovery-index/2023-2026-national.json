@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-06-30T22:29:51Z",
-  "total_releases": 4287,
+  "last_indexed_at": "2026-07-01T00:52:35Z",
+  "total_releases": 4288,
   "releases": {
     "2023-11": [
       {
@@ -21499,6 +21499,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/major-milestone-reached-local-water-done-well",
         "date": "2026-06-30T22:13:55Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/road-cone-crackdown-gathers-pace",
+        "date": "2026-06-30T23:59:48Z",
         "content_type": "releases"
       }
     ]
