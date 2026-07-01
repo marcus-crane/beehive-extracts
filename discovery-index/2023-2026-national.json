@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-01T03:12:44Z",
-  "total_releases": 4290,
+  "last_indexed_at": "2026-07-01T05:36:48Z",
+  "total_releases": 4292,
   "releases": {
     "2023-11": [
       {
@@ -21514,8 +21514,18 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/government-backs-new-mussel-spat-nursery",
+        "date": "2026-07-01T02:30:00Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/home-test-will-unlock-lower-bowel-screening-age",
         "date": "2026-07-01T03:11:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/major-overhaul-health-and-safety-laws-passes-final-reading",
+        "date": "2026-07-01T03:36:24Z",
         "content_type": "releases"
       }
     ]
