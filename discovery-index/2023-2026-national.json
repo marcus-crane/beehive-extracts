@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-01T22:31:54Z",
-  "total_releases": 4295,
+  "last_indexed_at": "2026-07-02T00:49:04Z",
+  "total_releases": 4297,
   "releases": {
     "2023-11": [
       {
@@ -21541,6 +21541,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/patients-now-focus-health-system",
         "date": "2026-07-01T21:54:51Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-books-reflect-improving-economy",
+        "date": "2026-07-01T23:41:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/backing-kiwi-veterans-support-extension",
+        "date": "2026-07-02T00:13:32Z",
         "content_type": "releases"
       }
     ]
