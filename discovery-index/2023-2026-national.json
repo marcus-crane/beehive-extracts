@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-02T03:09:42Z",
-  "total_releases": 4300,
+  "last_indexed_at": "2026-07-02T05:22:05Z",
+  "total_releases": 4302,
   "releases": {
     "2023-11": [
       {
@@ -21566,6 +21566,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-administrator-tokelau-announced-0",
         "date": "2026-07-02T02:31:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/foreign-minister-visit-singapore-and-japan",
+        "date": "2026-07-02T03:54:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/landmark-bill-improve-building-system-and-boost-growth",
+        "date": "2026-07-02T04:19:19Z",
         "content_type": "releases"
       }
     ]
