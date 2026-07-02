@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-02T00:49:04Z",
-  "total_releases": 4297,
+  "last_indexed_at": "2026-07-02T01:44:36Z",
+  "total_releases": 4298,
   "releases": {
     "2023-11": [
       {
@@ -21551,6 +21551,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/backing-kiwi-veterans-support-extension",
         "date": "2026-07-02T00:13:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/common-sense-transport-rule-changes-confirmed",
+        "date": "2026-07-02T01:22:16Z",
         "content_type": "releases"
       }
     ]
