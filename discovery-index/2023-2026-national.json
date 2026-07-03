@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-02T21:27:56Z",
-  "total_releases": 4303,
+  "last_indexed_at": "2026-07-03T00:40:44Z",
+  "total_releases": 4307,
   "releases": {
     "2023-11": [
       {
@@ -21581,6 +21581,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/curriculum-release-dates-confirmed-years-0-10",
         "date": "2026-07-02T21:13:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-principal-family-court-judge-appointed",
+        "date": "2026-07-02T23:37:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/environmental-reporting-act-amendment-bill-passes-first-reading",
+        "date": "2026-07-03T00:03:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/all-worksafe-inspectors-upskilled-machine-safety",
+        "date": "2026-07-03T00:20:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-host-indian-prime-minister",
+        "date": "2026-07-03T00:34:11Z",
         "content_type": "releases"
       }
     ]
