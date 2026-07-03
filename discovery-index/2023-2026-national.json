@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-03T05:20:15Z",
-  "total_releases": 4309,
+  "last_indexed_at": "2026-07-03T09:06:55Z",
+  "total_releases": 4310,
   "releases": {
     "2023-11": [
       {
@@ -21611,6 +21611,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/sod-turned-new-clyde-primary-maternity-unit",
         "date": "2026-07-03T03:22:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/real-estate-agents-win-fairer-treatment-under-new-law",
+        "date": "2026-07-03T08:55:45Z",
         "content_type": "releases"
       }
     ]
