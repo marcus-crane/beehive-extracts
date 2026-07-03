@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-03T03:07:52Z",
-  "total_releases": 4308,
+  "last_indexed_at": "2026-07-03T05:20:15Z",
+  "total_releases": 4309,
   "releases": {
     "2023-11": [
       {
@@ -21606,6 +21606,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/sixth-renewable-energy-project-fast-tracked",
         "date": "2026-07-03T02:42:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sod-turned-new-clyde-primary-maternity-unit",
+        "date": "2026-07-03T03:22:06Z",
         "content_type": "releases"
       }
     ]
