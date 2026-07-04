@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-03T22:24:10Z",
-  "total_releases": 4311,
+  "last_indexed_at": "2026-07-04T03:07:25Z",
+  "total_releases": 4312,
   "releases": {
     "2023-11": [
       {
@@ -21621,6 +21621,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/defence-minister-attend-nato-summit",
         "date": "2026-07-03T21:29:37Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/biggest-mental-health-law-change-over-30-years",
+        "date": "2026-07-04T02:26:25Z",
         "content_type": "releases"
       }
     ]
