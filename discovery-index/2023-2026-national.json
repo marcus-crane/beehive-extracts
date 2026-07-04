@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-04T03:07:25Z",
-  "total_releases": 4312,
+  "last_indexed_at": "2026-07-04T05:18:53Z",
+  "total_releases": 4313,
   "releases": {
     "2023-11": [
       {
@@ -21626,6 +21626,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/biggest-mental-health-law-change-over-30-years",
         "date": "2026-07-04T02:26:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-supporting-wairarapa-farmers-after-heavy-rain",
+        "date": "2026-07-04T04:33:55Z",
         "content_type": "releases"
       }
     ]
