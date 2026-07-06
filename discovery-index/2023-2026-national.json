@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-06T22:29:21Z",
-  "total_releases": 4319,
+  "last_indexed_at": "2026-07-06T23:27:47Z",
+  "total_releases": 4321,
   "releases": {
     "2023-11": [
       {
@@ -21649,6 +21649,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/read-all-about-it-%E2%80%93-greymouth-library-opens",
+        "date": "2026-07-06T04:30:00Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/design-contract-awarded-new-pekatahi-bridge",
         "date": "2026-07-06T21:45:09Z",
         "content_type": "releases"
@@ -21661,6 +21666,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/medical-imaging-specialists-vote-accept-settlement",
         "date": "2026-07-06T22:08:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pepe-stream-bridge-works-are-underway",
+        "date": "2026-07-06T23:05:00Z",
         "content_type": "releases"
       }
     ]
