@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-06T05:30:01Z",
-  "total_releases": 4315,
+  "last_indexed_at": "2026-07-06T22:29:21Z",
+  "total_releases": 4319,
   "releases": {
     "2023-11": [
       {
@@ -21639,8 +21639,28 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/new-cancer-treatment-machine-now-treating-patients-dunedin",
+        "date": "2026-07-05T22:08:54Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/nz-india-fta-already-boosting-exports",
         "date": "2026-07-06T03:14:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/design-contract-awarded-new-pekatahi-bridge",
+        "date": "2026-07-06T21:45:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand%E2%80%99s-strategic-diesel-reserve-ready-go",
+        "date": "2026-07-06T22:01:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/medical-imaging-specialists-vote-accept-settlement",
+        "date": "2026-07-06T22:08:08Z",
         "content_type": "releases"
       }
     ]
