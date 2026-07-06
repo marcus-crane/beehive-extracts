@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-05T20:26:28Z",
-  "total_releases": 4314,
+  "last_indexed_at": "2026-07-06T05:30:01Z",
+  "total_releases": 4315,
   "releases": {
     "2023-11": [
       {
@@ -21636,6 +21636,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/govt-backs-nz-critical-minerals-processing",
         "date": "2026-07-05T19:56:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-india-fta-already-boosting-exports",
+        "date": "2026-07-06T03:14:25Z",
         "content_type": "releases"
       }
     ]
