@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-07T22:26:36Z",
-  "total_releases": 4326,
+  "last_indexed_at": "2026-07-07T23:22:51Z",
+  "total_releases": 4327,
   "releases": {
     "2023-11": [
       {
@@ -21696,6 +21696,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/fifth-new-petroleum-application-targets-taranaki",
         "date": "2026-07-07T22:07:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/construction-contract-awarded-permanent-sh39-mangati-bridge",
+        "date": "2026-07-07T22:36:56Z",
         "content_type": "releases"
       }
     ]
