@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-06T23:27:47Z",
-  "total_releases": 4321,
+  "last_indexed_at": "2026-07-07T03:08:50Z",
+  "total_releases": 4322,
   "releases": {
     "2023-11": [
       {
@@ -21671,6 +21671,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/pepe-stream-bridge-works-are-underway",
         "date": "2026-07-06T23:05:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/qualification-completions-increase-across-tertiary-sector",
+        "date": "2026-07-07T02:55:00Z",
         "content_type": "releases"
       }
     ]
