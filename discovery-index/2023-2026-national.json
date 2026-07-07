@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-07T21:32:07Z",
-  "total_releases": 4323,
+  "last_indexed_at": "2026-07-07T22:26:36Z",
+  "total_releases": 4326,
   "releases": {
     "2023-11": [
       {
@@ -21681,6 +21681,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/women%E2%80%99s-health-hub-provides-life-stages-health-information",
         "date": "2026-07-07T20:53:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/children%E2%80%99s-commissioner-appointed",
+        "date": "2026-07-07T21:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/einvoicing-surge-gets-kiwi-businesses-paid-faster",
+        "date": "2026-07-07T21:40:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fifth-new-petroleum-application-targets-taranaki",
+        "date": "2026-07-07T22:07:14Z",
         "content_type": "releases"
       }
     ]
