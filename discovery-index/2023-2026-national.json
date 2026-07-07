@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-07T03:08:50Z",
-  "total_releases": 4322,
+  "last_indexed_at": "2026-07-07T21:32:07Z",
+  "total_releases": 4323,
   "releases": {
     "2023-11": [
       {
@@ -21676,6 +21676,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/qualification-completions-increase-across-tertiary-sector",
         "date": "2026-07-07T02:55:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/women%E2%80%99s-health-hub-provides-life-stages-health-information",
+        "date": "2026-07-07T20:53:56Z",
         "content_type": "releases"
       }
     ]
