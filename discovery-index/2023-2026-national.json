@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-08T05:06:48Z",
-  "total_releases": 4328,
+  "last_indexed_at": "2026-07-08T21:27:03Z",
+  "total_releases": 4329,
   "releases": {
     "2023-11": [
       {
@@ -21651,6 +21651,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/read-all-about-it-%E2%80%93-greymouth-library-opens",
         "date": "2026-07-06T04:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-members-appointed-eeca-board-0",
+        "date": "2026-07-06T20:15:09Z",
         "content_type": "releases"
       },
       {
