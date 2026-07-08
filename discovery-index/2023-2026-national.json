@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-07T23:22:51Z",
-  "total_releases": 4327,
+  "last_indexed_at": "2026-07-08T05:06:48Z",
+  "total_releases": 4328,
   "releases": {
     "2023-11": [
       {
@@ -21701,6 +21701,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/construction-contract-awarded-permanent-sh39-mangati-bridge",
         "date": "2026-07-07T22:36:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/teaching-council-%E2%80%93-appointments-new-governing-council",
+        "date": "2026-07-08T04:25:38Z",
         "content_type": "releases"
       }
     ]
