@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-09T01:37:37Z",
-  "total_releases": 4333,
+  "last_indexed_at": "2026-07-09T03:08:25Z",
+  "total_releases": 4336,
   "releases": {
     "2023-11": [
       {
@@ -21731,6 +21731,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/manufacturing-growth-surges-five-year-high",
         "date": "2026-07-09T01:07:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/crypto-atms-get-guardrails-not-guillotine",
+        "date": "2026-07-09T02:31:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-explore-joining-fiji-australia-defence-alliance",
+        "date": "2026-07-09T02:52:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/putting-money-back-till-food-businesses",
+        "date": "2026-07-09T02:53:36Z",
         "content_type": "releases"
       }
     ]
