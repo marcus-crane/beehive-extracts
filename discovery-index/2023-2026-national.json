@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-08T23:27:12Z",
-  "total_releases": 4331,
+  "last_indexed_at": "2026-07-09T01:37:37Z",
+  "total_releases": 4333,
   "releases": {
     "2023-11": [
       {
@@ -21721,6 +21721,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/gisborne-crisis-recovery-caf%C3%A9-opens",
         "date": "2026-07-08T22:21:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/faster-access-fasd-support",
+        "date": "2026-07-09T01:05:05Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/manufacturing-growth-surges-five-year-high",
+        "date": "2026-07-09T01:07:48Z",
         "content_type": "releases"
       }
     ]
