@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-09T03:08:25Z",
-  "total_releases": 4336,
+  "last_indexed_at": "2026-07-09T09:09:16Z",
+  "total_releases": 4337,
   "releases": {
     "2023-11": [
       {
@@ -21746,6 +21746,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/putting-money-back-till-food-businesses",
         "date": "2026-07-09T02:53:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-support-flood-hit-kaik%C5%8Dura-farmers",
+        "date": "2026-07-09T07:22:47Z",
         "content_type": "releases"
       }
     ]
