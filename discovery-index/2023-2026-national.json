@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-11T00:34:04Z",
-  "total_releases": 4338,
+  "last_indexed_at": "2026-07-11T03:05:51Z",
+  "total_releases": 4339,
   "releases": {
     "2023-11": [
       {
@@ -21756,6 +21756,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/nz-india-relationship-elevated-strategic-partnership",
         "date": "2026-07-11T00:26:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/investment-support-india-nz-100-years-unity-through-sport",
+        "date": "2026-07-11T02:50:07Z",
         "content_type": "releases"
       }
     ]
