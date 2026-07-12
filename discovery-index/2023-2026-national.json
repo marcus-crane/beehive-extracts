@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-11T03:05:51Z",
-  "total_releases": 4339,
+  "last_indexed_at": "2026-07-12T21:18:56Z",
+  "total_releases": 4340,
   "releases": {
     "2023-11": [
       {
@@ -21761,6 +21761,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/investment-support-india-nz-100-years-unity-through-sport",
         "date": "2026-07-11T02:50:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/telehealth-investment-deliver-faster-access-support",
+        "date": "2026-07-12T20:59:32Z",
         "content_type": "releases"
       }
     ]
