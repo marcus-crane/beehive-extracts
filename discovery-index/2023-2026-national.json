@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-12T22:19:05Z",
-  "total_releases": 4342,
+  "last_indexed_at": "2026-07-13T00:36:46Z",
+  "total_releases": 4343,
   "releases": {
     "2023-11": [
       {
@@ -21776,6 +21776,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/aquaculture-agreement-bay-plenty-iwi",
         "date": "2026-07-12T22:16:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bay-plenty-projects-backed-rif-investment",
+        "date": "2026-07-13T00:13:19Z",
         "content_type": "releases"
       }
     ]
