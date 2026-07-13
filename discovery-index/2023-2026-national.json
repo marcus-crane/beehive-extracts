@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-13T00:36:46Z",
-  "total_releases": 4343,
+  "last_indexed_at": "2026-07-13T03:07:32Z",
+  "total_releases": 4344,
   "releases": {
     "2023-11": [
       {
@@ -21781,6 +21781,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/bay-plenty-projects-backed-rif-investment",
         "date": "2026-07-13T00:13:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/milestone-hunter-led-conservation-nz",
+        "date": "2026-07-13T01:35:43Z",
         "content_type": "releases"
       }
     ]
