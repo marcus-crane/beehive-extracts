@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-13T03:07:32Z",
-  "total_releases": 4344,
+  "last_indexed_at": "2026-07-13T05:12:32Z",
+  "total_releases": 4347,
   "releases": {
     "2023-11": [
       {
@@ -21786,6 +21786,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/milestone-hunter-led-conservation-nz",
         "date": "2026-07-13T01:35:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/power-wheelchairs-open-new-horizons-disabled-kiwis",
+        "date": "2026-07-13T03:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/6-million-caulerpa-removal-tool-shows-promise-northland",
+        "date": "2026-07-13T03:18:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/guidance-increase-supermarket-competition-and-help-lower-prices",
+        "date": "2026-07-13T04:14:16Z",
         "content_type": "releases"
       }
     ]
