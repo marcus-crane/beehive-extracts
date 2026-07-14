@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-14T22:22:31Z",
-  "total_releases": 4350,
+  "last_indexed_at": "2026-07-14T23:20:11Z",
+  "total_releases": 4351,
   "releases": {
     "2023-11": [
       {
@@ -21811,6 +21811,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/capital-market-reforms-power-economic-growth",
         "date": "2026-07-14T00:10:57Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/faster-access-forensic-mental-health-support",
+        "date": "2026-07-14T21:59:23Z",
         "content_type": "releases"
       },
       {
