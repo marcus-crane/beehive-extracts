@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-15T05:02:46Z",
-  "total_releases": 4355,
+  "last_indexed_at": "2026-07-15T22:22:34Z",
+  "total_releases": 4357,
   "releases": {
     "2023-11": [
       {
@@ -21841,6 +21841,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/h5-bird-flu-confirmed-new-zealand",
         "date": "2026-07-15T03:55:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-hosts-pacific-leaders",
+        "date": "2026-07-15T22:05:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/trade-ministers-around-world-gather-auckland",
+        "date": "2026-07-15T22:19:00Z",
         "content_type": "releases"
       }
     ]
