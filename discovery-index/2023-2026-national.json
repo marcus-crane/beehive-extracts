@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-15T01:36:15Z",
-  "total_releases": 4353,
+  "last_indexed_at": "2026-07-15T03:05:39Z",
+  "total_releases": 4354,
   "releases": {
     "2023-11": [
       {
@@ -21831,6 +21831,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-dunedin-hospital-takes-shape-steel-goes",
         "date": "2026-07-15T00:40:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/building-future-sika-deer-herd-management",
+        "date": "2026-07-15T01:46:02Z",
         "content_type": "releases"
       }
     ]
