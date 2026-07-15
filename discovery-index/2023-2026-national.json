@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-15T03:05:39Z",
-  "total_releases": 4354,
+  "last_indexed_at": "2026-07-15T05:02:46Z",
+  "total_releases": 4355,
   "releases": {
     "2023-11": [
       {
@@ -21836,6 +21836,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/building-future-sika-deer-herd-management",
         "date": "2026-07-15T01:46:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/h5-bird-flu-confirmed-new-zealand",
+        "date": "2026-07-15T03:55:27Z",
         "content_type": "releases"
       }
     ]
