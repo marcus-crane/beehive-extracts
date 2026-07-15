@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-14T23:20:11Z",
-  "total_releases": 4351,
+  "last_indexed_at": "2026-07-15T01:36:15Z",
+  "total_releases": 4353,
   "releases": {
     "2023-11": [
       {
@@ -21821,6 +21821,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/improving-how-new-zealand-plans-climate-risks",
         "date": "2026-07-14T22:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-chair-electricity-authority",
+        "date": "2026-07-15T00:39:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-dunedin-hospital-takes-shape-steel-goes",
+        "date": "2026-07-15T00:40:14Z",
         "content_type": "releases"
       }
     ]
