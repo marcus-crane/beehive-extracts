@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-17T03:05:59Z",
-  "total_releases": 4364,
+  "last_indexed_at": "2026-07-17T05:05:45Z",
+  "total_releases": 4367,
   "releases": {
     "2023-11": [
       {
@@ -21886,6 +21886,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-ferries-operator-announced-vessels-named",
         "date": "2026-07-17T01:43:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/foreign-minister-travel-philippines",
+        "date": "2026-07-17T03:13:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/statement-sir-william-birch",
+        "date": "2026-07-17T03:22:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/bird-flu-work-steps-second-case-confirmed",
+        "date": "2026-07-17T03:38:50Z",
         "content_type": "releases"
       }
     ]
