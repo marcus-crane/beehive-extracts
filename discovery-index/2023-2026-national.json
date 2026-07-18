@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-18T11:23:31Z",
-  "total_releases": 4369,
+  "last_indexed_at": "2026-07-18T12:21:01Z",
+  "total_releases": 4370,
   "releases": {
     "2023-11": [
       {
@@ -21911,6 +21911,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/fit-partnership-grows-19-countries",
         "date": "2026-07-18T11:19:03Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fit-members-commit-smoother-trade",
+        "date": "2026-07-18T11:22:20Z",
         "content_type": "releases"
       }
     ]
