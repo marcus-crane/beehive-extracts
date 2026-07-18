@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-17T05:05:45Z",
-  "total_releases": 4367,
+  "last_indexed_at": "2026-07-18T11:23:31Z",
+  "total_releases": 4369,
   "releases": {
     "2023-11": [
       {
@@ -21901,6 +21901,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/bird-flu-work-steps-second-case-confirmed",
         "date": "2026-07-17T03:38:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/world-first-new-zealand-singapore-essential-supplies-agreement-now-force",
+        "date": "2026-07-18T11:15:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fit-partnership-grows-19-countries",
+        "date": "2026-07-18T11:19:03Z",
         "content_type": "releases"
       }
     ]
