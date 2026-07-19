@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-18T12:21:01Z",
-  "total_releases": 4370,
+  "last_indexed_at": "2026-07-19T22:20:05Z",
+  "total_releases": 4371,
   "releases": {
     "2023-11": [
       {
@@ -21916,6 +21916,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/fit-members-commit-smoother-trade",
         "date": "2026-07-18T11:22:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/domestic-cement-production-secured%C2%A0",
+        "date": "2026-07-19T21:37:13Z",
         "content_type": "releases"
       }
     ]
