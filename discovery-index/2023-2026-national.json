@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-20T05:16:20Z",
-  "total_releases": 4373,
+  "last_indexed_at": "2026-07-20T22:22:27Z",
+  "total_releases": 4374,
   "releases": {
     "2023-11": [
       {
@@ -21931,6 +21931,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/select-committee-report-natural-environment-bill-and-planning-bill-welcomed",
         "date": "2026-07-20T04:27:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/10-billion-milestone-highlights-growing-investment-new-zealand-innovation",
+        "date": "2026-07-20T21:32:21Z",
         "content_type": "releases"
       }
     ]
