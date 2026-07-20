@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-19T22:20:05Z",
-  "total_releases": 4371,
+  "last_indexed_at": "2026-07-20T03:07:14Z",
+  "total_releases": 4372,
   "releases": {
     "2023-11": [
       {
@@ -21921,6 +21921,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/domestic-cement-production-secured%C2%A0",
         "date": "2026-07-19T21:37:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/better-planning-growth-and-environment",
+        "date": "2026-07-20T02:30:39Z",
         "content_type": "releases"
       }
     ]
