@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-21T05:49:15Z",
-  "total_releases": 4380,
+  "last_indexed_at": "2026-07-21T23:55:44Z",
+  "total_releases": 4381,
   "releases": {
     "2023-11": [
       {
@@ -21966,6 +21966,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/fiscal-discipline-critical-during-global-volatility",
         "date": "2026-07-21T11:30:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/calmer-quieter-classrooms-walls-go",
+        "date": "2026-07-21T23:04:28Z",
         "content_type": "releases"
       }
     ]
