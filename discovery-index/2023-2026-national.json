@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-20T23:55:46Z",
-  "total_releases": 4375,
+  "last_indexed_at": "2026-07-21T02:29:53Z",
+  "total_releases": 4378,
   "releases": {
     "2023-11": [
       {
@@ -21941,6 +21941,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/minerals-sector-gaining-momentum-under-strategy",
         "date": "2026-07-20T23:30:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/two-new-directors-join-tvnz-board",
+        "date": "2026-07-21T01:01:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/final-report-received-phillips-children-inquiry",
+        "date": "2026-07-21T01:02:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fiscal-discipline-critical-during-global-volatility",
+        "date": "2026-07-21T11:30:42Z",
         "content_type": "releases"
       }
     ]
