@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-21T02:29:53Z",
-  "total_releases": 4378,
+  "last_indexed_at": "2026-07-21T05:49:15Z",
+  "total_releases": 4380,
   "releases": {
     "2023-11": [
       {
@@ -21951,6 +21951,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/final-report-received-phillips-children-inquiry",
         "date": "2026-07-21T01:02:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-and-philippines-form-comprehensive-partnership",
+        "date": "2026-07-21T02:57:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/women%E2%80%99s-governance-pipeline-grows-through-boardconnector",
+        "date": "2026-07-21T03:18:51Z",
         "content_type": "releases"
       },
       {
