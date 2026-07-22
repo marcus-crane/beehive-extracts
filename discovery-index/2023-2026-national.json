@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-22T05:48:40Z",
-  "total_releases": 4385,
+  "last_indexed_at": "2026-07-22T08:25:43Z",
+  "total_releases": 4387,
   "releases": {
     "2023-11": [
       {
@@ -21991,6 +21991,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/relieving-pressure-facilities-tourism-hotspots",
         "date": "2026-07-22T03:58:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-and-png-strengthen-defence-ties",
+        "date": "2026-07-22T06:31:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/licenced-firearm-owners-heard-improvements-arms-bill",
+        "date": "2026-07-22T06:48:54Z",
         "content_type": "releases"
       }
     ]
