@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-21T23:55:44Z",
-  "total_releases": 4381,
+  "last_indexed_at": "2026-07-22T05:48:40Z",
+  "total_releases": 4385,
   "releases": {
     "2023-11": [
       {
@@ -21924,6 +21924,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/new-charter-school-opens-doors",
+        "date": "2026-07-19T21:47:04Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/better-planning-growth-and-environment",
         "date": "2026-07-20T02:30:39Z",
         "content_type": "releases"
@@ -21971,6 +21976,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/calmer-quieter-classrooms-walls-go",
         "date": "2026-07-21T23:04:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/youth-mental-health-access-data-be-reported",
+        "date": "2026-07-22T02:34:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/term-2-person-attendance-highest-2016",
+        "date": "2026-07-22T02:48:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/relieving-pressure-facilities-tourism-hotspots",
+        "date": "2026-07-22T03:58:42Z",
         "content_type": "releases"
       }
     ]
