@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-22T08:25:43Z",
-  "total_releases": 4387,
+  "last_indexed_at": "2026-07-22T23:01:04Z",
+  "total_releases": 4389,
   "releases": {
     "2023-11": [
       {
@@ -22001,6 +22001,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/licenced-firearm-owners-heard-improvements-arms-bill",
         "date": "2026-07-22T06:48:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cpi-reported-monthly-2027",
+        "date": "2026-07-22T22:56:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/guide-support-staff-experiencing-stalking",
+        "date": "2026-07-22T23:01:53Z",
         "content_type": "releases"
       }
     ]
