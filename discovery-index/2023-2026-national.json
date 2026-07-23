@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-23T10:21:24Z",
-  "total_releases": 4395,
+  "last_indexed_at": "2026-07-23T21:02:10Z",
+  "total_releases": 4396,
   "releases": {
     "2023-11": [
       {
@@ -22041,6 +22041,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/asia-regional-meetings-conclude-amid-international-turbulence",
         "date": "2026-07-23T08:31:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/rail-crossing-work-reaches-milestone",
+        "date": "2026-07-23T19:58:18Z",
         "content_type": "releases"
       }
     ]
