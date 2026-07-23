@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-23T00:09:53Z",
-  "total_releases": 4390,
+  "last_indexed_at": "2026-07-23T04:14:50Z",
+  "total_releases": 4393,
   "releases": {
     "2023-11": [
       {
@@ -22016,6 +22016,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/homegrown-nursing-workforce-continues-grow",
         "date": "2026-07-22T23:20:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointments-new-school-property-board",
+        "date": "2026-07-23T00:26:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/partnerships-empower-risk-waikato-youth",
+        "date": "2026-07-23T03:11:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/christchurch-mens-prison-ppp-deal-signed",
+        "date": "2026-07-23T04:00:00Z",
         "content_type": "releases"
       }
     ]
