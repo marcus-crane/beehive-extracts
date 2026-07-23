@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-22T23:01:04Z",
-  "total_releases": 4389,
+  "last_indexed_at": "2026-07-23T00:09:53Z",
+  "total_releases": 4390,
   "releases": {
     "2023-11": [
       {
@@ -22011,6 +22011,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/guide-support-staff-experiencing-stalking",
         "date": "2026-07-22T23:01:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/homegrown-nursing-workforce-continues-grow",
+        "date": "2026-07-22T23:20:50Z",
         "content_type": "releases"
       }
     ]
