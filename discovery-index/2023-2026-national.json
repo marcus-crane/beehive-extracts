@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-23T21:02:10Z",
-  "total_releases": 4396,
+  "last_indexed_at": "2026-07-23T23:58:56Z",
+  "total_releases": 4399,
   "releases": {
     "2023-11": [
       {
@@ -22046,6 +22046,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/rail-crossing-work-reaches-milestone",
         "date": "2026-07-23T19:58:18Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sod-turned-final-stage-eastern-busway",
+        "date": "2026-07-23T22:37:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-support-kaikoura-community",
+        "date": "2026-07-23T23:00:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/high-court-judge-appointment",
+        "date": "2026-07-23T23:37:17Z",
         "content_type": "releases"
       }
     ]
