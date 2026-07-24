@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-23T23:58:56Z",
-  "total_releases": 4399,
+  "last_indexed_at": "2026-07-24T03:15:40Z",
+  "total_releases": 4402,
   "releases": {
     "2023-11": [
       {
@@ -22061,6 +22061,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/high-court-judge-appointment",
         "date": "2026-07-23T23:37:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointments-nzta-board",
+        "date": "2026-07-24T00:01:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/psychology-assistants-hit-books",
+        "date": "2026-07-24T00:07:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/reappointments-te-taura-whiri-i-te-reo-m%C4%81ori-board-strengthens-continuity-and-leadership",
+        "date": "2026-07-24T01:28:10Z",
         "content_type": "releases"
       }
     ]
