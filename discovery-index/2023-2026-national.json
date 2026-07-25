@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-24T03:15:40Z",
-  "total_releases": 4402,
+  "last_indexed_at": "2026-07-25T00:03:28Z",
+  "total_releases": 4404,
   "releases": {
     "2023-11": [
       {
@@ -22076,6 +22076,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/reappointments-te-taura-whiri-i-te-reo-m%C4%81ori-board-strengthens-continuity-and-leadership",
         "date": "2026-07-24T01:28:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-ai-tool-help-develop-biosecurity-standards",
+        "date": "2026-07-24T22:18:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/grandstand-finish-iconic-rugby-park",
+        "date": "2026-07-24T23:00:00Z",
         "content_type": "releases"
       }
     ]
