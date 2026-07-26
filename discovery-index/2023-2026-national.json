@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-25T00:03:28Z",
-  "total_releases": 4404,
+  "last_indexed_at": "2026-07-26T23:01:04Z",
+  "total_releases": 4407,
   "releases": {
     "2023-11": [
       {
@@ -22086,6 +22086,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/grandstand-finish-iconic-rugby-park",
         "date": "2026-07-24T23:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/takitimu-north-link-sh29-flyover-opens-traffic",
+        "date": "2026-07-26T22:11:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/appointments-made-medical-council",
+        "date": "2026-07-26T22:30:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-cancer-machine-treating-patients-wellington-hospital",
+        "date": "2026-07-26T22:31:20Z",
         "content_type": "releases"
       }
     ]
