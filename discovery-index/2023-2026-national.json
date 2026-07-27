@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-27T21:09:01Z",
-  "total_releases": 4412,
+  "last_indexed_at": "2026-07-27T23:00:25Z",
+  "total_releases": 4414,
   "releases": {
     "2023-11": [
       {
@@ -22126,6 +22126,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/protection-hoiho-made-permanent",
         "date": "2026-07-27T20:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/leadership-reappointments-confirmed-m%C4%81ori-whenua-economic-development-and-broadcasting",
+        "date": "2026-07-27T21:24:52Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/waitangi-tribunal-appointments-confirmed",
+        "date": "2026-07-27T21:28:22Z",
         "content_type": "releases"
       }
     ]
