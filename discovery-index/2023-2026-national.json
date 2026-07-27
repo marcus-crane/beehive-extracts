@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-26T23:01:04Z",
-  "total_releases": 4407,
+  "last_indexed_at": "2026-07-27T04:36:07Z",
+  "total_releases": 4411,
   "releases": {
     "2023-11": [
       {
@@ -22101,6 +22101,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-cancer-machine-treating-patients-wellington-hospital",
         "date": "2026-07-26T22:31:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-flexibility-growers-smaller-scale-crops",
+        "date": "2026-07-27T01:26:55Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/over-97500-families-benefiting-familyboost",
+        "date": "2026-07-27T03:03:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tertiary-minister-strengthen-new-zealands-vocational-education-links-china",
+        "date": "2026-07-27T03:10:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/deborah-hart-appointed-chair-sport-integrity-commission-board",
+        "date": "2026-07-27T03:30:00Z",
         "content_type": "releases"
       }
     ]
