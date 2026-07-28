@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-28T06:36:22Z",
-  "total_releases": 4419,
+  "last_indexed_at": "2026-07-28T22:03:28Z",
+  "total_releases": 4420,
   "releases": {
     "2023-11": [
       {
@@ -22161,6 +22161,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/better-tools-fund-and-finance-new-infrastructure",
         "date": "2026-07-28T04:40:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ai-search-harnessed-back-tourism-growth",
+        "date": "2026-07-28T21:18:00Z",
         "content_type": "releases"
       }
     ]
