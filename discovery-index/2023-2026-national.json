@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-28T04:01:21Z",
-  "total_releases": 4418,
+  "last_indexed_at": "2026-07-28T06:36:22Z",
+  "total_releases": 4419,
   "releases": {
     "2023-11": [
       {
@@ -22156,6 +22156,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/simpler-clearer-more-effective-rse-scheme",
         "date": "2026-07-28T03:39:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/better-tools-fund-and-finance-new-infrastructure",
+        "date": "2026-07-28T04:40:43Z",
         "content_type": "releases"
       }
     ]
