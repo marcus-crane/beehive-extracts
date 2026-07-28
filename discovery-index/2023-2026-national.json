@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-27T23:00:25Z",
-  "total_releases": 4414,
+  "last_indexed_at": "2026-07-28T00:08:04Z",
+  "total_releases": 4415,
   "releases": {
     "2023-11": [
       {
@@ -22136,6 +22136,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/waitangi-tribunal-appointments-confirmed",
         "date": "2026-07-27T21:28:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/final-report-phillips-children-inquiry-extended",
+        "date": "2026-07-27T23:57:18Z",
         "content_type": "releases"
       }
     ]
