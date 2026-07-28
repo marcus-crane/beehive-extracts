@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-28T22:03:28Z",
-  "total_releases": 4420,
+  "last_indexed_at": "2026-07-28T23:57:25Z",
+  "total_releases": 4424,
   "releases": {
     "2023-11": [
       {
@@ -22166,6 +22166,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/ai-search-harnessed-back-tourism-growth",
         "date": "2026-07-28T21:18:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-new-offshore-petroleum-permit-granted",
+        "date": "2026-07-28T22:02:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/better-crisis-response-auckland-region",
+        "date": "2026-07-28T22:29:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-responds-covid-19-inquiry",
+        "date": "2026-07-28T23:07:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/3000-social-homes-delivered-auckland-so-far",
+        "date": "2026-07-28T23:10:24Z",
         "content_type": "releases"
       }
     ]
