@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-28T23:57:25Z",
-  "total_releases": 4424,
+  "last_indexed_at": "2026-07-29T02:40:42Z",
+  "total_releases": 4427,
   "releases": {
     "2023-11": [
       {
@@ -22186,6 +22186,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/3000-social-homes-delivered-auckland-so-far",
         "date": "2026-07-28T23:10:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/belfast-pegasus-sh1-road-national-significance-fast-tracked",
+        "date": "2026-07-28T23:44:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/youth-hubs-deliver-faster-access-support",
+        "date": "2026-07-29T01:52:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/defence-force-modernise-strike-drones",
+        "date": "2026-07-29T02:13:58Z",
         "content_type": "releases"
       }
     ]
