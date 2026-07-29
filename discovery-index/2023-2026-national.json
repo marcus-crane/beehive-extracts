@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-29T20:12:17Z",
-  "total_releases": 4432,
+  "last_indexed_at": "2026-07-29T23:04:12Z",
+  "total_releases": 4433,
   "releases": {
     "2023-11": [
       {
@@ -22206,6 +22206,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/statement-further-issues-concerning-biometric-capability-upgrade-bcu-project",
         "date": "2026-07-29T02:48:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/deputy-chair-appointed-reserve-bank-board",
+        "date": "2026-07-29T03:45:01Z",
         "content_type": "releases"
       },
       {
