@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-29T08:37:40Z",
-  "total_releases": 4431,
+  "last_indexed_at": "2026-07-29T20:12:17Z",
+  "total_releases": 4432,
   "releases": {
     "2023-11": [
       {
@@ -22211,6 +22211,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-investment-boost-otago-predator-control",
         "date": "2026-07-29T03:58:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/dog-control-guidelines-updated-safety",
+        "date": "2026-07-29T04:00:00Z",
         "content_type": "releases"
       },
       {
