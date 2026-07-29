@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-29T05:51:23Z",
-  "total_releases": 4430,
+  "last_indexed_at": "2026-07-29T08:37:40Z",
+  "total_releases": 4431,
   "releases": {
     "2023-11": [
       {
@@ -22216,6 +22216,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/better-firearm-laws-locked-and-loaded",
         "date": "2026-07-29T05:06:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/holidays-act-headache-finally-over-leave-reform-delivered",
+        "date": "2026-07-29T07:46:34Z",
         "content_type": "releases"
       }
     ]
