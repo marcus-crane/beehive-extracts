@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-29T23:04:12Z",
-  "total_releases": 4433,
+  "last_indexed_at": "2026-07-30T02:09:44Z",
+  "total_releases": 4436,
   "releases": {
     "2023-11": [
       {
@@ -22231,6 +22231,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/holidays-act-headache-finally-over-leave-reform-delivered",
         "date": "2026-07-29T07:46:34Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/practical-changes-introduced-laboratory-safety",
+        "date": "2026-07-30T00:38:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/backing-our-frontline-rural-health-workforce",
+        "date": "2026-07-30T01:08:52Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/final-appointments-teaching-council",
+        "date": "2026-07-30T01:43:33Z",
         "content_type": "releases"
       }
     ]
