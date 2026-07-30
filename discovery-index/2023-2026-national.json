@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-30T17:25:06Z",
-  "total_releases": 4438,
+  "last_indexed_at": "2026-07-30T23:04:53Z",
+  "total_releases": 4440,
   "releases": {
     "2023-11": [
       {
@@ -22234,6 +22234,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/getting-government-roofs-letting-sun-shine-kiwi-solar",
+        "date": "2026-07-29T16:03:23Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/practical-changes-introduced-laboratory-safety",
         "date": "2026-07-30T00:38:43Z",
         "content_type": "releases"
@@ -22256,6 +22261,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/homes-hounds-now-focus",
         "date": "2026-07-30T17:09:05Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/three-new-appointments-nzsl-board",
+        "date": "2026-07-30T21:30:14Z",
         "content_type": "releases"
       }
     ]
