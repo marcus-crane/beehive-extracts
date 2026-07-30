@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-30T02:09:44Z",
-  "total_releases": 4436,
+  "last_indexed_at": "2026-07-30T05:39:27Z",
+  "total_releases": 4437,
   "releases": {
     "2023-11": [
       {
@@ -22246,6 +22246,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/final-appointments-teaching-council",
         "date": "2026-07-30T01:43:33Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/warkworth-te-hana-ppp-signed",
+        "date": "2026-07-30T03:03:45Z",
         "content_type": "releases"
       }
     ]
