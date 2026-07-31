@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-31T02:37:19Z",
-  "total_releases": 4443,
+  "last_indexed_at": "2026-07-31T06:12:25Z",
+  "total_releases": 4445,
   "releases": {
     "2023-11": [
       {
@@ -22281,6 +22281,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/businesses-can-now-apply-transition-gas",
         "date": "2026-07-31T01:40:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hon-paul-davison-kc-kso-appointed-independent-redress-officer",
+        "date": "2026-07-31T03:35:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/funding-investigate-former-whanganui-landfill",
+        "date": "2026-07-31T04:57:30Z",
         "content_type": "releases"
       }
     ]
