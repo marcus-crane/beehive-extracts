@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-31T06:12:25Z",
-  "total_releases": 4445,
+  "last_indexed_at": "2026-07-31T20:19:15Z",
+  "total_releases": 4446,
   "releases": {
     "2023-11": [
       {
@@ -22291,6 +22291,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/funding-investigate-former-whanganui-landfill",
         "date": "2026-07-31T04:57:30Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/skin-cancer-treatment-expanding-gp-clinics",
+        "date": "2026-07-31T20:00:17Z",
         "content_type": "releases"
       }
     ]
