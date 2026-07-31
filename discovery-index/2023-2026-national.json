@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-07-30T23:04:53Z",
-  "total_releases": 4440,
+  "last_indexed_at": "2026-07-31T02:37:19Z",
+  "total_releases": 4443,
   "releases": {
     "2023-11": [
       {
@@ -22266,6 +22266,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/three-new-appointments-nzsl-board",
         "date": "2026-07-30T21:30:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/target-10000-trained-family-and-sexual-violence-responses-reached-early",
+        "date": "2026-07-30T23:10:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/800-small-and-remote-schools-benefit-upgrades",
+        "date": "2026-07-30T23:54:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/businesses-can-now-apply-transition-gas",
+        "date": "2026-07-31T01:40:04Z",
         "content_type": "releases"
       }
     ]
