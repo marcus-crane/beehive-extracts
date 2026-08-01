@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-01T00:00:52Z",
-  "total_releases": 4447,
+  "last_indexed_at": "2026-08-01T03:42:14Z",
+  "total_releases": 4448,
   "releases": {
     "2023-11": [
       {
@@ -22301,6 +22301,13 @@
       {
         "url": "https://www.beehive.govt.nz/release/call-action-hunter-led-conservation-win",
         "date": "2026-07-31T22:04:19Z",
+        "content_type": "releases"
+      }
+    ],
+    "2026-08": [
+      {
+        "url": "https://www.beehive.govt.nz/release/new-drury-and-paer%C4%81t%C4%81-stations-open-south-auckland",
+        "date": "2026-08-01T01:13:37Z",
         "content_type": "releases"
       }
     ]
