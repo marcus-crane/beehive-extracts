@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-02T21:54:32Z",
-  "total_releases": 4452,
+  "last_indexed_at": "2026-08-02T22:54:58Z",
+  "total_releases": 4453,
   "releases": {
     "2023-11": [
       {
@@ -22327,6 +22327,11 @@
       },
       {
         "url": "https://www.beehive.govt.nz/release/school-onsite-training-programme-provide-660-places-every-year-2028",
+        "date": "2026-08-02T21:14:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/school-onsite-training-programme-provide-704-places-every-year-2028",
         "date": "2026-08-02T21:14:48Z",
         "content_type": "releases"
       }
