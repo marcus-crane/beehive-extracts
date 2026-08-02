@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-01T03:42:14Z",
-  "total_releases": 4448,
+  "last_indexed_at": "2026-08-02T20:53:36Z",
+  "total_releases": 4450,
   "releases": {
     "2023-11": [
       {
@@ -22269,6 +22269,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/rotorua-opening-shows-future-value-added-wood-processing",
+        "date": "2026-07-30T22:00:00Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/target-10000-trained-family-and-sexual-violence-responses-reached-early",
         "date": "2026-07-30T23:10:58Z",
         "content_type": "releases"
@@ -22308,6 +22313,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-drury-and-paer%C4%81t%C4%81-stations-open-south-auckland",
         "date": "2026-08-01T01:13:37Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/local-shellfish-bans-gulf-extended",
+        "date": "2026-08-02T20:00:00Z",
         "content_type": "releases"
       }
     ]
