@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-02T20:53:36Z",
-  "total_releases": 4450,
+  "last_indexed_at": "2026-08-02T21:54:32Z",
+  "total_releases": 4452,
   "releases": {
     "2023-11": [
       {
@@ -22318,6 +22318,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/local-shellfish-bans-gulf-extended",
         "date": "2026-08-02T20:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/reappointments-kgc-and-transpower-boards",
+        "date": "2026-08-02T21:10:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/school-onsite-training-programme-provide-660-places-every-year-2028",
+        "date": "2026-08-02T21:14:48Z",
         "content_type": "releases"
       }
     ]
