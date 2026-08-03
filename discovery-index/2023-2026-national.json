@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-03T02:50:35Z",
-  "total_releases": 4455,
+  "last_indexed_at": "2026-08-03T22:07:46Z",
+  "total_releases": 4456,
   "releases": {
     "2023-11": [
       {
@@ -22343,6 +22343,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/40581-new-homes-consented-year-19",
         "date": "2026-08-03T01:50:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pharmac-strengthens-patient-voice-decision-making",
+        "date": "2026-08-03T22:03:00Z",
         "content_type": "releases"
       }
     ]
