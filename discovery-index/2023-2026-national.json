@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-03T22:07:46Z",
-  "total_releases": 4456,
+  "last_indexed_at": "2026-08-04T00:07:46Z",
+  "total_releases": 4458,
   "releases": {
     "2023-11": [
       {
@@ -22348,6 +22348,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/pharmac-strengthens-patient-voice-decision-making",
         "date": "2026-08-03T22:03:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-funding-protects-rare-frogs-and-skinks",
+        "date": "2026-08-03T23:04:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/earn-you-learn-programme-expands",
+        "date": "2026-08-03T23:06:58Z",
         "content_type": "releases"
       }
     ]
