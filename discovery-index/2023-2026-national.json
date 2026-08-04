@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-04T21:29:04Z",
-  "total_releases": 4462,
+  "last_indexed_at": "2026-08-04T22:26:11Z",
+  "total_releases": 4464,
   "releases": {
     "2023-11": [
       {
@@ -22378,6 +22378,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/service-dog-ids-improve-disability-access",
         "date": "2026-08-04T21:15:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-specialist-school-fill-long-standing-gap-gisborne",
+        "date": "2026-08-04T21:55:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/communities-design-local-social-services",
+        "date": "2026-08-04T21:58:27Z",
         "content_type": "releases"
       }
     ]
