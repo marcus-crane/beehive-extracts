@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-04T00:07:46Z",
-  "total_releases": 4458,
+  "last_indexed_at": "2026-08-04T07:37:51Z",
+  "total_releases": 4459,
   "releases": {
     "2023-11": [
       {
@@ -22358,6 +22358,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/earn-you-learn-programme-expands",
         "date": "2026-08-03T23:06:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/enhanced-citizens%E2%80%99-arrest-powers-become-reality",
+        "date": "2026-08-04T05:19:45Z",
         "content_type": "releases"
       }
     ]
