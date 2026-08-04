@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-04T19:33:21Z",
-  "total_releases": 4460,
+  "last_indexed_at": "2026-08-04T21:29:04Z",
+  "total_releases": 4462,
   "releases": {
     "2023-11": [
       {
@@ -22368,6 +22368,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/stable-settings-maintain-ets-certainty",
         "date": "2026-08-04T19:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/downtown-carpark-redevelopment-fast-tracked",
+        "date": "2026-08-04T21:09:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/service-dog-ids-improve-disability-access",
+        "date": "2026-08-04T21:15:23Z",
         "content_type": "releases"
       }
     ]
