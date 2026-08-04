@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-04T07:37:51Z",
-  "total_releases": 4459,
+  "last_indexed_at": "2026-08-04T19:33:21Z",
+  "total_releases": 4460,
   "releases": {
     "2023-11": [
       {
@@ -22363,6 +22363,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/enhanced-citizens%E2%80%99-arrest-powers-become-reality",
         "date": "2026-08-04T05:19:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/stable-settings-maintain-ets-certainty",
+        "date": "2026-08-04T19:00:00Z",
         "content_type": "releases"
       }
     ]
