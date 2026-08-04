@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-04T22:26:11Z",
-  "total_releases": 4464,
+  "last_indexed_at": "2026-08-04T23:24:24Z",
+  "total_releases": 4466,
   "releases": {
     "2023-11": [
       {
@@ -22388,6 +22388,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/communities-design-local-social-services",
         "date": "2026-08-04T21:58:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pharmac-decision-increase-access-type-2-diabetes-medicines",
+        "date": "2026-08-04T23:16:18Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/jobs-data-shows-why-economic-growth-matters",
+        "date": "2026-08-04T23:22:08Z",
         "content_type": "releases"
       }
     ]
