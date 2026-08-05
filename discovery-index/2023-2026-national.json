@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-05T16:35:25Z",
-  "total_releases": 4471,
+  "last_indexed_at": "2026-08-05T19:32:38Z",
+  "total_releases": 4472,
   "releases": {
     "2023-11": [
       {
@@ -22423,6 +22423,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/changes-expand-recognition-kiwi-authors",
         "date": "2026-08-05T16:07:15Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-subjects-bring-industry-and-classroom-closer-together",
+        "date": "2026-08-05T18:40:02Z",
         "content_type": "releases"
       }
     ]
