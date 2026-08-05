@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-04T23:24:24Z",
-  "total_releases": 4466,
+  "last_indexed_at": "2026-08-05T00:34:09Z",
+  "total_releases": 4467,
   "releases": {
     "2023-11": [
       {
@@ -22398,6 +22398,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/jobs-data-shows-why-economic-growth-matters",
         "date": "2026-08-04T23:22:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/feedback-sought-great-barrier-rock-lobster",
+        "date": "2026-08-04T23:43:03Z",
         "content_type": "releases"
       }
     ]
