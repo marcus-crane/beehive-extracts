@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-05T22:26:19Z",
-  "total_releases": 4476,
+  "last_indexed_at": "2026-08-06T05:05:55Z",
+  "total_releases": 4479,
   "releases": {
     "2023-11": [
       {
@@ -22448,6 +22448,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/james-miller-appointed-fma-chair",
         "date": "2026-08-05T22:02:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-urgent-care-service-rolleston",
+        "date": "2026-08-06T03:12:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/enhanced-citizens%E2%80%99-arrest-powers-pass-law",
+        "date": "2026-08-06T03:54:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-welcome-viet-nam-president",
+        "date": "2026-08-06T04:13:46Z",
         "content_type": "releases"
       }
     ]
