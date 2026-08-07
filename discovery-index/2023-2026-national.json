@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-06T22:03:05Z",
-  "total_releases": 4481,
+  "last_indexed_at": "2026-08-07T00:04:19Z",
+  "total_releases": 4483,
   "releases": {
     "2023-11": [
       {
@@ -22473,6 +22473,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/earlier-monetisation-chorus-debt-crown-supports-infrastructure-investment",
         "date": "2026-08-06T20:43:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/total-mobility-scheme-strengthened-following-review",
+        "date": "2026-08-06T23:02:40Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/business-funding-now-easier-find",
+        "date": "2026-08-06T23:11:54Z",
         "content_type": "releases"
       }
     ]
