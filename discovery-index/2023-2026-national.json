@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-08T00:19:00Z",
-  "total_releases": 4486,
+  "last_indexed_at": "2026-08-09T23:09:47Z",
+  "total_releases": 4488,
   "releases": {
     "2023-11": [
       {
@@ -22498,6 +22498,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-announces-further-sanctions-against-russia",
         "date": "2026-08-07T23:58:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-solar-farm-fast-tracked",
+        "date": "2026-08-09T22:44:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/500-schools-nationwide-selected-solar-panels",
+        "date": "2026-08-09T23:00:27Z",
         "content_type": "releases"
       }
     ]
