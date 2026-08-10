@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-09T23:09:47Z",
-  "total_releases": 4488,
+  "last_indexed_at": "2026-08-10T00:20:57Z",
+  "total_releases": 4490,
   "releases": {
     "2023-11": [
       {
@@ -22508,6 +22508,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/500-schools-nationwide-selected-solar-panels",
         "date": "2026-08-09T23:00:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/faster-support-young-people-central-lakes",
+        "date": "2026-08-09T23:19:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/delmore-residential-development-fast-tracked",
+        "date": "2026-08-10T00:02:56Z",
         "content_type": "releases"
       }
     ]
