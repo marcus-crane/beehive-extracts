@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-10T22:14:29Z",
-  "total_releases": 4494,
+  "last_indexed_at": "2026-08-10T23:13:40Z",
+  "total_releases": 4495,
   "releases": {
     "2023-11": [
       {
@@ -22538,6 +22538,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/more-1-million-taranaki-coastal-habitat-and-k%C5%8Dkako",
         "date": "2026-08-10T21:21:26Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/protecting-new-zealand%E2%80%99s-tourism-appeal",
+        "date": "2026-08-10T22:38:40Z",
         "content_type": "releases"
       }
     ]
