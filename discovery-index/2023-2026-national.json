@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-10T18:19:11Z",
-  "total_releases": 4492,
+  "last_indexed_at": "2026-08-10T22:14:29Z",
+  "total_releases": 4494,
   "releases": {
     "2023-11": [
       {
@@ -22528,6 +22528,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-consider-headstart-proposals",
         "date": "2026-08-10T18:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/auckland-level-crossing-removals-keep-moving-ahead",
+        "date": "2026-08-10T21:10:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-1-million-taranaki-coastal-habitat-and-k%C5%8Dkako",
+        "date": "2026-08-10T21:21:26Z",
         "content_type": "releases"
       }
     ]
