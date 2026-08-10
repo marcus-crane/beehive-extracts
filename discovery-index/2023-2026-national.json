@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-10T02:48:56Z",
-  "total_releases": 4491,
+  "last_indexed_at": "2026-08-10T18:19:11Z",
+  "total_releases": 4492,
   "releases": {
     "2023-11": [
       {
@@ -22523,6 +22523,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/open-ocean-salmon-farm-fast-tracked",
         "date": "2026-08-10T01:55:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-consider-headstart-proposals",
+        "date": "2026-08-10T18:00:00Z",
         "content_type": "releases"
       }
     ]
