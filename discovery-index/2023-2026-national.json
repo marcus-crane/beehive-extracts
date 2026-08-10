@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-10T00:20:57Z",
-  "total_releases": 4490,
+  "last_indexed_at": "2026-08-10T02:48:56Z",
+  "total_releases": 4491,
   "releases": {
     "2023-11": [
       {
@@ -22518,6 +22518,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/delmore-residential-development-fast-tracked",
         "date": "2026-08-10T00:02:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/open-ocean-salmon-farm-fast-tracked",
+        "date": "2026-08-10T01:55:20Z",
         "content_type": "releases"
       }
     ]
