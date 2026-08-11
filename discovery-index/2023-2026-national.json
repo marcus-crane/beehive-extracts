@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-11T21:18:46Z",
-  "total_releases": 4499,
+  "last_indexed_at": "2026-08-11T22:17:11Z",
+  "total_releases": 4500,
   "releases": {
     "2023-11": [
       {
@@ -22563,6 +22563,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/rif-funding-boosts-chatham-islands-connections",
         "date": "2026-08-11T21:03:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-attendance-service-re-enrolling-more-students-ever",
+        "date": "2026-08-11T21:55:35Z",
         "content_type": "releases"
       }
     ]
