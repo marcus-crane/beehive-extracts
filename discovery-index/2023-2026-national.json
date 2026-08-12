@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-12T04:36:11Z",
-  "total_releases": 4506,
+  "last_indexed_at": "2026-08-12T21:17:54Z",
+  "total_releases": 4507,
   "releases": {
     "2023-11": [
       {
@@ -22598,6 +22598,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/updated-science-and-social-sciences-curriculum-prepares-students-changing-world",
         "date": "2026-08-12T04:23:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/arlington-reset-deliver-104-new-social-homes",
+        "date": "2026-08-12T20:35:49Z",
         "content_type": "releases"
       }
     ]
