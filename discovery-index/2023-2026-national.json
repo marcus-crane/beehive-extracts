@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-12T21:17:54Z",
-  "total_releases": 4507,
+  "last_indexed_at": "2026-08-12T22:17:05Z",
+  "total_releases": 4508,
   "releases": {
     "2023-11": [
       {
@@ -22603,6 +22603,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/arlington-reset-deliver-104-new-social-homes",
         "date": "2026-08-12T20:35:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/otago-youth-turn-ambition-enterprise",
+        "date": "2026-08-12T21:29:50Z",
         "content_type": "releases"
       }
     ]
