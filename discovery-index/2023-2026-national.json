@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-12T02:55:09Z",
-  "total_releases": 4505,
+  "last_indexed_at": "2026-08-12T04:36:11Z",
+  "total_releases": 4506,
   "releases": {
     "2023-11": [
       {
@@ -22593,6 +22593,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/eight-new-emergency-helicopters-now-service",
         "date": "2026-08-12T01:09:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/updated-science-and-social-sciences-curriculum-prepares-students-changing-world",
+        "date": "2026-08-12T04:23:41Z",
         "content_type": "releases"
       }
     ]
