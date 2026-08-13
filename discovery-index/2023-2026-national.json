@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-13T01:34:53Z",
-  "total_releases": 4513,
+  "last_indexed_at": "2026-08-13T02:56:40Z",
+  "total_releases": 4515,
   "releases": {
     "2023-11": [
       {
@@ -22633,6 +22633,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/steady-growth-infrastructure-pipeline-update",
         "date": "2026-08-13T01:23:25Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/charter-school-rolls-grow-again-almost-18",
+        "date": "2026-08-13T01:32:05Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/backing-our-frontline-community-organisations",
+        "date": "2026-08-13T02:03:01Z",
         "content_type": "releases"
       }
     ]
