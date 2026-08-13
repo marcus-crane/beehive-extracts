@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-12T23:16:10Z",
-  "total_releases": 4509,
+  "last_indexed_at": "2026-08-13T00:25:11Z",
+  "total_releases": 4510,
   "releases": {
     "2023-11": [
       {
@@ -22613,6 +22613,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/brain-injury-rehabilitation-boost-christchurch",
         "date": "2026-08-12T22:21:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-delivers-more-support-children-complex-educational-needs",
+        "date": "2026-08-13T00:01:57Z",
         "content_type": "releases"
       }
     ]
