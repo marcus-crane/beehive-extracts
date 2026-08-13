@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-13T02:56:40Z",
-  "total_releases": 4515,
+  "last_indexed_at": "2026-08-13T04:38:00Z",
+  "total_releases": 4517,
   "releases": {
     "2023-11": [
       {
@@ -22643,6 +22643,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/backing-our-frontline-community-organisations",
         "date": "2026-08-13T02:03:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/puka-field-mining-permit-application-approved",
+        "date": "2026-08-13T03:56:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/faster-access-innovation-farmers-and-growers",
+        "date": "2026-08-13T04:02:23Z",
         "content_type": "releases"
       }
     ]
