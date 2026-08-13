@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-13T00:25:11Z",
-  "total_releases": 4510,
+  "last_indexed_at": "2026-08-13T01:34:53Z",
+  "total_releases": 4513,
   "releases": {
     "2023-11": [
       {
@@ -22618,6 +22618,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-delivers-more-support-children-complex-educational-needs",
         "date": "2026-08-13T00:01:57Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/disability-community-informs-improvements-dss-bill",
+        "date": "2026-08-13T01:09:42Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/young-kiwis-turn-weather-tragedies-triumph",
+        "date": "2026-08-13T01:14:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/steady-growth-infrastructure-pipeline-update",
+        "date": "2026-08-13T01:23:25Z",
         "content_type": "releases"
       }
     ]
