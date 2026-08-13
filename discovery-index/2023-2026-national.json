@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-13T20:13:30Z",
-  "total_releases": 4520,
+  "last_indexed_at": "2026-08-13T22:16:54Z",
+  "total_releases": 4521,
   "releases": {
     "2023-11": [
       {
@@ -22668,6 +22668,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/improving-infrastructure-tools-fast-track",
         "date": "2026-08-13T19:23:17Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/consultation-opens-hamilton-city-operative-district-plan-provisions",
+        "date": "2026-08-13T21:29:28Z",
         "content_type": "releases"
       }
     ]
