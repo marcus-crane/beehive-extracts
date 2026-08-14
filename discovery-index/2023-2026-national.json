@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-14T02:55:42Z",
-  "total_releases": 4525,
+  "last_indexed_at": "2026-08-14T03:46:51Z",
+  "total_releases": 4526,
   "releases": {
     "2023-11": [
       {
@@ -22693,6 +22693,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/foxton-solar-farm-fast-tracked",
         "date": "2026-08-14T02:12:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/overseas-visitor-numbers-keep-climbing",
+        "date": "2026-08-14T03:27:28Z",
         "content_type": "releases"
       }
     ]
