@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-14T01:34:23Z",
-  "total_releases": 4522,
+  "last_indexed_at": "2026-08-14T02:55:42Z",
+  "total_releases": 4525,
   "releases": {
     "2023-11": [
       {
@@ -22678,6 +22678,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/red-tape-tipline-continues-fixing-problems-no-one-else-will",
         "date": "2026-08-14T00:33:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/revised-plan-protection-and-management-sharks",
+        "date": "2026-08-14T01:56:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/auckland-youth-supported-stage-study",
+        "date": "2026-08-14T02:04:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/foxton-solar-farm-fast-tracked",
+        "date": "2026-08-14T02:12:04Z",
         "content_type": "releases"
       }
     ]
