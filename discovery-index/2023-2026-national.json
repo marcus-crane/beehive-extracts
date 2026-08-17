@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-17T05:15:48Z",
-  "total_releases": 4532,
+  "last_indexed_at": "2026-08-17T06:13:18Z",
+  "total_releases": 4533,
   "releases": {
     "2023-11": [
       {
@@ -22728,6 +22728,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-appoints-facilitator-restore-confidence-tair%C4%81whiti-forestry",
         "date": "2026-08-17T04:19:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ministerial-advisory-groups-report-welcomed",
+        "date": "2026-08-17T05:29:28Z",
         "content_type": "releases"
       }
     ]
