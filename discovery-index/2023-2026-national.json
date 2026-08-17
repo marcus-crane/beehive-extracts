@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-17T21:08:30Z",
-  "total_releases": 4535,
+  "last_indexed_at": "2026-08-17T23:06:49Z",
+  "total_releases": 4538,
   "releases": {
     "2023-11": [
       {
@@ -22701,6 +22701,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-and-viet-nam-deepen-education-connections",
+        "date": "2026-08-14T06:00:00Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/construction-begins-sh39-mangati-bridge",
         "date": "2026-08-16T23:44:13Z",
         "content_type": "releases"
@@ -22743,6 +22748,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/1000th-wagon-shows-hillside-back-work",
         "date": "2026-08-17T21:04:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-grant-poultry-industry-launches",
+        "date": "2026-08-17T21:56:31Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/permanent-chair-appointed-new-zealand-institute-advanced-technology",
+        "date": "2026-08-17T22:53:21Z",
         "content_type": "releases"
       }
     ]
