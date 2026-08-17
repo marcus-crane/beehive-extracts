@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-14T03:46:51Z",
-  "total_releases": 4526,
+  "last_indexed_at": "2026-08-17T00:13:30Z",
+  "total_releases": 4528,
   "releases": {
     "2023-11": [
       {
@@ -22698,6 +22698,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/overseas-visitor-numbers-keep-climbing",
         "date": "2026-08-14T03:27:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/construction-begins-sh39-mangati-bridge",
+        "date": "2026-08-16T23:44:13Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/emergency-waste-funding-grants-five-councils",
+        "date": "2026-08-17T00:06:59Z",
         "content_type": "releases"
       }
     ]
