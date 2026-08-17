@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-17T00:13:30Z",
-  "total_releases": 4528,
+  "last_indexed_at": "2026-08-17T02:29:24Z",
+  "total_releases": 4530,
   "releases": {
     "2023-11": [
       {
@@ -22708,6 +22708,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/emergency-waste-funding-grants-five-councils",
         "date": "2026-08-17T00:06:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-prioritises-solar-review",
+        "date": "2026-08-17T01:34:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/thailand-prime-minister-visit-new-zealand",
+        "date": "2026-08-17T01:59:43Z",
         "content_type": "releases"
       }
     ]
