@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-17T06:13:18Z",
-  "total_releases": 4533,
+  "last_indexed_at": "2026-08-17T21:08:30Z",
+  "total_releases": 4535,
   "releases": {
     "2023-11": [
       {
@@ -22733,6 +22733,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/ministerial-advisory-groups-report-welcomed",
         "date": "2026-08-17T05:29:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/17-million-chatham-islands-doc-community-fund",
+        "date": "2026-08-17T20:46:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/1000th-wagon-shows-hillside-back-work",
+        "date": "2026-08-17T21:04:43Z",
         "content_type": "releases"
       }
     ]
