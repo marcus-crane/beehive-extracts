@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-17T03:21:21Z",
-  "total_releases": 4531,
+  "last_indexed_at": "2026-08-17T05:15:48Z",
+  "total_releases": 4532,
   "releases": {
     "2023-11": [
       {
@@ -22723,6 +22723,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/next-steps-waitemat%C4%81-harbour-crossing",
         "date": "2026-08-17T03:00:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-appoints-facilitator-restore-confidence-tair%C4%81whiti-forestry",
+        "date": "2026-08-17T04:19:20Z",
         "content_type": "releases"
       }
     ]
