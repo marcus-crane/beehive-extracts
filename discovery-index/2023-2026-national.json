@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-17T02:29:24Z",
-  "total_releases": 4530,
+  "last_indexed_at": "2026-08-17T03:21:21Z",
+  "total_releases": 4531,
   "releases": {
     "2023-11": [
       {
@@ -22718,6 +22718,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/thailand-prime-minister-visit-new-zealand",
         "date": "2026-08-17T01:59:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/next-steps-waitemat%C4%81-harbour-crossing",
+        "date": "2026-08-17T03:00:23Z",
         "content_type": "releases"
       }
     ]
