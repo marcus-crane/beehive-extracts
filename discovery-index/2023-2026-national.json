@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-18T07:18:04Z",
-  "total_releases": 4544,
+  "last_indexed_at": "2026-08-18T10:08:55Z",
+  "total_releases": 4545,
   "releases": {
     "2023-11": [
       {
@@ -22788,6 +22788,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/court-fines-clampdown-shifts-overdrive",
         "date": "2026-08-18T06:13:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-clarifies-climate-change-tort-law",
+        "date": "2026-08-18T09:25:36Z",
         "content_type": "releases"
       }
     ]
