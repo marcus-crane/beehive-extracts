@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-18T00:13:49Z",
-  "total_releases": 4540,
+  "last_indexed_at": "2026-08-18T01:31:40Z",
+  "total_releases": 4541,
   "releases": {
     "2023-11": [
       {
@@ -22768,6 +22768,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/state-origin-2027-date-confirmed-major-events-momentum-continues",
         "date": "2026-08-17T23:46:03Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-backs-hawkes-bay-businesses-targeted-recovery-support",
+        "date": "2026-08-18T00:41:46Z",
         "content_type": "releases"
       }
     ]
