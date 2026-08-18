@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-18T10:08:55Z",
-  "total_releases": 4545,
+  "last_indexed_at": "2026-08-18T21:07:35Z",
+  "total_releases": 4546,
   "releases": {
     "2023-11": [
       {
@@ -22793,6 +22793,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-clarifies-climate-change-tort-law",
         "date": "2026-08-18T09:25:36Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/walls-go-%E2%80%93-classrooms-calm-down",
+        "date": "2026-08-18T20:28:29Z",
         "content_type": "releases"
       }
     ]
