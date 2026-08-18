@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-17T23:06:49Z",
-  "total_releases": 4538,
+  "last_indexed_at": "2026-08-18T00:13:49Z",
+  "total_releases": 4540,
   "releases": {
     "2023-11": [
       {
@@ -22758,6 +22758,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/permanent-chair-appointed-new-zealand-institute-advanced-technology",
         "date": "2026-08-17T22:53:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/fiordland-mountain-officially-named-mount-kirk",
+        "date": "2026-08-17T23:44:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/state-origin-2027-date-confirmed-major-events-momentum-continues",
+        "date": "2026-08-17T23:46:03Z",
         "content_type": "releases"
       }
     ]
