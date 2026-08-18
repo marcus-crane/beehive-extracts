@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-18T22:05:54Z",
-  "total_releases": 4547,
+  "last_indexed_at": "2026-08-18T23:07:14Z",
+  "total_releases": 4549,
   "releases": {
     "2023-11": [
       {
@@ -22803,6 +22803,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/doc-awards-92-million-boost-community-led-conservation",
         "date": "2026-08-18T21:31:23Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-820-homes-through-flexible-fund",
+        "date": "2026-08-18T21:33:44Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/pharmac-culture-continues-improve-and-get-more-transparent",
+        "date": "2026-08-18T23:03:10Z",
         "content_type": "releases"
       }
     ]
