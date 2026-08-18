@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-18T21:07:35Z",
-  "total_releases": 4546,
+  "last_indexed_at": "2026-08-18T22:05:54Z",
+  "total_releases": 4547,
   "releases": {
     "2023-11": [
       {
@@ -22798,6 +22798,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/walls-go-%E2%80%93-classrooms-calm-down",
         "date": "2026-08-18T20:28:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/doc-awards-92-million-boost-community-led-conservation",
+        "date": "2026-08-18T21:31:23Z",
         "content_type": "releases"
       }
     ]
