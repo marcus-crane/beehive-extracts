@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-18T03:19:18Z",
-  "total_releases": 4542,
+  "last_indexed_at": "2026-08-18T05:11:02Z",
+  "total_releases": 4543,
   "releases": {
     "2023-11": [
       {
@@ -22778,6 +22778,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-peer-led-beds-better-crisis-response",
         "date": "2026-08-18T02:27:51Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/te-here-%C4%81-nuku-nelson-tenths-bill-passes-third-reading",
+        "date": "2026-08-18T04:13:07Z",
         "content_type": "releases"
       }
     ]
