@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-19T01:31:54Z",
-  "total_releases": 4551,
+  "last_indexed_at": "2026-08-19T02:28:07Z",
+  "total_releases": 4552,
   "releases": {
     "2023-11": [
       {
@@ -22773,6 +22773,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-backs-hawkes-bay-businesses-targeted-recovery-support",
         "date": "2026-08-18T00:41:46Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ending-decade-long-wait-endometriosis-diagnosis",
+        "date": "2026-08-18T01:43:51Z",
         "content_type": "releases"
       },
       {
