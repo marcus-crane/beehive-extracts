@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-19T19:10:24Z",
-  "total_releases": 4558,
+  "last_indexed_at": "2026-08-19T23:07:26Z",
+  "total_releases": 4561,
   "releases": {
     "2023-11": [
       {
@@ -22858,6 +22858,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/agricultural-productivity-soar-drone-reform",
         "date": "2026-08-19T18:12:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/speech-building-nations",
+        "date": "2026-08-19T20:57:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/smarter-plan-aucklands-motorways",
+        "date": "2026-08-19T21:56:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-mental-health-facility-opens-rotorua",
+        "date": "2026-08-19T22:27:24Z",
         "content_type": "releases"
       }
     ]
