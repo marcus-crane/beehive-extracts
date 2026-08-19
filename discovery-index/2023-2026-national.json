@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-19T02:28:07Z",
-  "total_releases": 4552,
+  "last_indexed_at": "2026-08-19T04:15:43Z",
+  "total_releases": 4553,
   "releases": {
     "2023-11": [
       {
@@ -22828,6 +22828,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/network-efficiency-needed-more-affordable-power-govt-says",
         "date": "2026-08-19T00:11:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/decisions-freshwater-farm-plans-released",
+        "date": "2026-08-19T03:06:28Z",
         "content_type": "releases"
       }
     ]
