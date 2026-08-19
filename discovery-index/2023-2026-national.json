@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-19T06:11:15Z",
-  "total_releases": 4557,
+  "last_indexed_at": "2026-08-19T19:10:24Z",
+  "total_releases": 4558,
   "releases": {
     "2023-11": [
       {
@@ -22853,6 +22853,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/providing-certainty-marine-sector",
         "date": "2026-08-19T04:48:03Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/agricultural-productivity-soar-drone-reform",
+        "date": "2026-08-19T18:12:53Z",
         "content_type": "releases"
       }
     ]
