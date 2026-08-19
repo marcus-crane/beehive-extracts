@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-19T04:15:43Z",
-  "total_releases": 4553,
+  "last_indexed_at": "2026-08-19T05:11:25Z",
+  "total_releases": 4556,
   "releases": {
     "2023-11": [
       {
@@ -22833,6 +22833,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/decisions-freshwater-farm-plans-released",
         "date": "2026-08-19T03:06:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/achieving-competitive-urban-land-markets-new-system",
+        "date": "2026-08-19T04:40:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-practical-planning-system-food-and-fibre-production",
+        "date": "2026-08-19T04:41:55Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/providing-certainty-marine-sector",
+        "date": "2026-08-19T04:48:03Z",
         "content_type": "releases"
       }
     ]
