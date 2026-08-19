@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-19T00:13:07Z",
-  "total_releases": 4550,
+  "last_indexed_at": "2026-08-19T01:31:54Z",
+  "total_releases": 4551,
   "releases": {
     "2023-11": [
       {
@@ -22818,6 +22818,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/more-juice-blackcurrant-exports",
         "date": "2026-08-18T23:04:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/network-efficiency-needed-more-affordable-power-govt-says",
+        "date": "2026-08-19T00:11:07Z",
         "content_type": "releases"
       }
     ]
