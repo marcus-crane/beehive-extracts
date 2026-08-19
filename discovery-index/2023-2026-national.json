@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-18T23:07:14Z",
-  "total_releases": 4549,
+  "last_indexed_at": "2026-08-19T00:13:07Z",
+  "total_releases": 4550,
   "releases": {
     "2023-11": [
       {
@@ -22813,6 +22813,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/pharmac-culture-continues-improve-and-get-more-transparent",
         "date": "2026-08-18T23:03:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/more-juice-blackcurrant-exports",
+        "date": "2026-08-18T23:04:08Z",
         "content_type": "releases"
       }
     ]
