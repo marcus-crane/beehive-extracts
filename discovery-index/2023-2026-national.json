@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-19T05:11:25Z",
-  "total_releases": 4556,
+  "last_indexed_at": "2026-08-19T06:11:15Z",
+  "total_releases": 4557,
   "releases": {
     "2023-11": [
       {
@@ -22843,6 +22843,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/more-practical-planning-system-food-and-fibre-production",
         "date": "2026-08-19T04:41:55Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/certainty-waikato-and-manawat%C5%AB-whanganui-farmers",
+        "date": "2026-08-19T04:43:31Z",
         "content_type": "releases"
       },
       {
