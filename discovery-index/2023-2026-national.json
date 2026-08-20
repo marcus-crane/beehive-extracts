@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-19T23:07:26Z",
-  "total_releases": 4561,
+  "last_indexed_at": "2026-08-20T01:32:11Z",
+  "total_releases": 4562,
   "releases": {
     "2023-11": [
       {
@@ -22873,6 +22873,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-mental-health-facility-opens-rotorua",
         "date": "2026-08-19T22:27:24Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/building-future-data-rural-communities",
+        "date": "2026-08-19T23:25:44Z",
         "content_type": "releases"
       }
     ]
