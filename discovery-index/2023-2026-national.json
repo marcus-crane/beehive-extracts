@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-20T01:32:11Z",
-  "total_releases": 4562,
+  "last_indexed_at": "2026-08-20T02:28:55Z",
+  "total_releases": 4563,
   "releases": {
     "2023-11": [
       {
@@ -22878,6 +22878,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/building-future-data-rural-communities",
         "date": "2026-08-19T23:25:44Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/changes-emergency-management-legislation",
+        "date": "2026-08-20T01:33:39Z",
         "content_type": "releases"
       }
     ]
