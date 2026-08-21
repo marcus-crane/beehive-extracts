@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-21T00:15:01Z",
-  "total_releases": 4568,
+  "last_indexed_at": "2026-08-21T02:31:12Z",
+  "total_releases": 4571,
   "releases": {
     "2023-11": [
       {
@@ -22908,6 +22908,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/tobacco-sales-continue-fall",
         "date": "2026-08-20T23:26:04Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-and-thailand-launch-strategic-partnership",
+        "date": "2026-08-21T01:40:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-retain-clean-vehicle-standard",
+        "date": "2026-08-21T01:41:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-institute-advanced-technology-launches-auckland",
+        "date": "2026-08-21T01:53:53Z",
         "content_type": "releases"
       }
     ]
