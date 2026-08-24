@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-23T23:06:11Z",
-  "total_releases": 4573,
+  "last_indexed_at": "2026-08-24T00:14:15Z",
+  "total_releases": 4574,
   "releases": {
     "2023-11": [
       {
@@ -22933,6 +22933,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/minister-represent-nz-apec-food-security-meeting",
         "date": "2026-08-23T22:44:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/feedback-sought-whang%C4%81rei-harbour-scallops",
+        "date": "2026-08-23T23:06:17Z",
         "content_type": "releases"
       }
     ]
