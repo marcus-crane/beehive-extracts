@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-24T05:17:02Z",
-  "total_releases": 4575,
+  "last_indexed_at": "2026-08-24T21:09:27Z",
+  "total_releases": 4576,
   "releases": {
     "2023-11": [
       {
@@ -22943,6 +22943,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-moves-ban-u16s-social-media",
         "date": "2026-08-24T05:00:26Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/strong-candidates-appointed-inaugural-firearms-licensing-review-committee",
+        "date": "2026-08-24T20:11:48Z",
         "content_type": "releases"
       }
     ]
