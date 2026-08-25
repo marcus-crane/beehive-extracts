@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-25T01:31:57Z",
-  "total_releases": 4580,
+  "last_indexed_at": "2026-08-25T22:07:21Z",
+  "total_releases": 4581,
   "releases": {
     "2023-11": [
       {
@@ -22968,6 +22968,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-cap-rates",
         "date": "2026-08-25T01:11:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/50-more-acts-repeal",
+        "date": "2026-08-25T21:06:43Z",
         "content_type": "releases"
       }
     ]
