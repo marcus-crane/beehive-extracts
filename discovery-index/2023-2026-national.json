@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-26T06:12:36Z",
-  "total_releases": 4585,
+  "last_indexed_at": "2026-08-26T21:58:57Z",
+  "total_releases": 4586,
   "releases": {
     "2023-11": [
       {
@@ -22993,6 +22993,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/gender-pay-gap-stays-near-record-low",
         "date": "2026-08-26T03:52:52Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sh25-ramarama-stream-bridge-be-replaced",
+        "date": "2026-08-26T21:34:18Z",
         "content_type": "releases"
       }
     ]
