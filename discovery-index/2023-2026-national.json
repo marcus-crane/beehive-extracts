@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-26T00:14:53Z",
-  "total_releases": 4582,
+  "last_indexed_at": "2026-08-26T01:32:18Z",
+  "total_releases": 4583,
   "releases": {
     "2023-11": [
       {
@@ -22978,6 +22978,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/experienced-public-servant-lead-new-firearms-regulator",
         "date": "2026-08-25T23:21:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/community-job-coaching-reaches-milestone",
+        "date": "2026-08-26T00:23:52Z",
         "content_type": "releases"
       }
     ]
