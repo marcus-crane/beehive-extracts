@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-26T23:08:39Z",
-  "total_releases": 4587,
+  "last_indexed_at": "2026-08-27T01:34:26Z",
+  "total_releases": 4589,
   "releases": {
     "2023-11": [
       {
@@ -22996,6 +22996,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/putting-wine-waste-work",
+        "date": "2026-08-26T21:30:52Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/sh25-ramarama-stream-bridge-be-replaced",
         "date": "2026-08-26T21:34:18Z",
         "content_type": "releases"
@@ -23003,6 +23008,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/minerals-permit-backlog-cleared",
         "date": "2026-08-26T22:54:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kaitaia-crisis-recovery-caf%C3%A9-opens",
+        "date": "2026-08-27T00:13:10Z",
         "content_type": "releases"
       }
     ]
