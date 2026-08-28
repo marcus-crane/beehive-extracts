@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-27T22:23:30Z",
-  "total_releases": 4592,
+  "last_indexed_at": "2026-08-28T01:43:44Z",
+  "total_releases": 4594,
   "releases": {
     "2023-11": [
       {
@@ -23028,6 +23028,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/foreign-minister-visit-strengthens-ties-indonesia-0",
         "date": "2026-08-27T22:06:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-associate-high-court-judge-appointed-0",
+        "date": "2026-08-27T23:13:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/turnaround-plan-win-injured-new-zealanders",
+        "date": "2026-08-28T00:39:35Z",
         "content_type": "releases"
       }
     ]
