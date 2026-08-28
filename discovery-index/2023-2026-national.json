@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-28T07:37:45Z",
-  "total_releases": 4601,
+  "last_indexed_at": "2026-08-28T11:53:42Z",
+  "total_releases": 4602,
   "releases": {
     "2023-11": [
       {
@@ -23073,6 +23073,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/agritech-project-lift-apple-productivity",
         "date": "2026-08-28T06:00:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/improvements-made-welfare-system",
+        "date": "2026-08-28T09:33:32Z",
         "content_type": "releases"
       }
     ]
