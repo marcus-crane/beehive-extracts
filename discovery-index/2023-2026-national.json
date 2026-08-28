@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-28T01:43:44Z",
-  "total_releases": 4594,
+  "last_indexed_at": "2026-08-28T04:44:42Z",
+  "total_releases": 4599,
   "releases": {
     "2023-11": [
       {
@@ -23026,6 +23026,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/uae-trade-agreement-delivering-goods",
+        "date": "2026-08-27T21:30:24Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/foreign-minister-visit-strengthens-ties-indonesia-0",
         "date": "2026-08-27T22:06:19Z",
         "content_type": "releases"
@@ -23038,6 +23043,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/turnaround-plan-win-injured-new-zealanders",
         "date": "2026-08-28T00:39:35Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/realm-leaders-meet-auckland",
+        "date": "2026-08-28T02:13:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/final-amlcft-bill-targets-criminals-cuts-red-tape-kiwis",
+        "date": "2026-08-28T03:16:01Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/chinese-minister-visits-new-zealand-ministerial-climate-dialogue",
+        "date": "2026-08-28T04:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/laws-passed-strengthen-emergency-management-system",
+        "date": "2026-08-28T04:30:00Z",
         "content_type": "releases"
       }
     ]
