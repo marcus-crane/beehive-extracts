@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-28T04:44:42Z",
-  "total_releases": 4599,
+  "last_indexed_at": "2026-08-28T07:37:45Z",
+  "total_releases": 4601,
   "releases": {
     "2023-11": [
       {
@@ -23051,6 +23051,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/pm-and-foreign-affairs-minister-attend-pif",
+        "date": "2026-08-28T02:30:00Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/final-amlcft-bill-targets-criminals-cuts-red-tape-kiwis",
         "date": "2026-08-28T03:16:01Z",
         "content_type": "releases"
@@ -23063,6 +23068,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/laws-passed-strengthen-emergency-management-system",
         "date": "2026-08-28T04:30:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/agritech-project-lift-apple-productivity",
+        "date": "2026-08-28T06:00:41Z",
         "content_type": "releases"
       }
     ]
