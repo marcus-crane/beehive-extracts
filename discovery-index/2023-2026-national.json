@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-28T20:54:55Z",
-  "total_releases": 4603,
+  "last_indexed_at": "2026-08-28T23:09:04Z",
+  "total_releases": 4604,
   "releases": {
     "2023-11": [
       {
@@ -23083,6 +23083,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/tiaki-wai-spending-be-independently-scrutinised",
         "date": "2026-08-28T19:01:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/ships-ahoy-cruise-season-launches",
+        "date": "2026-08-28T23:03:40Z",
         "content_type": "releases"
       }
     ]
