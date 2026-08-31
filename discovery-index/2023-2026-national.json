@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-31T07:19:00Z",
-  "total_releases": 4608,
+  "last_indexed_at": "2026-08-31T22:10:34Z",
+  "total_releases": 4610,
   "releases": {
     "2023-11": [
       {
@@ -23031,6 +23031,11 @@
         "content_type": "releases"
       },
       {
+        "url": "https://www.beehive.govt.nz/release/new-dunedin-hospital-outpatient-building-officially-opens",
+        "date": "2026-08-27T21:57:42Z",
+        "content_type": "releases"
+      },
+      {
         "url": "https://www.beehive.govt.nz/release/foreign-minister-visit-strengthens-ties-indonesia-0",
         "date": "2026-08-27T22:06:19Z",
         "content_type": "releases"
@@ -23108,6 +23113,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/cutting-red-tape-between-farm-gate-and-freezer",
         "date": "2026-08-31T06:59:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/minister-sets-clear-expectations-new-ece-regulator",
+        "date": "2026-08-31T22:02:50Z",
         "content_type": "releases"
       }
     ]
