@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-31T04:14:44Z",
-  "total_releases": 4607,
+  "last_indexed_at": "2026-08-31T07:19:00Z",
+  "total_releases": 4608,
   "releases": {
     "2023-11": [
       {
@@ -23103,6 +23103,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/stable-credit-rating-vote-confidence",
         "date": "2026-08-31T03:18:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cutting-red-tape-between-farm-gate-and-freezer",
+        "date": "2026-08-31T06:59:29Z",
         "content_type": "releases"
       }
     ]
