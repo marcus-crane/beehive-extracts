@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-29T00:26:31Z",
-  "total_releases": 4605,
+  "last_indexed_at": "2026-08-31T04:14:44Z",
+  "total_releases": 4607,
   "releases": {
     "2023-11": [
       {
@@ -23093,6 +23093,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/digital-hunting-permit-system-hits-major-milestone",
         "date": "2026-08-28T23:47:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-cancels-fuel-tax-hike",
+        "date": "2026-08-31T03:16:43Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/stable-credit-rating-vote-confidence",
+        "date": "2026-08-31T03:18:50Z",
         "content_type": "releases"
       }
     ]
