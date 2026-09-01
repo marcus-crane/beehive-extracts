@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-01T10:12:40Z",
-  "total_releases": 4617,
+  "last_indexed_at": "2026-09-01T21:10:37Z",
+  "total_releases": 4620,
   "releases": {
     "2023-11": [
       {
@@ -23155,6 +23155,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/greater-powers-go-after-fraudsters",
         "date": "2026-09-01T09:50:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sod-turned-nelson-hospital%E2%80%99s-new-inpatient-building",
+        "date": "2026-09-01T20:39:41Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/opening-farm-gate-first-time-buyers",
+        "date": "2026-09-01T21:01:30Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-roadmap-supporting-unpaid-carers",
+        "date": "2026-09-01T21:05:19Z",
         "content_type": "releases"
       }
     ]
