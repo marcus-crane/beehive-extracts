@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-01T01:30:19Z",
-  "total_releases": 4612,
+  "last_indexed_at": "2026-09-01T03:14:51Z",
+  "total_releases": 4613,
   "releases": {
     "2023-11": [
       {
@@ -23130,6 +23130,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/united-states-cook-islands-and-new-zealand-announce-penrhyn-port-project",
         "date": "2026-09-01T00:43:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/backing-hauraki-rail-trail%E2%80%99s-recovery",
+        "date": "2026-09-01T02:23:51Z",
         "content_type": "releases"
       }
     ]
