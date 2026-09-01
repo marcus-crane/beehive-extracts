@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-08-31T22:10:34Z",
-  "total_releases": 4610,
+  "last_indexed_at": "2026-09-01T00:35:15Z",
+  "total_releases": 4611,
   "releases": {
     "2023-11": [
       {
@@ -23118,6 +23118,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/minister-sets-clear-expectations-new-ece-regulator",
         "date": "2026-08-31T22:02:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/flu-vaccine-funding-criteria-extended-today",
+        "date": "2026-08-31T23:47:45Z",
         "content_type": "releases"
       }
     ]
