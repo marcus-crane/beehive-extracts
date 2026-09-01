@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-01T08:16:22Z",
-  "total_releases": 4615,
+  "last_indexed_at": "2026-09-01T10:12:40Z",
+  "total_releases": 4617,
   "releases": {
     "2023-11": [
       {
@@ -23145,6 +23145,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/free-cervical-screening-all-women",
         "date": "2026-09-01T06:08:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/foundational-legislation-strengthens-support",
+        "date": "2026-09-01T09:01:28Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/greater-powers-go-after-fraudsters",
+        "date": "2026-09-01T09:50:21Z",
         "content_type": "releases"
       }
     ]
