@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-01T03:14:51Z",
-  "total_releases": 4613,
+  "last_indexed_at": "2026-09-01T06:21:18Z",
+  "total_releases": 4614,
   "releases": {
     "2023-11": [
       {
@@ -23135,6 +23135,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/backing-hauraki-rail-trail%E2%80%99s-recovery",
         "date": "2026-09-01T02:23:51Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/free-cervical-screening-all-women",
+        "date": "2026-09-01T06:08:02Z",
         "content_type": "releases"
       }
     ]
