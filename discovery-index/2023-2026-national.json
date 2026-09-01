@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-01T00:35:15Z",
-  "total_releases": 4611,
+  "last_indexed_at": "2026-09-01T01:30:19Z",
+  "total_releases": 4612,
   "releases": {
     "2023-11": [
       {
@@ -23123,6 +23123,13 @@
       {
         "url": "https://www.beehive.govt.nz/release/flu-vaccine-funding-criteria-extended-today",
         "date": "2026-08-31T23:47:45Z",
+        "content_type": "releases"
+      }
+    ],
+    "2026-09": [
+      {
+        "url": "https://www.beehive.govt.nz/release/united-states-cook-islands-and-new-zealand-announce-penrhyn-port-project",
+        "date": "2026-09-01T00:43:00Z",
         "content_type": "releases"
       }
     ]
