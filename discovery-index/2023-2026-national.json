@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-02T02:32:48Z",
-  "total_releases": 4624,
+  "last_indexed_at": "2026-09-02T03:14:00Z",
+  "total_releases": 4626,
   "releases": {
     "2023-11": [
       {
@@ -23190,6 +23190,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/restoration-project-revive-southern-scallops",
         "date": "2026-09-02T02:21:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cer-trade-and-tourism-ministers-discuss-greater-cooperation",
+        "date": "2026-09-02T02:42:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/increasing-resilience-economy-welcomed",
+        "date": "2026-09-02T02:47:22Z",
         "content_type": "releases"
       }
     ]
