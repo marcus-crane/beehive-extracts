@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-02T00:29:57Z",
-  "total_releases": 4622,
+  "last_indexed_at": "2026-09-02T02:32:48Z",
+  "total_releases": 4624,
   "releases": {
     "2023-11": [
       {
@@ -23180,6 +23180,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/brighter-future-derelict-mit-sites-%C5%8Dtara",
         "date": "2026-09-01T23:20:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/nz-welcomes-us-energy-support-pacific",
+        "date": "2026-09-02T01:52:14Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/restoration-project-revive-southern-scallops",
+        "date": "2026-09-02T02:21:20Z",
         "content_type": "releases"
       }
     ]
