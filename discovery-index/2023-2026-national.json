@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-02T03:14:00Z",
-  "total_releases": 4626,
+  "last_indexed_at": "2026-09-02T10:12:42Z",
+  "total_releases": 4627,
   "releases": {
     "2023-11": [
       {
@@ -23200,6 +23200,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/increasing-resilience-economy-welcomed",
         "date": "2026-09-02T02:47:22Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-lifejacket-legislation-save-lives",
+        "date": "2026-09-02T10:00:56Z",
         "content_type": "releases"
       }
     ]
