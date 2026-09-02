@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-01T23:09:56Z",
-  "total_releases": 4621,
+  "last_indexed_at": "2026-09-02T00:29:57Z",
+  "total_releases": 4622,
   "releases": {
     "2023-11": [
       {
@@ -23175,6 +23175,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/independent-review-released-moa-point-plant-failure",
         "date": "2026-09-01T23:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/brighter-future-derelict-mit-sites-%C5%8Dtara",
+        "date": "2026-09-01T23:20:00Z",
         "content_type": "releases"
       }
     ]
