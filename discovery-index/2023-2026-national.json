@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-03T00:30:44Z",
-  "total_releases": 4634,
+  "last_indexed_at": "2026-09-03T01:26:57Z",
+  "total_releases": 4635,
   "releases": {
     "2023-11": [
       {
@@ -23240,6 +23240,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/community-trust-board-members-appointed",
         "date": "2026-09-02T23:25:59Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/crown-settles-ng%C4%81ti-ruapani-mai-waikaremoana",
+        "date": "2026-09-03T00:43:29Z",
         "content_type": "releases"
       }
     ]
