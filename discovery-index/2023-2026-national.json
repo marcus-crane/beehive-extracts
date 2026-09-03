@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-03T21:10:31Z",
-  "total_releases": 4636,
+  "last_indexed_at": "2026-09-03T22:10:47Z",
+  "total_releases": 4638,
   "releases": {
     "2023-11": [
       {
@@ -23250,6 +23250,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/stronger-safety-measures-children%E2%80%99s-sand-products",
         "date": "2026-09-03T21:00:58Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-begins-pacific-leadership-role",
+        "date": "2026-09-03T21:34:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/medsafe-approves-new-innovative-ptsd-treatment",
+        "date": "2026-09-03T21:43:10Z",
         "content_type": "releases"
       }
     ]
