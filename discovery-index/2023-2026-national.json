@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-02T23:10:06Z",
-  "total_releases": 4630,
+  "last_indexed_at": "2026-09-03T00:30:44Z",
+  "total_releases": 4634,
   "releases": {
     "2023-11": [
       {
@@ -23220,6 +23220,26 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-board-member-appointed-maritime-nz",
         "date": "2026-09-02T22:22:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/faster-access-addiction-support-now-available",
+        "date": "2026-09-02T23:03:08Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/crown-settles-ng%C4%81-hap%C5%AB-o-te-iwi-o-whanganui",
+        "date": "2026-09-02T23:10:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/single-point-contact-simplifies-state-redress-survivors",
+        "date": "2026-09-02T23:21:48Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/community-trust-board-members-appointed",
+        "date": "2026-09-02T23:25:59Z",
         "content_type": "releases"
       }
     ]
