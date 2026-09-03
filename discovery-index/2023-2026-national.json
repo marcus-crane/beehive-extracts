@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-03T22:10:47Z",
-  "total_releases": 4638,
+  "last_indexed_at": "2026-09-03T23:09:32Z",
+  "total_releases": 4639,
   "releases": {
     "2023-11": [
       {
@@ -23260,6 +23260,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/medsafe-approves-new-innovative-ptsd-treatment",
         "date": "2026-09-03T21:43:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/international-education-exports-surge-past-pre-covid-levels",
+        "date": "2026-09-03T22:31:10Z",
         "content_type": "releases"
       }
     ]
