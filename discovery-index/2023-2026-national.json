@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-04T01:18:36Z",
-  "total_releases": 4642,
+  "last_indexed_at": "2026-09-04T02:15:41Z",
+  "total_releases": 4644,
   "releases": {
     "2023-11": [
       {
@@ -23280,6 +23280,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/north-west-rapid-transit-project-fast-tracked",
         "date": "2026-09-04T00:23:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/mdf-investments-strengthen-m%C4%81ori-enterprise-build-lasting-prosperity",
+        "date": "2026-09-04T01:38:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-funding-whangamarino-wetland-insect-heavyweight",
+        "date": "2026-09-04T01:49:27Z",
         "content_type": "releases"
       }
     ]
