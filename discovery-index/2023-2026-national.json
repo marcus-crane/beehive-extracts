@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-04T03:13:18Z",
-  "total_releases": 4645,
+  "last_indexed_at": "2026-09-04T21:09:44Z",
+  "total_releases": 4646,
   "releases": {
     "2023-11": [
       {
@@ -23295,6 +23295,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/cer-trade-ministers-strengthen-single-economic-market-agenda",
         "date": "2026-09-04T02:41:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/backing-pasifika-youth-lead-create-and-succeed",
+        "date": "2026-09-04T21:00:00Z",
         "content_type": "releases"
       }
     ]
