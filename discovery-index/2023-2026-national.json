@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-04T02:15:41Z",
-  "total_releases": 4644,
+  "last_indexed_at": "2026-09-04T03:13:18Z",
+  "total_releases": 4645,
   "releases": {
     "2023-11": [
       {
@@ -23290,6 +23290,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-funding-whangamarino-wetland-insect-heavyweight",
         "date": "2026-09-04T01:49:27Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cer-trade-ministers-strengthen-single-economic-market-agenda",
+        "date": "2026-09-04T02:41:12Z",
         "content_type": "releases"
       }
     ]
