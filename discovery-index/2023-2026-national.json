@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-04T00:27:21Z",
-  "total_releases": 4641,
+  "last_indexed_at": "2026-09-04T01:18:36Z",
+  "total_releases": 4642,
   "releases": {
     "2023-11": [
       {
@@ -23275,6 +23275,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/registered-counsellor-appointed-minister%E2%80%99s-arms-advisory-group",
         "date": "2026-09-03T23:40:51Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/north-west-rapid-transit-project-fast-tracked",
+        "date": "2026-09-04T00:23:00Z",
         "content_type": "releases"
       }
     ]
