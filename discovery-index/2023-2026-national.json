@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-03T23:09:32Z",
-  "total_releases": 4639,
+  "last_indexed_at": "2026-09-04T00:27:21Z",
+  "total_releases": 4641,
   "releases": {
     "2023-11": [
       {
@@ -23265,6 +23265,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/international-education-exports-surge-past-pre-covid-levels",
         "date": "2026-09-03T22:31:10Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/district-court-judge-appointed-28",
+        "date": "2026-09-03T23:38:57Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/registered-counsellor-appointed-minister%E2%80%99s-arms-advisory-group",
+        "date": "2026-09-03T23:40:51Z",
         "content_type": "releases"
       }
     ]
