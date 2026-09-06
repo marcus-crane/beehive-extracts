@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-04T21:09:44Z",
-  "total_releases": 4646,
+  "last_indexed_at": "2026-09-06T20:10:33Z",
+  "total_releases": 4647,
   "releases": {
     "2023-11": [
       {
@@ -23300,6 +23300,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/backing-pasifika-youth-lead-create-and-succeed",
         "date": "2026-09-04T21:00:00Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/first-two-gas-security-fund-projects-announced",
+        "date": "2026-09-06T20:01:56Z",
         "content_type": "releases"
       }
     ]
