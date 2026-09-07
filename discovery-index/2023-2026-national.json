@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-07T05:12:13Z",
-  "total_releases": 4654,
+  "last_indexed_at": "2026-09-07T20:10:56Z",
+  "total_releases": 4655,
   "releases": {
     "2023-11": [
       {
@@ -23340,6 +23340,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/more-visitors-set-discover-regional-new-zealand",
         "date": "2026-09-07T04:17:29Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/government-backs-taranaki-economy-jobs",
+        "date": "2026-09-07T20:06:05Z",
         "content_type": "releases"
       }
     ]
