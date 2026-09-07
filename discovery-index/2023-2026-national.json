@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-07T22:10:26Z",
-  "total_releases": 4656,
+  "last_indexed_at": "2026-09-07T23:10:56Z",
+  "total_releases": 4658,
   "releases": {
     "2023-11": [
       {
@@ -23350,6 +23350,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/road-renewal-investment-through-national-land-transport-fund-continues",
         "date": "2026-09-07T21:17:54Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-zealand-secures-prestigious-psa-squash-world-championships",
+        "date": "2026-09-07T22:53:12Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/free-online-food-safety-training-benefits-thousands",
+        "date": "2026-09-07T23:01:37Z",
         "content_type": "releases"
       }
     ]
