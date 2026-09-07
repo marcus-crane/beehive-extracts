@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-07T02:16:58Z",
-  "total_releases": 4652,
+  "last_indexed_at": "2026-09-07T03:14:23Z",
+  "total_releases": 4653,
   "releases": {
     "2023-11": [
       {
@@ -23330,6 +23330,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-mental-health-facility-west-coast",
         "date": "2026-09-07T01:32:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-diplomatic-appointments-announced-0",
+        "date": "2026-09-07T03:03:20Z",
         "content_type": "releases"
       }
     ]
