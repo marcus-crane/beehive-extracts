@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-07T20:10:56Z",
-  "total_releases": 4655,
+  "last_indexed_at": "2026-09-07T22:10:26Z",
+  "total_releases": 4656,
   "releases": {
     "2023-11": [
       {
@@ -23345,6 +23345,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/government-backs-taranaki-economy-jobs",
         "date": "2026-09-07T20:06:05Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/road-renewal-investment-through-national-land-transport-fund-continues",
+        "date": "2026-09-07T21:17:54Z",
         "content_type": "releases"
       }
     ]
