@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-08T01:22:19Z",
-  "total_releases": 4662,
+  "last_indexed_at": "2026-09-08T03:13:26Z",
+  "total_releases": 4663,
   "releases": {
     "2023-11": [
       {
@@ -23380,6 +23380,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-zealand-continues-its-support-ukraine",
         "date": "2026-09-08T01:07:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/wills-month-%E2%80%94-generosity-across-generations",
+        "date": "2026-09-08T02:36:46Z",
         "content_type": "releases"
       }
     ]
