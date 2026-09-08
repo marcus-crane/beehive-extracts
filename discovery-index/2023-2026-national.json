@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-08T08:15:39Z",
-  "total_releases": 4665,
+  "last_indexed_at": "2026-09-08T22:10:16Z",
+  "total_releases": 4668,
   "releases": {
     "2023-11": [
       {
@@ -23395,6 +23395,21 @@
       {
         "url": "https://www.beehive.govt.nz/release/results-stabilise-more-work-do",
         "date": "2026-09-08T07:31:02Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/disadvantaged-students-drive-significant-closing-education-equity-gap",
+        "date": "2026-09-08T21:08:20Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sh39-symes-bridge-upgrade-getting-underway",
+        "date": "2026-09-08T21:31:06Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sh1-%C5%8Dtaika-pedestrian-crossing-be-upgraded",
+        "date": "2026-09-08T21:32:09Z",
         "content_type": "releases"
       }
     ]
