@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-08T07:12:07Z",
-  "total_releases": 4664,
+  "last_indexed_at": "2026-09-08T08:15:39Z",
+  "total_releases": 4665,
   "releases": {
     "2023-11": [
       {
@@ -23390,6 +23390,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/aip-visa-growth-category-expands-support-build-rent",
         "date": "2026-09-08T06:24:19Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/results-stabilise-more-work-do",
+        "date": "2026-09-08T07:31:02Z",
         "content_type": "releases"
       }
     ]
