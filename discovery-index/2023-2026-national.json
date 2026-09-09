@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-09T22:09:55Z",
-  "total_releases": 4679,
+  "last_indexed_at": "2026-09-09T23:10:10Z",
+  "total_releases": 4680,
   "releases": {
     "2023-11": [
       {
@@ -23465,6 +23465,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/kiwisaver-report-highlights-continued-growth",
         "date": "2026-09-09T21:58:09Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/overseas-investment-applications-made-cheaper",
+        "date": "2026-09-09T22:52:57Z",
         "content_type": "releases"
       }
     ]
