@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-09T21:09:39Z",
-  "total_releases": 4677,
+  "last_indexed_at": "2026-09-09T22:09:55Z",
+  "total_releases": 4679,
   "releases": {
     "2023-11": [
       {
@@ -23455,6 +23455,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/design-work-progresses-three-regional-hospitals",
         "date": "2026-09-09T20:47:38Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/investment-improve-visitor-facilities-great-ride",
+        "date": "2026-09-09T21:39:53Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kiwisaver-report-highlights-continued-growth",
+        "date": "2026-09-09T21:58:09Z",
         "content_type": "releases"
       }
     ]
