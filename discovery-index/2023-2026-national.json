@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-09T20:11:28Z",
-  "total_releases": 4676,
+  "last_indexed_at": "2026-09-09T21:09:39Z",
+  "total_releases": 4677,
   "releases": {
     "2023-11": [
       {
@@ -23450,6 +23450,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/investment-preserve-waitangi-treaty-grounds",
         "date": "2026-09-09T20:04:45Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/design-work-progresses-three-regional-hospitals",
+        "date": "2026-09-09T20:47:38Z",
         "content_type": "releases"
       }
     ]
