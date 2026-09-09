@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-09T01:21:39Z",
-  "total_releases": 4671,
+  "last_indexed_at": "2026-09-09T02:15:31Z",
+  "total_releases": 4672,
   "releases": {
     "2023-11": [
       {
@@ -23425,6 +23425,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/hospitality-industry-served-regulatory-relief",
         "date": "2026-09-09T00:43:51Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/guardians-board-member-reappointed",
+        "date": "2026-09-09T01:41:11Z",
         "content_type": "releases"
       }
     ]
