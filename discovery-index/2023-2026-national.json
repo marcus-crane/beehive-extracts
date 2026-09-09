@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-09T00:30:38Z",
-  "total_releases": 4670,
+  "last_indexed_at": "2026-09-09T01:21:39Z",
+  "total_releases": 4671,
   "releases": {
     "2023-11": [
       {
@@ -23420,6 +23420,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/reducing-child-and-youth-offending-through-sport-and-recreation-0",
         "date": "2026-09-08T22:30:47Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/hospitality-industry-served-regulatory-relief",
+        "date": "2026-09-09T00:43:51Z",
         "content_type": "releases"
       }
     ]
