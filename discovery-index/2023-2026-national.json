@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-09T02:15:31Z",
-  "total_releases": 4672,
+  "last_indexed_at": "2026-09-09T04:13:10Z",
+  "total_releases": 4674,
   "releases": {
     "2023-11": [
       {
@@ -23430,6 +23430,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/guardians-board-member-reappointed",
         "date": "2026-09-09T01:41:11Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/construction-waiouru-defence-force-homes-begin",
+        "date": "2026-09-09T03:13:16Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/cabinet-approves-extension-tauranga-landslides-inquiry",
+        "date": "2026-09-09T03:46:45Z",
         "content_type": "releases"
       }
     ]
