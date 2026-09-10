@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-09T23:10:10Z",
-  "total_releases": 4680,
+  "last_indexed_at": "2026-09-10T00:27:54Z",
+  "total_releases": 4681,
   "releases": {
     "2023-11": [
       {
@@ -23470,6 +23470,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/overseas-investment-applications-made-cheaper",
         "date": "2026-09-09T22:52:57Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/making-difference-family-violence",
+        "date": "2026-09-09T23:30:50Z",
         "content_type": "releases"
       }
     ]
