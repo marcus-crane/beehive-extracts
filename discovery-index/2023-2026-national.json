@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-10T04:13:12Z",
-  "total_releases": 4682,
+  "last_indexed_at": "2026-09-10T05:11:34Z",
+  "total_releases": 4683,
   "releases": {
     "2023-11": [
       {
@@ -23480,6 +23480,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/new-records-show-energy-policies-are-delivering",
         "date": "2026-09-10T04:02:21Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/tax-bill-lower-costs-and-simplify-rules",
+        "date": "2026-09-10T04:54:49Z",
         "content_type": "releases"
       }
     ]
