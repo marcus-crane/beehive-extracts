@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-10T05:11:34Z",
-  "total_releases": 4683,
+  "last_indexed_at": "2026-09-10T21:09:22Z",
+  "total_releases": 4684,
   "releases": {
     "2023-11": [
       {
@@ -23485,6 +23485,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/tax-bill-lower-costs-and-simplify-rules",
         "date": "2026-09-10T04:54:49Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/investment-will-divert-tonnes-waste-taup%C5%8D-landfill",
+        "date": "2026-09-10T20:25:08Z",
         "content_type": "releases"
       }
     ]
