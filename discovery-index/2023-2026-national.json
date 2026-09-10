@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-10T00:27:54Z",
-  "total_releases": 4681,
+  "last_indexed_at": "2026-09-10T04:13:12Z",
+  "total_releases": 4682,
   "releases": {
     "2023-11": [
       {
@@ -23475,6 +23475,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/making-difference-family-violence",
         "date": "2026-09-09T23:30:50Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-records-show-energy-policies-are-delivering",
+        "date": "2026-09-10T04:02:21Z",
         "content_type": "releases"
       }
     ]
