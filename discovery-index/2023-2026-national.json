@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-11T21:10:06Z",
-  "total_releases": 4692,
+  "last_indexed_at": "2026-09-11T22:10:09Z",
+  "total_releases": 4693,
   "releases": {
     "2023-11": [
       {
@@ -23530,6 +23530,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/diagnostics-target-exceeded-waitlists-fall-21-cent",
         "date": "2026-09-11T20:24:07Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/kaik%C5%8Dura-benefit-ivl-investment",
+        "date": "2026-09-11T21:32:37Z",
         "content_type": "releases"
       }
     ]
