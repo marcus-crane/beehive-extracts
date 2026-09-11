@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-11T00:29:27Z",
-  "total_releases": 4688,
+  "last_indexed_at": "2026-09-11T01:20:13Z",
+  "total_releases": 4689,
   "releases": {
     "2023-11": [
       {
@@ -23510,6 +23510,11 @@
       {
         "url": "https://www.beehive.govt.nz/release/members-appointed-auckland%E2%80%99s-new-regional-transport-committee",
         "date": "2026-09-10T23:33:56Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/alcohol-licenses-use-common-sense",
+        "date": "2026-09-11T00:33:37Z",
         "content_type": "releases"
       }
     ]
