@@ -1,7 +1,7 @@
 {
   "government": "National-ACT-NZ First Coalition",
-  "last_indexed_at": "2026-09-11T01:20:13Z",
-  "total_releases": 4689,
+  "last_indexed_at": "2026-09-11T03:13:34Z",
+  "total_releases": 4691,
   "releases": {
     "2023-11": [
       {
@@ -23515,6 +23515,16 @@
       {
         "url": "https://www.beehive.govt.nz/release/alcohol-licenses-use-common-sense",
         "date": "2026-09-11T00:33:37Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/new-child-health-centre-and-carpark-open-whang%C4%81rei-hospital",
+        "date": "2026-09-11T02:48:32Z",
+        "content_type": "releases"
+      },
+      {
+        "url": "https://www.beehive.govt.nz/release/sod-turned-whang%C4%81rei-hospital-redevelopment",
+        "date": "2026-09-11T02:50:26Z",
         "content_type": "releases"
       }
     ]
